@@ -1,0 +1,41 @@
+key,decision,reason,tier,note
+doi:10.1109/icsme64153.2025.00069,exclude,EC3,,'LLM-based C-to-Rust translation' of code snippets; no repository-level translation
+doi:10.1002/smr.2723,exclude,EC6,,'In this position paper' on LLM use for science
+doi:10.18653/v1/2023.acl-long.45,exclude,EC3,,'competitive programming task'; APPS/HumanEval isolated generation
+doi:10.18653/v1/2024.acl-long.269,exclude,EC3,,"'competitive problem solving'; HumanEval, MBPP, APPS benchmarks"
+doi:10.1145/3643916.3644418,exclude,EC3,,'programming competition-level problems'; isolated generation
+doi:10.1145/3691620.3695506,exclude,EC3,,"PairCoder on standalone 'code generation benchmarks', pass@1"
+doi:10.1145/3674805.3690756,exclude,EC6,,Review of 'current advances in using Rust in Kernel'
+doi:10.1145/3717061,exclude,EC3,,RAG to 'generate code snippets' from NL; no repository context
+doi:10.63317/3agxr3ouzo5m,exclude,EC8,,No abstract; title 'Evaluate Thought Steps' ambiguous
+doi:10.1109/icpc66645.2025.00035,exclude,EC4,,'code summarization' produces natural language descriptions
+doi:10.1145/3746027.3755425,unsure,,core,'Model Diagram-to-Code' reconstructs research model implementation; multi-agent; repo scope unclear
+doi:10.1145/3789667,exclude,EC4,,'bug question retrieval' task; output not code
+doi:10.1145/3806007.3810968,exclude,EC4,,"'CVE-based Software Security Benchmark'; security assessment, not repo generation"
+doi:10.3390/computers15090625,exclude,EC1,,'migrate a repository' RSA to ML-DSA; in-place migration of existing repo
+doi:10.64898/2026.09.19.752880,exclude,EC0,,'data curation' framework with AI agents; not code generation research
+doi:10.1145/3803633.3803662,exclude,EC4,,No abstract; 'Formal Specification Generation' for testing; not source code
+doi:10.1145/3610721,exclude,EC3,,Copilot security in '89 different scenarios'; snippet completion
+doi:10.1145/3708519,exclude,EC6,,Perspective article: 'forward looking view' on automatic programming
+doi:10.1109/tetc.2024.3471684,exclude,EC5,,'software aging' in DBMS; not LLM-based
+doi:10.1109/qrs57517.2022.00112,exclude,EC5,,'software aging of object detection algorithms'; not LLM-based
+doi:10.1145/3697090.3699798,exclude,EC5,,No abstract; 'Machine Learning Algorithms for Detecting Software Aging'
+doi:10.1109/globalaisummit62156.2024.10947773,exclude,EC0,,General discussion 'AI-powered code era'; no repository-level generation
+doi:10.5753/wtf.2026.23233,unsure,,core,'Python applications generated with ChatGPT' from BaxBench; empirical study of generated apps
+doi:10.1109/access.2022.3196347,exclude,EC6,,'Systematic Review' of ML code generation
+doi:10.1109/issre62328.2024.00030,exclude,EC3,,"Copilot performance on 'HumanEval, AixBench, and MBPP'"
+doi:10.1109/ms.2024.3428439,exclude,EC6,,'gray literature review' on code review
+doi:10.1109/icaice63571.2024.10863866,exclude,EC4,,'test case generation and selection'; output tests
+doi:10.48550/arxiv.2306.00029,exclude,EC0,,'one-stop Transformer library' toolkit; not repo generation study
+doi:10.48550/arxiv.2306.10194,exclude,EC6,,'comprehensive literature review' on AI for technical debt
+doi:10.1109/la-cci62337.2024.10814750,exclude,EC0,,'first-year programming course' education experience
+doi:10.1109/exp.at2565440.2025.11348476,exclude,EC0,,'student feedback' on AI tools in education
+doi:10.1145/3793302.3793596,exclude,EC1,,'AI-authored pull requests' to existing mobile repositories
+doi:10.1145/3551349.3559555,exclude,EC4,,'project-specific code-summarization'; output not code
+doi:10.1109/icse48619.2023.00125,exclude,EC1,,'Automated program repair' with code language models
+doi:10.1145/3597503.3623343,exclude,EC4,,'generate valid input programs for fuzzing' DL libraries
+doi:10.1109/icse48619.2023.00180,exclude,EC0,,'empirical comparison of 19 pre-trained models' across SE tasks
+doi:10.1109/ase56229.2023.00193,exclude,EC4,,'CAT-LM' generates test code
+doi:10.1109/saner53432.2022.00112,exclude,EC4,,'automatic code summarization' with foundation models
+doi:10.1007/978-3-031-56957-9_7,exclude,EC8,,No abstract; 'LLM-Based Code Generation ... Genetic Improvement' ambiguous
+doi:10.1109/icicc71012.2026.11638044,exclude,EC8,,No abstract; 'Code Autocompletion and Optimization' ambiguous

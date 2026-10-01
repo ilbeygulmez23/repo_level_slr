@@ -1,0 +1,9 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2308.00352,MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,include,core,"""multi-agent collaborative framework"" generating software via SOPs [snowball r2]",slr/data/fulltext/arxiv_2308.00352.txt
+doi:10.1145/3795154.3795362,A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices,include,core,"'requirements into deployable cloud-native microservices', CloudDevBench [snowball r2]",
+doi:10.1007/s10515-025-00570-0,A systematic exploration of C-to-rust code translation based on large language models: prompt strategies and automated repair,unsure,core,"""C-to-rust code translation based on LLMs""; granularity unknown, no abstract [snowball r2]",
+doi:10.1109/compsac65507.2025.00158,C2RustTV: An LLM-based Framework for C to Rust Translation and Validation,unsure,core,"""legacy C codebases"" LLM translation with conformance testing; scale unclear [snowball r2]",
+doi:10.1007/s40747-025-02051-z,Collaborative LLM agents for flexible software development of intelligent industrial robot control systems,unsure,core,multi-agent 'automates software development' for robot control systems [snowball r2],
+doi:10.1007/978-3-032-07612-0_24,From C to Rust: Evaluating LLM Capabilities in Transpilation Through Compilation Errors,unsure,core,"""Evaluating LLM Capabilities in Transpilation"" C-to-Rust; no abstract [snowball r2]",
+doi:10.1145/3728941,Porting Software Libraries to OpenHarmony: Transitioning from TypeScript or JavaScript to ArkTS,include,core,"""project-level automatic code adaptation"" porting TS/JS libraries with LLMs [snowball r2]",
+doi:10.1109/ase63991.2025.00051,RustAssure: Differential Symbolic Testing for LLM-Transpiled C-to-Rust Code,unsure,core,"""transpile existing C code-bases to Rust"" with LLMs; function-level eval [snowball r2]",

@@ -1,0 +1,9 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2308.00352,include,,core,nl-to-app,method;benchmark,Python,human;build-run;nonfunctional;reference-unit-tests,ICLR 2024,"SOP-driven multi-agent framework; SoftwareDev 70 tasks (7 evaluated), ~5 files/app, human executability 1-4; also HumanEval/MBPP pass@1"
+doi:10.1145/3795154.3795362,include,,core,nl-to-app,method;benchmark,unspecified,reference-unit-tests;build-run;other,ACM proceedings 2025,no full text; CloudMAS requirements->microservices+frontend+IaC; CloudDevBench 50 tasks with test suites; compile/test/deployment success reported
+doi:10.1007/s10515-025-00570-0,exclude,EC8,,,,,,Automated Software Engineering 2025,no full text and no abstract; C-to-Rust granularity and evaluation undecidable
+doi:10.1109/compsac65507.2025.00158,exclude,EC8,,,,,,COMPSAC 2025,no full text; C program translation with conformance tests but granularity (program vs codebase) and datasets unspecified
+doi:10.1007/s40747-025-02051-z,exclude,EC8,,,,,,Complex & Intelligent Systems 2025,no full text; multi-agent robot control software via low-code platform; artefact form/multi-file nature and evaluation metrics unclear
+doi:10.1007/978-3-032-07612-0_24,exclude,EC8,,,,,,LNCS 2025,no full text and no abstract; C-to-Rust transpilation granularity undecidable
+doi:10.1145/3728941,exclude,EC1,,,,,,FSE 2025 (PACMSE),"ArkAdapter: fixes syntax mismatches to port existing TS/JS libraries to ArkTS dialect; in-place adaptation of existing repo, not generation"
+doi:10.1109/ase63991.2025.00051,include,,core,repo-translation,method,C;Rust,differential-oracle;build-run,ASE 2025,"no full text; C codebases -> Rust, 5 real-world apps/libs; 89.8% functions compile, 72% symbolically equivalent; function-level metrics only"

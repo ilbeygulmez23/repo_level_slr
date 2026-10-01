@@ -1,0 +1,26 @@
+key,title,fulltext_path
+arxiv:2604.09388,The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems,slr/data/fulltext/arxiv_2604.09388.txt
+doi:10.1109/re59067.2024.00049,Requirements are All You Need: From Requirements to Code with LLMs,slr/data/fulltext/doi_10.1109_re59067.2024.00049.txt
+arxiv:2604.03622,Toward Executable Repository-Level Code Generation via Environment Alignment,slr/data/fulltext/arxiv_2604.03622.txt
+doi:10.18653/v1/2025.naacl-long.7,CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases,slr/data/fulltext/doi_10.18653_v1_2025.naacl-long.7.txt
+arxiv:2401.07339,CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges,slr/data/fulltext/arxiv_2401.07339.txt
+arxiv:2406.03283,CatCoder : Repository-Level Code Generation with Relevant Code and Type Context,slr/data/fulltext/arxiv_2406.03283.txt
+arxiv:2605.06068,VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?,slr/data/fulltext/arxiv_2605.06068.txt
+arxiv:2606.19988,Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning,slr/data/fulltext/arxiv_2606.19988.txt
+arxiv:2601.02430,WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics,slr/data/fulltext/arxiv_2601.02430.txt
+doi:10.1145/3729287,Program Skeletons for Automated Program Translation,slr/data/fulltext/doi_10.1145_3729287.txt
+arxiv:2508.07180,Code2Bench: Scaling Source and Rigor for Dynamic Benchmark Construction,slr/data/fulltext/arxiv_2508.07180.txt
+arxiv:2511.07584,SemanticForge: Repository-Level Code Generation through Semantic Knowledge Graphs and Constraint Satisfaction,slr/data/fulltext/arxiv_2511.07584.txt
+doi:10.1109/compsac65507.2025.00175,Empowering AI to Generate Better AI Code: Guided Generation of Deep Learning Projects with LLMs,slr/data/fulltext/doi_10.1109_compsac65507.2025.00175.txt
+arxiv:2505.21577,RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving,slr/data/fulltext/arxiv_2505.21577.txt
+arxiv:2511.21878,Advancing Automated In-Isolation Validation in Repository-Level Code Translation,slr/data/fulltext/arxiv_2511.21878.txt
+arxiv:2508.20263,Athena: Intermediate Representations for Iterative Scaffolded App Generation with an LLM,slr/data/fulltext/arxiv_2508.20263.txt
+arxiv:2412.01769,Commit0: Library Generation from Scratch,slr/data/fulltext/arxiv_2412.01769.txt
+arxiv:2609.32459,Beyond the Model: Demystifying Harness Effects in Software Engineering Agents,slr/data/fulltext/arxiv_2609.32459.txt
+arxiv:2410.21647,Can Language Models Replace Programmers for Coding? REPOCOD Says ‘Not Yet’,slr/data/fulltext/arxiv_2410.21647.txt
+arxiv:2304.07590,Self-Collaboration Code Generation via ChatGPT,slr/data/fulltext/arxiv_2304.07590.txt
+arxiv:2609.21293,GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development,slr/data/fulltext/arxiv_2609.21293.txt
+arxiv:2406.11612,Long Code Arena: a Set of Benchmarks for Long-Context Code Models,slr/data/fulltext/arxiv_2406.11612.txt
+doi:10.54254/2755-2721/2026.31609,Exploration of AI Software Generation Methods Based on Work Flow Knowledge and Domain Constraints,slr/data/fulltext/doi_10.54254_2755-2721_2026.31609.txt
+arxiv:2608.23564,"SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",slr/data/fulltext/arxiv_2608.23564.txt
+arxiv:2603.00897,Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study,slr/data/fulltext/arxiv_2603.00897.txt

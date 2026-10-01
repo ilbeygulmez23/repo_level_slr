@@ -1,0 +1,20 @@
+title,doi,year
+SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories,10.1145/3786181.3788703,2026
+RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices,10.1145/3797106,2026
+STALL + : Boosting LLM-based Repository-level Code Completion with Static Analysis,10.1145/3846180,2026
+RepoGenix: Dual Context-Aided Repository-Level Code Completion with Language Models,10.1145/3691620.3695331,2024
+CatCoder : Repository-Level Code Generation with Relevant Code and Type Context,10.1145/3779217,2025
+Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond,10.1145/3797144,2026
+In Line with Context: Repository-Level Code Generation via Context Inlining,10.1145/3797094,2026
+API-Repo: API-centric Repository-level Code Completion,10.1145/3755881.3755913,2025
+Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation,10.1145/3714462,2025
+RepoMind: Enhancing Repository-Level Code Generation via LLM Reasoning over Structured Repository Documentation,10.1145/3794763.3794823,2026
+RepoScope: Leveraging Call Chain-Aware Multi-View Context for Repository-Level Code Generation,10.1145/3744916.3773211,2026
+One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation,10.1145/3808138,2026
+Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling,10.1145/3817056,2026
+RepoGuard: Harmonising Security and Functional Correctness in LLM-Guided Repository-Level Code Generation,10.1145/3803291.3803376,2026
+Experimental Analysis of Productive Interaction Strategy with ChatGPT: User Study on Function and Project-level Code Generation Tasks,10.1145/3844949,2026
+GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph,10.1145/3691620.3695054,2024
+Large Language Model-Aware In-Context Learning for Code Generation,10.1145/3715908,2025
+LLM-Assisted Repository-Level Generation with Structured Spec-Driven Engineering,10.1145/3803437.3805567,2026
+MigrationBench: Repository-Level Code Migration Benchmark from Java 8,10.1145/3770855.3817526,2026

@@ -1,0 +1,26 @@
+key,title,fulltext_path
+arxiv:2508.04125,Experimental Analysis of Productive Interaction Strategy with ChatGPT: User Study on Function and Project-level Code Generation Tasks,slr/data/fulltext/arxiv_2508.04125.txt
+arxiv:2603.23633,"Detect--Repair--Verify for LLM-Generated Code: A Multi-Language, Multi-Granularity Empirical Study",slr/data/fulltext/arxiv_2603.23633.txt
+arxiv:2510.14509,E2EDev: Benchmarking Large Language Models in End-to-End Software Development Task,slr/data/fulltext/arxiv_2510.14509.txt
+arxiv:2406.14497,CodeRAG-Bench: Can Retrieval Augment Code Generation?,slr/data/fulltext/arxiv_2406.14497.txt
+arxiv:2604.06373,Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects,slr/data/fulltext/arxiv_2604.06373.txt
+doi:10.1145/3797148,Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs during Code Adaptation,slr/data/fulltext/doi_10.1145_3797148.txt
+arxiv:2604.17187,"React-ing to Grace Hopper 200: Five Open-Weights Coding Models, One React Native App, One GH200, One Weekend",slr/data/fulltext/arxiv_2604.17187.txt
+arxiv:2608.27906,Rubric-to-Code Credit Assignment for Reinforcement Learning,slr/data/fulltext/arxiv_2608.27906.txt
+arxiv:2606.03907,The Impact of Configuring Agentic AI Coding Tools on Build-vs-Buy Decisions: A Study Protocol,slr/data/fulltext/arxiv_2606.03907.txt
+arxiv:2509.16198,RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation,slr/data/fulltext/arxiv_2509.16198.txt
+doi:10.1109/clusterworkshops61563.2024.00029,LASSI: An LLM-Based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes,slr/data/fulltext/doi_10.1109_clusterworkshops61563.2024.00029.txt
+arxiv:2605.06136,BUILD-AND-FIND: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases,slr/data/fulltext/arxiv_2605.06136.txt
+arxiv:2511.18274,Clinician-Directed Large Language Model Software Generation for Therapeutic Interventions in Physical Rehabilitation,slr/data/fulltext/arxiv_2511.18274.txt
+arxiv:2508.14104,You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation,slr/data/fulltext/arxiv_2508.14104.txt
+doi:10.18653/v1/2024.acl-long.810,ChatDev: Communicative Agents for Software Development,slr/data/fulltext/doi_10.18653_v1_2024.acl-long.810.txt
+arxiv:2509.22644,WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning,slr/data/fulltext/arxiv_2509.22644.txt
+doi:10.55056/ceur-ws.org/vol-4164/paper13.pdf,AI-Facilitated Software Project Generation from Natural Language Using Curated Code Snippets,slr/data/fulltext/doi_10.55056_ceur-ws.org_vol-4164_paper13.pdf.txt
+doi:10.1145/3702987,Empowering Agile-Based Generative Software Development through Human-AI Teamwork,slr/data/fulltext/doi_10.1145_3702987.txt
+arxiv:2503.22688,CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation,slr/data/fulltext/arxiv_2503.22688.txt
+arxiv:2509.25297,Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development,slr/data/fulltext/arxiv_2509.25297.txt
+doi:10.1145/3744916.3773271,Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark,slr/data/fulltext/doi_10.1145_3744916.3773271.txt
+doi:10.24963/ijcai.2025/848,Can We Translate Code Better with LLMs and Call Graph Analysis?,slr/data/fulltext/doi_10.24963_ijcai.2025_848.txt
+arxiv:2512.18080,From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems,slr/data/fulltext/arxiv_2512.18080.txt
+arxiv:2406.10263,A Lightweight Framework for Adaptive Retrieval In Code Completion With Critique Model,slr/data/fulltext/arxiv_2406.10263.txt
+arxiv:2606.31159,An Empirical Study of Security Calibration in Large Language Models for Code,slr/data/fulltext/arxiv_2606.31159.txt

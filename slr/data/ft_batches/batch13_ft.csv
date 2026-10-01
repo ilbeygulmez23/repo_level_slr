@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2601.13240,include,,contextual,repo-context-gen,benchmark;empirical,Python,reference-unit-tests,preprint,"131 core functions in 25 framework-based projects with knowledge corpus; unit tests; project-level only qualitative (appendix), so contextual"
+arxiv:2604.24678,exclude,EC1,,,,,,EASE 2026,NL instruction edits existing DSL project snapshot (create/add/delete features); mostly similarity metrics
+doi:10.3390/fi18090471,include,,core,repo-translation,empirical;method,C;Rust,differential-oracle;reference-unit-tests;nonfunctional,Future Internet 2026,"no full text; whole cJSON library ported C->Rust by 5 LLMs agentically; CVE tests, differential fuzzing, Miri, benchmarks; single library"
+arxiv:2605.02455,exclude,EC6,,,,,,FSE Companion 2026,"self-described vision paper; 5-page pilot (Gherkin+domain model -> MVC controllers, 3 systems) serves roadmap"
+arxiv:2601.03708,exclude,EC2,,,,,,,hardware repo-level completion evaluated by EM/ES/CodeBLEU and compilation only; no executable tests
+arxiv:2607.27146,include,,core,behavioral-reconstruction,training-data;method,Go;Rust;C;C++,generated-tests;differential-oracle,preprint,"562 source-free CLI environments, 1,001 GLM-5.2 trajectories; SFT Qwen3.6-27B: ProgramBench 37.98->49.51%; also NL2Repo, RepoZero"
+arxiv:2607.26805,include,,contextual,repo-context-gen,method,Python,reference-unit-tests;nonfunctional,preprint,"map-reduce context selection with draft model; CoderEval Python + DevEval Pass@1, token/time efficiency"
+doi:10.1145/3808138,exclude,EC8,,,,,,FSE 2026 (PACMSE),"no full text; empirical study of context engineering for repo-level generation, but benchmarks and test-based evaluation not stated in abstract"
+arxiv:2609.02272,include,,core,paper-to-repo,method,Python,llm-judge,preprint,"paper -> compiled repo-level specs -> repository; Paper2CodeBench 90 papers; o3-mini judge only, no execution"
+arxiv:2604.03632,include,,core,nl-to-repo,method,Python,reference-unit-tests;nonfunctional,preprint,"LiveCoder cross-attempt state on RAL-Bench and NL2Repo-Bench, 4 frontier LLMs; functional test pass rate also drives best-repo selection"
+arxiv:2605.03546,include,,core,behavioral-reconstruction,benchmark;empirical,multi,generated-tests;differential-oracle,preprint,"200 executables+docs -> rebuild codebase; agent-generated behavioural tests validated on gold binary; 0% resolved, best 3% almost"
+arxiv:2607.08691,include,,contextual,repo-context-gen,method,Python,reference-unit-tests,preprint,procedural-similarity retrieval agent; REPOCOD 980 tasks Pass@1 41.14% vs SpecAgent 34.52%; single backbone Qwen2.5-Coder-14B

@@ -1,0 +1,7 @@
+db,family,run_date,hits,notes
+acm,F1,2026-09-30,48,export paywalled; first results page saved as HTML (19 of 48 records); metadata via OpenAlex; unresolved DOIs: 0
+acm,F2,2026-09-30,25,export paywalled; first results page saved as HTML (20 of 25 records); metadata via OpenAlex; unresolved DOIs: 0
+acm,F3,2026-09-30,12,export paywalled; first results page saved as HTML (12 of 12 records); metadata via OpenAlex; unresolved DOIs: 0
+ieee,F1,2026-09-30,54,hits assumed = exported rows (year filter 2022-2026); CONFIRM with user
+ieee,F2,2026-09-30,39,hits assumed = exported rows (year filter 2022-2026); CONFIRM with user
+ieee,F3,2026-09-30,48,hits assumed = exported rows (year filter 2022-2026); CONFIRM with user

@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2403.16792,Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback,include,contextual,"CoCoGen ""generating code dependent on the project context""",slr/data/fulltext/arxiv_2403.16792.txt
+arxiv:2406.12902,JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models,include,core,"""project-level Java benchmark"", code skeleton, test suites",slr/data/fulltext/arxiv_2406.12902.txt
+arxiv:2409.20550,"LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation",include,contextual,"empirical study of hallucinations in ""repository-level generation""",slr/data/fulltext/arxiv_2409.20550.txt
+arxiv:2406.11612,Long Code Arena: a Set of Benchmarks for Long-Context Code Models,unsure,contextual,"suite incl. ""library-based code generation"", project-level completion",slr/data/fulltext/arxiv_2406.11612.txt
+arxiv:2410.19245,MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming,unsure,core,"multi-agent ""integrates project-level code""",slr/data/fulltext/arxiv_2410.19245.txt
+arxiv:2406.11927,On the Impacts of Contexts on Repository-Level Code Generation,include,contextual,"RepoExec ""executability, functional correctness"", cross-file contexts",slr/data/fulltext/arxiv_2406.11927.txt
+arxiv:2403.10059,Repoformer: Selective Retrieval for Repository-Level Code Completion,unsure,contextual,"selective RAG on ""RepoEval"" incl. function completion",slr/data/fulltext/arxiv_2403.10059.txt
+arxiv:2412.17744,RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation,include,core,"""translating an entire code repository"", executable tests",slr/data/fulltext/arxiv_2412.17744.txt
+arxiv:2409.00921,Statically Contextualizing Large Language Models with Typed Holes,unsure,contextual,"""codebase-wide contextual information""; MVUBench with ""unit tests""",slr/data/fulltext/arxiv_2409.00921.txt
+arxiv:2401.06391,Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation,include,contextual,"ToolGen ""repository-level code generation"", CoderEval Pass@1",slr/data/fulltext/arxiv_2401.06391.txt
+arxiv:2412.08109,Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar,include,contextual,"OBFUSEVAL ""context dependencies"", ""official test suites""",slr/data/fulltext/arxiv_2412.08109.txt
+arxiv:2511.21878,Advancing Automated In-Isolation Validation in Repository-Level Code Translation,include,core,"""Repository-level code translation aims to migrate entire repositories""",slr/data/fulltext/arxiv_2511.21878.txt

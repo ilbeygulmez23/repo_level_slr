@@ -1,0 +1,84 @@
+key,rid,year,venue,title
+arxiv:2601.13240,R0622,2026,Underline Science Inc.,KoCo-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?
+doi:10.48448/hsp0-9w87,R0628,2026,Underline Science Inc.,Late Code Chunking: A Code Chunking Strategy for Repository-Level Code Completion
+arxiv:2603.26664,R0629,2026,arXiv (Cornell University),Learning to Commit: Generating Organic Pull Requests via Online Repository Memory
+doi:10.1145/3786583.3786872,R0631,2026,,"Less Effort, More Productivity: Lessons Learned from Developing Millions of Lines of Code with Large Language Model"
+doi:10.3390/app16104788,R0632,2026,Applied Sciences,Levels of Automated Code Generation (LACG): An Operational Taxonomy for AI-Augmented Software Construction
+arxiv:2604.24678,R0634,2026,Figshare,Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study
+doi:10.3390/fi18090471,R0636,2026,Future Internet,LLM-Assisted Porting of Security-Critical C Libraries to Idiomatic Rust: A Multi-Model Empirical Study
+arxiv:2605.02455,R0637,2026,,LLM-Assisted Repository-Level Generation with Structured Spec-Driven Engineering
+doi:10.6084/m9.figshare.32568777.v2,R0638,2026,Figshare,LLM-based-GA-code-generation
+doi:10.5281/zenodo.19343195,R0646,2026,Zenodo (CERN European Organization for Nuclear Research),MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair
+doi:10.5281/zenodo.20360523,R0647,2026,Zenodo (CERN European Organization for Nuclear Research),MAXTOKEN A Unified Framework for Unbounded Output Generation and Repository-Scale Code Understanding
+arxiv:2601.03708,R0650,2026,arXiv (Cornell University),MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion benchmark
+arxiv:2505.09569,R0652,2026,,MigrationBench: Repository-Level Code Migration Benchmark from Java 8
+arxiv:2607.27146,R0653,2026,arXiv (Cornell University),MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis
+arxiv:2607.26805,R0660,2026,arXiv (Cornell University),MRCoder: An Efficient Context Selecting Approach for Repository-Level Code Generation
+arxiv:2608.03474,R0662,2026,arXiv (Cornell University),MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification
+doi:10.5281/zenodo.21795285,R0669,2026,Zenodo (CERN European Organization for Nuclear Research),Odysseus: A Zero-Data Deterministic Meta-Compiler for Natural Language to Standalone Executable Synthesis
+doi:10.1145/3808138,R0672,2026,Proceedings of the ACM on software engineering.,One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation
+arxiv:2604.13725,R0673,2026,arXiv (Cornell University),On the Effectiveness of Context Compression for Repository-Level Tasks: An Empirical Investigation
+arxiv:2609.02272,R0677,2026,arXiv (Cornell University),PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation
+arxiv:2602.10808,R0679,2026,arXiv (Cornell University),PELLI: Framework to effectively integrate LLMs for quality software generation
+arxiv:2604.03632,R0680,2026,arXiv (Cornell University),Persistent Cross-Attempt State Optimization for Repository-Level Code Generation
+arxiv:2605.03546,R0686,2026,arXiv (Cornell University),ProgramBench: Can Language Models Rebuild Programs From Scratch?
+arxiv:2607.08691,R0688,2026,arXiv (Cornell University),ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation
+arxiv:2602.01655,R0689,2026,arXiv (Cornell University),ProjDevBench: Benchmarking AI Coding Agents on End-to-End Project Development
+arxiv:2608.05225,R0690,2026,arXiv (Cornell University),Project2Task: Graph-Guided Project-Level Planning for Autonomous Research
+doi:10.6084/m9.figshare.31890751.v2,R0691,2026,Figshare,ProjectGen & CodeProjectEval
+doi:10.1016/j.softx.2026.102636,R0696,2026,SoftwareX,RAGdeterm: Deterministic retrieval-augmented generation for code generation
+arxiv:2409.15204,R0698,2026,Information and Software Technology,Rambo: Enhancing RAG-based repository-level method body completion
+arxiv:2601.22706,R0700,2026,,RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories
+arxiv:2604.07341,R0701,2026,arXiv (Cornell University),ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories
+arxiv:2605.14563,R0705,2026,arXiv (Cornell University),Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation
+arxiv:2608.19854,R0712,2026,arXiv (Cornell University),Repo0: Design-Driven Zero-to-All Code Generation
+doi:10.1016/j.scico.2026.103477,R0713,2026,Science of Computer Programming,RepoAI: Automated code refactoring through multi-agent LLM orchestration and retrieval-augmented generation
+arxiv:2601.13943,R0714,2026,Underline Science Inc.,RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository
+doi:10.1145/3803291.3803376,R0715,2026,,RepoGuard: Harmonising Security and Functional Correctness in LLM-Guided Repository-Level Code Generation
+doi:10.1145/3794763.3794823,R0716,2026,,RepoMind: Enhancing Repository-Level Code Generation via LLM Reasoning over Structured Repository Documentation
+arxiv:2602.22518,R0717,2026,arXiv (Cornell University),RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing
+arxiv:2607.01213,R0719,2026,arXiv (Cornell University),RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue
+arxiv:2507.14791,R0720,2026,,RepoScope: Leveraging Call Chain-Aware Multi-View Context for Repository-Level Code Generation
+arxiv:2606.19988,R0721,2026,arXiv (Cornell University),Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning
+arxiv:2605.07122,R0722,2026,arXiv (Cornell University),RepoZero: Can LLMs Generate a Code Repository from Scratch?
+arxiv:2607.06411,R0728,2026,arXiv (Cornell University),RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications
+arxiv:2605.17526,R0730,2026,arXiv (Cornell University),SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering
+arxiv:2504.21205,R0733,2026,,SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories
+doi:10.48448/20gs-ff95,R0734,2026,Underline Science Inc.,SeDev: Structured Semantic Exploration for LLM-Driven Code Generation
+doi:10.55041/ijsrem63072,R0736,2026,INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT,"Smart Developer Assistant (SDA): An AI-Driven Multi-Agent Framework for Automated Code Generation, Debugging, and Documentation"
+doi:10.1007/s11265-026-02000-0,R0740,2026,Journal of Signal Processing Systems,Software Generation for Embedded Systems with Low-Cost LLMs: An Energy Evaluation Discussion
+arxiv:2601.23009,R0742,2026,arXiv (Cornell University),SolAgent: A Specialized Multi-Agent Framework for Solidity Code Generation
+arxiv:2607.27167,R0746,2026,arXiv (Cornell University),SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch
+doi:10.5281/zenodo.20709565,R0749,2026,Zenodo (CERN European Organization for Nuclear Research),"State, Not Tokens: Repository-Scale Agent Reasoning Is Bound by State Architecture"
+doi:10.1007/978-981-95-7078-2_43,R0750,2026,Lecture notes in computer science,StructuralCoder: Repository Structure Based RAG for Repository-Level Code Completion
+arxiv:2505.13073,R0751,2026,,Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion
+doi:10.5281/zenodo.22895390,R0752,2026,Zenodo (CERN European Organization for Nuclear Research),Structure-Aware Dependency Retrieval for Repository-Level Code Completion via Graph Attention
+arxiv:2603.03823,R0753,2026,arXiv (Cornell University),SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration
+arxiv:2605.13139,R0754,2026,arXiv (Cornell University),SWE-Cycle: Benchmarking Code Agents across the Complete Issue Resolution Cycle
+arxiv:2602.03712,R0756,2026,arXiv (Cornell University),SWE-Refactor: A Repository-Level Benchmark for Real-World LLM-Based Code Refactoring
+arxiv:2608.23564,R0757,2026,arXiv (Cornell University),"SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?"
+arxiv:2608.16742,R0764,2026,arXiv (Cornell University),TDD-Agent: Test-Driven Reasoning for Code Generation
+doi:10.5281/zenodo.21766297,R0767,2026,Zenodo (CERN European Organization for Nuclear Research),TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation
+doi:10.5281/zenodo.18817776,R0773,2026,Zenodo (CERN European Organization for Nuclear Research),The ARMER Framework: A Holistic Evaluation Benchmark for Autonomous AI Coding Agents
+arxiv:2606.27045,R0787,2026,arXiv (Cornell University),"The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development"
+arxiv:2606.08135,R0791,2026,arXiv (Cornell University),TICoder: A Repository-Level Code Generation Framework with Test-Driven Planning and Implementation-Aware Reuse
+arxiv:2604.03622,R0793,2026,arXiv (Cornell University),Toward Executable Repository-Level Code Generation via Environment Alignment
+arxiv:2602.03462,R0794,2026,arXiv (Cornell University),Toward Functional and Non-Functional Evaluation of Application-Level Code Generation
+doi:10.1016/j.neucom.2026.133204,R0796,2026,Neurocomputing,Towards multi-language repository-level code generation: From-scratch to guided tasks
+arxiv:2607.18886,R0800,2026,arXiv (Cornell University),TraceDev: A Traceability-Driven Multi-agent Framework for Requirement-to-Code Development
+doi:10.70917/ijcisim-2026-4917,R0802,2026,International Journal of Computer Information Systems and Industrial Management Applications,TriArchitect: A Shared-State Multi-Agent Framework for Safe Java Code Migration
+arxiv:2605.26017,R0804,2026,arXiv (Cornell University),Trustworthy Software Project Generation : a Case Study with an Interactive Theorem Prover
+arxiv:2607.06306,R0806,2026,arXiv (Cornell University),UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation
+doi:10.55041/isjem07720,R0811,2026,International Scientific Journal of Engineering and Management,VDA-SDLC: Validation-Driven Adaptive Agentic Software Development Life Cycle Framework for Autonomous Software Engineering
+arxiv:2608.13522,R0812,2026,arXiv (Cornell University),Vero: Can AI Agents Build Formally Verified Software Repositories?
+arxiv:2603.04601,R0813,2026,,Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development
+arxiv:2605.06068,R0814,2026,arXiv (Cornell University),VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?
+arxiv:2601.02430,R0818,2026,,WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics
+arxiv:2609.15387,R0819,2026,arXiv (Cornell University),WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective
+arxiv:2607.10621,R0820,2026,arXiv (Cornell University),WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation
+arxiv:2604.20398,R0821,2026,arXiv (Cornell University),WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
+arxiv:2607.09691,R0822,2026,SSRN Electronic Journal,What Context Does a Coding Agent Actually Need to Act?
+doi:10.1007/s11432-025-4632-8,R0824,2026,Science China Information Sciences,What is wrong with your code generated by large language models? An extensive study
+arxiv:2503.20589,R0826,2026,,What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond
+arxiv:2605.14478,R0829,2026,arXiv (Cornell University),When Retrieval Hurts Code Completion: A Diagnostic Study of Stale Repository Context
+arxiv:2609.00568,R0832,2026,arXiv (Cornell University),WiseSpec: Requirements-Driven Agents for Code Generation

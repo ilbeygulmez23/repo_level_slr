@@ -1,0 +1,26 @@
+key,decision,reason,tier,justification
+arxiv:2508.04125,exclude,EC3,,"Notebook tasks with 5-7 classes; user study of prompting, not multi-file repository generation."
+arxiv:2603.23633,exclude,EC1,,Detect-repair-verify of vulnerabilities in existing generated apps; repair focus.
+arxiv:2510.14509,include,,core,"Benchmark: requirements to complete software, BDD end-to-end tests."
+arxiv:2406.14497,include,,contextual,RAG code gen benchmark; RepoEval repository-level function tasks with executed tests reported separately.
+arxiv:2604.06373,include,,core,Empirical study: Cursor generates 10 multi-file projects (~114 files); functional and design evaluation.
+doi:10.1145/3797148,exclude,EC3,,ClassEval-based class-level adaptation bugs; no repository dependency.
+arxiv:2604.17187,include,,core,Empirical comparison of five models generating a multi-file React Native app from one prompt.
+arxiv:2608.27906,exclude,EC3,,Single HTML/CSS/JS app generation RL; single-file application.
+arxiv:2606.03907,exclude,EC1,,"Protocol only; tasks add features to staged existing projects, measuring library choice."
+arxiv:2509.16198,include,,core,ZeroRepo generates whole repositories from specs; RepoCraft benchmark with tests.
+doi:10.1109/clusterworkshops61563.2024.00029,exclude,EC3,,Translates single GPU benchmark programs between OpenMP and CUDA; no repository.
+arxiv:2605.06136,include,,core,Builder agents generate repositories from spec; protocol evaluates intent recoverability from artefacts.
+arxiv:2511.18274,exclude,EC3,,"LLM converts prescriptions into exercise software; single-script output, clinical feasibility study."
+arxiv:2508.14104,include,,core,Benchmark of 194 repository-from-scratch tasks with agent GUI-testing evaluation.
+doi:10.18653/v1/2024.acl-long.810,include,,core,"Multi-agent framework generating complete multi-file software, evaluated on executability and completeness."
+arxiv:2509.22644,include,,core,"Website codebase generation agent with GUI-agent feedback, Step-GRPO training; WebGen-Bench."
+doi:10.55056/ceur-ws.org/vol-4164/paper13.pdf,exclude,EC4,,"Evaluates snippet relevance prediction, no code generated."
+doi:10.1145/3702987,include,,core,AgileGen generates multi-file (html/css/js) web apps from Gherkin acceptance criteria; evaluated.
+arxiv:2503.22688,include,,contextual,"Multi-turn instruction following with repository context (DevEval), test-case verified."
+arxiv:2509.25297,include,,core,TDDev multi-agent full-stack web app generation with executable tests.
+doi:10.1145/3744916.3773271,exclude,EC2,,"Function-level tasks with dependencies, evaluated by CodeBLEU; execution metrics explicitly omitted."
+doi:10.24963/ijcai.2025/848,include,,core,Repository translation using call graphs; evaluated on Commons CLI and Click projects.
+arxiv:2512.18080,include,,core,Benchmark and study of prompt-to-app platforms generating full-stack web apps; human evaluation.
+arxiv:2406.10263,include,,contextual,"Adaptive retrieval for repository completion; function completion evaluated by tests, line/API by similarity."
+arxiv:2606.31159,include,,contextual,Repository-level generation (AICGSecEval) with project test suites; calibration study of security and function.

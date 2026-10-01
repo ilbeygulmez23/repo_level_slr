@@ -1,0 +1,31 @@
+key,year,venue,n_seeds,title
+doi:10.1145/3805712.3808374,2026,,1,C 3 Flow: SIMD-Style Concurrent Claude Code Workflow for Scaling Deep Research
+doi:10.1109/icera72709.2026.11666599,2026,,1,Containing the Cascade: A Benchmark and Reference Mediator for Failure Propagation in Tool-Using LLM Multi-Agent Systems
+doi:10.1109/icstw72326.2026.00018,2026,,1,Automated Black-Box Testing: A Comparative Study of LLM Agent Architectures and Prompt Engineering
+doi:10.1109/icst69053.2026.00037,2026,,1,Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering
+doi:10.1145/3803437.3806715,2026,,1,Fairness in Multi-Agent Systems for Software Engineering: An SDLC-Oriented Rapid Review
+doi:10.1007/978-981-92-3403-5_2,2026,Lecture notes in computer science,1,G-MACS: Graph-Guided Multi-agent Collaboration for Project-Aware Code Summarization
+doi:10.69882/adba.cs.2026071,2026,ADBA computer science.,1,Multi-Agent LLM Pipeline for Code Writing: An Experimental Study of Writer-Reviewer Architecture
+doi:10.1109/ccece68150.2026.11610535,2026,,1,AXL: Executable Intent for Governed LLM-Based Software Maintenance
+doi:10.1109/haxd70072.2026.11621027,2026,,1,Herding CATs: ALARA for Agent Harness Engineering in Portable Composable Multi-Agent Teams
+doi:10.1109/iaict71158.2026.11621038,2026,,1,Agentic Self-RAG: An Ablation Study for Zero-Shot Biomedical Question Answering
+doi:10.1145/3770855.3818107,2026,,1,BiVCoder: A Multi-Agent Framework for Code Generation via Bidirectional Code-Test Diagnosis
+doi:10.1109/compsac69091.2026.00436,2026,,1,Proactive Multi-Agent Systems for Autonomous Code Generation and Software Maintenance
+doi:10.1145/3840382,2026,ACM Transactions on Software Engineering and Methodology,1,Cross-Model Collaboration for Enhancing LLM-Based Code Generation
+doi:10.18690/um.feri.7.2026.16,2026,,1,CODORQ: ogrodje za orkestracijo razvoja programske opreme z različnimi agentskimi orodji
+doi:10.1145/3845606,2026,ACM Transactions on Interactive Intelligent Systems,1,LLiBTree: An Assessment of Usability and Trust of LLM-integrated Behavior Tree Nodes for Robot Programming
+doi:10.1109/re68928.2026.00041,2026,,1,RECODE: Requirements Recovery from CODE for Adoption Review of Autonomous Driving Software
+doi:10.1007/978-3-032-35078-7_18,2026,Lecture notes in networks and systems,1,Synth: Code as the Control Plane for Long-Horizon Agents
+doi:10.1016/j.eswa.2026.134396,2026,Expert Systems with Applications,1,Learning to coordinate: A knowledge-distilled agent for adaptive multi-agent code generation
+doi:10.1109/iisa71656.2026.11705535,2026,,1,Execution Control Harness for Governed LLM-Based Code Generation
+doi:10.1109/icsme64153.2025.00065,2025,,1,AskGraph: A Dependency-Aware Code Assistant Powered by Code Graphs and LLM-Generated Cypher Queries
+doi:10.1109/tse.2025.3631886,2025,IEEE Transactions on Software Engineering,1,CoSQA + : Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents
+doi:10.1007/978-981-92-0378-9_30,2026,Lecture notes in computer science,1,KCoEvo: A Knowledge Graph Augmented Framework for Evolutionary Code Generation
+doi:10.1145/3742413.3789057,2026,,1,CodeVoyager: Integrating Interactive Visual Aids with LLMs for Code Comprehension
+doi:10.1109/access65134.2025.11135582,2025,,1,Analysing Code-Based Retrieval Augmented Generation Methods for Knowledge Retention
+doi:10.1109/ase63991.2025.00283,2025,,1,Automated Proactive Logging Quality Improvement for Large-Scale Codebases
+doi:10.64898/2026.02.13.705771,2026,bioRxiv (Cold Spring Harbor Laboratory),1,Ataraxis: Bridging AI Coding Assistants and Scientific Hardware
+doi:10.1109/saner67736.2026.00107,2026,,1,Multi-CoLoR: Context-Aware Localization and Reasoning Across Multi-Language Codebases
+doi:10.1007/978-981-92-3426-4_19,2026,Lecture notes in computer science,1,SemanticRerank: Retrieval-Augmented Code Completion with Adaptive Semantic-Textual Fusion
+doi:10.1145/3770855.3817529,2026,,1,GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization
+doi:10.1109/icecet65726.2026.11631806,2026,,1,Cindy: A Toolkit for Automated Architecture Recovery in Large Software Repositories

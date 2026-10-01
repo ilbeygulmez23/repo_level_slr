@@ -1,0 +1,4 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1109/ase56229.2023.00174,exclude,EC8,,,,,,ASE 2023,"No full text; Auto-GPT prompt study, abstract gives no task set or how generated code is evaluated; multi-file output unclear."
+doi:10.1145/3702987,include,,core,nl-to-app,method,HTML;CSS;JavaScript,human,TOSEM 2025,Re-reviewed with arXiv full text 2407.15568; multi-file web apps; human executability + UEQ; Gherkin scenarios as hand-off
+doi:10.1007/978-3-032-30693-7_4,exclude,EC8,,,,,,LNCS 2026,"No full text, no abstract; LLM use unclear (possibly rule-based C->Rust, EC5); evaluation undeterminable."

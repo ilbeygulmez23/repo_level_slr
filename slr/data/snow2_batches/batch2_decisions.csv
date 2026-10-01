@@ -1,0 +1,61 @@
+key,decision,reason,tier,note
+doi:10.1109/cicn70047.2026.11594236,exclude,EC8,,no abstract; generic 'code generation and intelligent debugging'
+doi:10.1016/j.asoc.2026.115934,exclude,EC3,,"'generating code from flowcharts' for mathematical algorithms, no repo"
+doi:10.1145/3719345,exclude,EC1,,"automated program repair on Defects4J, QuixBugs"
+doi:10.1109/icse55347.2025.00022,exclude,EC1,,'fix Rust compilation errors' in existing repositories
+doi:10.18653/v1/2023.findings-emnlp.119,exclude,EC3,,snippet-level translation on MultiPL-E
+doi:10.1109/saner67736.2026.00068,exclude,EC4,,"algorithm recognition, output not source code"
+doi:10.1145/3786181.3788723,unsure,,core,C to Rust translation of 'codebases'; granularity unclear
+doi:10.3390/app15031344,exclude,EC6,,'A Review of Current Practices'
+doi:10.1109/tse.2024.3492204,exclude,EC3,,ChatGPT self-verification on function-level generation/repair datasets
+doi:10.3390/electronics14010087,exclude,EC4,,"LLM agents for agile project management, not code"
+doi:10.1109/icse55347.2025.00140,exclude,EC3,,FlowGen evaluated on 'HumanEval ... MBPP'
+doi:10.1145/3696630.3728717,exclude,EC6,,work-in-progress RACI collaboration framework proposal
+doi:10.1109/forge66646.2025.00008,exclude,EC3,,"performance of LLM-generated code; function-level, no abstract"
+doi:10.1109/tvcg.2024.3410523,exclude,EC4,,"generating 'programming tutorials', not code"
+doi:10.1109/llm4code66737.2025.00023,exclude,EC4,,'repository-level code summarization'
+doi:10.1109/tse.2026.3667895,exclude,EC3,,"PLC code generation, domain snippets from requirements"
+doi:10.1109/icse55347.2025.00108,exclude,EC3,,"prompting for 'complicated programming problems', function-level"
+doi:10.1145/3795154.3795362,include,,core,"'requirements into deployable cloud-native microservices', CloudDevBench"
+doi:10.1109/jcdl67857.2025.00025,exclude,EC0,,radiology visual question answering
+doi:10.1080/10494820.2025.2542892,exclude,EC0,,multi-agent mock trials in legal education
+doi:10.1007/s40747-025-02051-z,unsure,,core,multi-agent 'automates software development' for robot control systems
+doi:10.1038/s44182-025-00065-w,exclude,EC3,,"robot 'code policies' generation, not repositories"
+doi:10.1109/pais66004.2025.11126523,exclude,EC3,,local LLMs evaluated on 'HumanEval benchmark'
+doi:10.3390/s26113502,exclude,EC3,,security-constrained code generation; SecurityEval/CyberSecEval snippets
+doi:10.1109/emes65692.2025.11045587,exclude,EC3,,'Codeforces programming problems' comparison
+doi:10.3390/sym17101660,exclude,EC3,,multi-agent 'competitive programming' on CodeELO
+doi:10.1109/icisc65841.2025.11188152,exclude,EC0,,"role agents for product development workflows, not code"
+doi:10.1109/tse.2025.3621462,exclude,EC4,,'code review comment generation'
+doi:10.1109/icicn67355.2025.11430449,exclude,EC0,,LLM reasoning/decision-making game environment
+doi:10.1109/iccns66249.2025.11428688,exclude,EC3,,observability for agent coding pipelines; 'challenging coding tasks'
+doi:10.4018/979-8-3693-9851-7.ch005,exclude,EC6,,book chapter overview of AI tools
+doi:10.1109/conisoft63288.2024.00013,exclude,EC6,,'comprehensive review of existing literature' plus case study
+doi:10.4018/979-8-3693-6250-1.ch002,exclude,EC6,,book chapter on generative AI in SDLC
+doi:10.1145/3711896.3737196,exclude,EC0,,"benchmark for 'local life services', not code"
+doi:10.1109/tse.2025.3641225,exclude,EC5,,"bioinformatics software quality study, not LLM-based"
+doi:10.1109/tse.2025.3632508,exclude,EC3,,small-LLM multi-agent function-level code generation
+doi:10.1109/ase63991.2025.00345,exclude,EC6,,'we envision' multi-agent vision paper
+doi:10.1145/3774904.3792557,exclude,EC8,,no abstract; code generation via adversarial debate
+doi:10.1145/3786167.3788424,exclude,EC3,,"evaluated on 'HumanEval, BigCodeBench, and ClassEval'"
+doi:10.1186/s12967-026-08829-0,exclude,EC6,,review of agentic systems in computational pathology
+doi:10.2139/ssrn.5381820,exclude,EC8,,no abstract; no-code agent orchestration
+doi:10.1109/icoict66265.2025.11193130,exclude,EC6,,'This paper surveys' AAMAS foundations
+doi:10.1109/icpads67057.2025.11322891,exclude,EC3,,test-enhanced self-iterative function-level code generation
+doi:10.1109/ase63991.2025.00200,exclude,EC4,,agent-based 'evaluation framework' for generated code
+doi:10.1109/conisoft66928.2025.00046,exclude,EC6,,'systematic literature review' on developer experience
+doi:10.1109/iceca66444.2025.11383462,include,,core,"multi-agent 'natural language requirements to deployed systems', vs ChatDev"
+doi:10.1109/bigdata66926.2025.11402643,exclude,EC8,,no abstract; agentic code generation cost/observability
+doi:10.2139/ssrn.6387100,exclude,EC8,,no abstract; self-healing multi-agent code generation
+doi:10.1109/southeastcon63549.2026.11476694,exclude,EC3,,sub-1B ensembles on 'HumanEval + MBPP'
+doi:10.1109/iscait69154.2026.11477183,exclude,EC3,,evaluated on 'HumanEval ... MBPP ... APPS'
+doi:10.29121/shodhkosh.v7.i9s.2026.7999,exclude,EC5,,"maintenance cost prediction framework, not LLM"
+doi:10.1145/3786167.3788408,include,,core,"ontology agents vs 'GHSpec and ChatDev', 'runnable project'"
+doi:10.3390/pr14101669,exclude,EC0,,LLM-generated data-collection agents in manufacturing
+doi:10.1145/3800424.3800453,unsure,,core,multi-agent 'website generation'; multi-file scope unclear
+doi:10.1109/icrtcst68392.2026.11545390,exclude,EC0,,secure SDLC in agile; no LLM code generation
+doi:10.1109/scsp69985.2026.11548581,exclude,EC3,,agents for simulation 'script generation' in radiology domain
+doi:10.1145/3809481.3812613,unsure,,core,'end-to-end pipeline' from requirements to serverless function deployment
+doi:10.1109/aiita69518.2026.11567118,exclude,EC8,,no abstract; multi-agent function-level code generation
+doi:10.1109/meco70748.2026.11579021,exclude,EC4,,"traceability knowledge graphs, not code generation"
+doi:10.1145/3805760.3814911,exclude,EC1,,recovering coding-agent misbehaviors in production engineering tasks

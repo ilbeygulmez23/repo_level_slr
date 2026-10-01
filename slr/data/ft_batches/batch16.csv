@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2604.03622,Toward Executable Repository-Level Code Generation via Environment Alignment,include,core,"""generated multi-file repository can be successfully installed"" EnvGraph",slr/data/fulltext/arxiv_2604.03622.txt
+arxiv:2602.03462,Toward Functional and Non-Functional Evaluation of Application-Level Code Generation,include,core,"RAL-Bench ""application-level code generation"" runnable repository",slr/data/fulltext/arxiv_2602.03462.txt
+doi:10.1016/j.neucom.2026.133204,Towards multi-language repository-level code generation: From-scratch to guided tasks,unsure,core,"""repository-level code generation: from-scratch""; no abstract",
+arxiv:2607.18886,TraceDev: A Traceability-Driven Multi-agent Framework for Requirement-to-Code Development,include,core,"""transformation of Natural Language Requirements into executable repository-level code""",slr/data/fulltext/arxiv_2607.18886.txt
+arxiv:2605.26017,Trustworthy Software Project Generation : a Case Study with an Interactive Theorem Prover,include,core,"""trustworthy software project generation"" CPU interpreter from requirements",slr/data/fulltext/arxiv_2605.26017.txt
+arxiv:2607.06306,UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation,include,core,"""runnable multi-route web applications"" generated from screenshots",slr/data/fulltext/arxiv_2607.06306.txt
+doi:10.55041/isjem07720,VDA-SDLC: Validation-Driven Adaptive Agentic Software Development Life Cycle Framework for Autonomous Software Engineering,include,core,"agentic SDLC ""generation of multiple frontend applications""",
+arxiv:2608.13522,Vero: Can AI Agents Build Formally Verified Software Repositories?,include,core,"""joint implementation and proof synthesis at the repository level""",slr/data/fulltext/arxiv_2608.13522.txt
+arxiv:2603.04601,Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development,include,core,"""building a working application from scratch"" web app benchmark",slr/data/fulltext/arxiv_2603.04601.txt
+arxiv:2605.06068,VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?,include,core,"""generates entire LLM serving stacks end-to-end""",slr/data/fulltext/arxiv_2605.06068.txt
+arxiv:2601.02430,WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics,include,core,"""benchmark for web app generation"" from user requirements",slr/data/fulltext/arxiv_2601.02430.txt
+arxiv:2609.15387,WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective,include,core,"""evaluating web application generation"" interactive benchmark",slr/data/fulltext/arxiv_2609.15387.txt

@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.2139/ssrn.7508618,"AI-Assisted Software Engineering: Evaluating Copilot, Cursor, and Autonomous AI Agents for Rapid Application Development",unsure,core,"no abstract; ""AI agents for rapid application development"" evaluation",
+doi:10.55041/isjem08051,A Multi-Agent Engineering Team for Prompt-Based Application Generation,unsure,core,"title ""prompt-based application generation""; abstract generic multi-agent domains",
+title:automateddevelopmentenvironmentusinganagentbasedapproachandmodelcontextprotocolm,Automated development environment using an agent-based approach and Model Context Protocol (MCP),unsure,core,"""end-to-end software development tasks"" agent; minimal abstract",
+doi:10.1145/3805712.3808589,Beyond Maintenance: A Benchmark and Multi-Agent Framework for Repository-Usage Code Generation,unsure,contextual,"""repository-usage code generation"" invoking repository-internal APIs; eval unclear",
+doi:10.5281/zenodo.20265206,ChainBench: An LLM Benchmark for Cross-Chain Code Generation,unsure,core,"""cross-chain smart contract translation and contract generation"" from repositories",
+doi:10.5281/zenodo.21100657,CodeGist: Schema-Guided Repository Context Compression for LLM Code Generation,unsure,contextual,"no abstract; ""repository context compression for LLM code generation""",
+doi:10.5281/zenodo.22769026,Compiler-in-the-Loop Code Generation A validation-first agent architecture for type-safe multi-file software synthesis,include,core,"""generates a multi-file TypeScript project"" with compiler validation",
+arxiv:2604.17745,HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution,include,core,"""paper-to-code generation"" hierarchical multi-agent framework",slr/data/fulltext/arxiv_2604.17745.txt
+doi:10.20944/preprints202608.1294.v1,Hybrid Multi-Agent Framework for Enterprise Web Application Generation,include,core,"""enterprise web application generation"" multi-agent CodeCraft",
+arxiv:2601.00376,In Line with Context: Repository-Level Code Generation via Context Inlining,include,contextual,"InlineCoder on ""DevEval and RepoExec"" benchmarks",slr/data/fulltext/arxiv_2601.00376.txt
+arxiv:2606.19830,JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines,include,core,"""project-level game code"" dataset and benchmark",slr/data/fulltext/arxiv_2606.19830.txt
+doi:10.1145/3842390,KGMACG: Knowledge-Guided Multi-Agent Orchestration for Scalable Application-Level Code Generation,include,core,"""application-level software code generation"" from SRS",

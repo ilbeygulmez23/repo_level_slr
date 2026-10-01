@@ -1,0 +1,26 @@
+key,decision,reason,tier,justification
+arxiv:2604.09388,exclude,EC6,,Practitioner experience report on maturity model; not an empirical LLM generation study.
+doi:10.1109/re59067.2024.00049,exclude,EC8,,"Tailored GPT demonstrated on one case study; no systematic evaluation, snippets only."
+arxiv:2604.03622,include,,core,"EnvGraph generates executable multi-file repositories, evaluated by installation, launch and functional tests."
+doi:10.18653/v1/2025.naacl-long.7,include,,contextual,Graph-database retrieval agent; EvoCodeBench repo-level generation with executed tests is a reported component.
+arxiv:2401.07339,include,,contextual,Repo-level function generation agent; CodeAgentBench evaluated with executed tests.
+arxiv:2406.03283,include,,contextual,Repo-level method generation with type context; Java/Rust benchmarks evaluated by compile and pass@k.
+arxiv:2605.06068,include,,core,"Agent loop generates entire LLM serving stacks, checked for correctness and performance."
+arxiv:2606.19988,exclude,EC2,,"Single-contract generation from description; evaluated by SolidityScore similarity, execution rejected."
+arxiv:2601.02430,exclude,EC3,,"Web apps mostly single HTML file; evaluated by rule metrics and LLM judge, not multi-file."
+doi:10.1145/3729287,exclude,EC3,,Whole-program translation but programs merged into single file; Python to JavaScript.
+arxiv:2508.07180,exclude,EC3,,"Function-level tasks, self-contained or library-only; project-dependent tasks discarded."
+arxiv:2511.07584,include,,contextual,Repo-level generation with knowledge graphs; Pass@1 on RepoKG-50 tasks; weak reporting.
+doi:10.1109/compsac65507.2025.00175,exclude,EC3,,Notebook-derived single deep learning scripts; evaluated by CodeBLEU and human rating only.
+arxiv:2505.21577,exclude,EC0,,Agent reuses existing GitHub repositories to solve tasks; not repository generation.
+arxiv:2511.21878,include,,core,"Repository-level Java-to-Python translation with mock-based validation, evaluated by tests."
+arxiv:2508.20263,include,,core,"Generates multi-file apps from intermediate representations; evaluated by user study, built and run."
+arxiv:2412.01769,include,,core,"Library generation from API specification, validated by unit tests."
+arxiv:2609.32459,include,,core,"Harness study including ProgramBench repository generation as substantive component, alongside SWE-style tasks."
+arxiv:2410.21647,include,,contextual,"Whole-function generation in real repositories with developer tests, pass@1."
+arxiv:2304.07590,exclude,EC3,,Evaluated on function-level benchmarks; repository-level only a qualitative showcase.
+arxiv:2609.21293,include,,core,"Game application generation from requirements, evaluated by browser-executed checks."
+arxiv:2406.11612,exclude,EC2,,Library-based generation is single file scored by similarity or API overlap; others not generation.
+doi:10.54254/2755-2721/2026.31609,exclude,EC8,,"Thin short paper; benchmark, tasks and generated outputs unspecified, results unverifiable."
+arxiv:2608.23564,include,,core,"Whole-repository stack migration benchmark with audit, tests and agentic verification."
+arxiv:2603.00897,exclude,EC1,,"Core contribution is security detection and repair of generated code, not generation."

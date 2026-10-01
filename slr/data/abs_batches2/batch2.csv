@@ -1,0 +1,49 @@
+key,rid,year,venue,title
+doi:10.34190/ecgbl.19.1.3976,R0419,2025,European Conference on Games Based Learning,Preparing the eLuna Visual Language for Human-AI Co-Specification and Code Automation
+doi:10.1109/ijcnn64981.2025.11228932,R0440,2025,,Repository-Level Code Smell Detection Based on Multi-Scale Code Information and LLM Assistance
+arxiv:2506.11084,R0442,2025,arXiv (Cornell University),Research and Analysis of Employers' Opinion on the Necessary Skills that Students in the Field of Web Programming Should Possess
+arxiv:2502.08489,R0450,2025,arXiv (Cornell University),Salamandra Technical Report
+title:studyingdevelopersengagementwithchatgptforissueresolution,R0467,2025,HARVEST (University of Saskatchewan),Studying Developers’ Engagement with ChatGPT for Issue Resolution
+doi:10.5281/zenodo.17870341,R0476,2025,Zenodo (CERN European Organization for Nuclear Research),"The Universal Control Codex (UCC): A Thin Reasoning Layer for Disciplined, Standards-Aligned AI"
+arxiv:2412.05075,R0213,2024,Lecture notes in business information processing,Towards the Interoperability of Low-Code Platforms
+arxiv:2512.18552,R0483,2025,arXiv (Cornell University),Toward Training Superintelligent Software Agents through Self-Play SWE-RL
+arxiv:2506.22390,R0496,2025,Empirical Software Engineering,"What characteristics make ChatGPT effective for software issue resolution? An empirical study of task, project, and conversational signals in GitHub issues"
+arxiv:2508.06414,R0497,2025,arXiv,What Makes In-Context Examples Effective for Code Generation?
+arxiv:2509.10946,R0499,2025,arXiv (Cornell University),When the Code Autopilot Breaks: Why LLMs Falter in Embedded Machine Learning
+arxiv:2508.14104,R0502,2025,arXiv (Cornell University),You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation
+doi:10.5281/zenodo.20274901,R0508,2026,Zenodo (CERN European Organization for Nuclear Research),A Context-Aware Framework for Secure Prompt Synthesis and Injection Prevention in AI-Assisted Software Engineering
+arxiv:2606.16244,R0510,2026,arXiv (Cornell University),Activating Latent Security Knowledge through LLM-Guided Risk Analysis for Secure Code Generation
+title:adaptingsmalllanguagemodelstodelphiandproprietarycodebasethroughcontinuedpretrai,R0511,2026,Työväentutkimus Vuosikirja,Adapting Small Language Models to Delphi and Proprietary Codebase Through Continued Pre- training
+doi:10.5281/zenodo.21452028,R0515,2026,Zenodo (CERN European Organization for Nuclear Research),A Four-Task Behavioral Benchmark of Small Open-Weight LLMs on Consumer Hardware
+doi:10.63282/3050-922x.ijeret-v7i2p134,R0519,2026,International Journal of Emerging Research in Engineering and Technology,"Agentic AI for Autonomous Software Maintenance: A Retrieval-Augmented Multi-Agent Framework for Bug Localization, Patch Generation, and Regression Validation"
+arxiv:2605.04845,R0520,2026,arXiv (Cornell University),Agentic Repository Mining: A Multi-Task Evaluation
+arxiv:2604.00594,R0521,2026,arXiv (Cornell University),Agent psychometrics: Task-level performance prediction in agentic coding benchmarks
+arxiv:2608.20318,R0525,2026,arXiv (Cornell University),AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement
+doi:10.5281/zenodo.21931156,R0527,2026,Zenodo (CERN European Organization for Nuclear Research),AI Engineering: A Disciplinary Program for the Reliable Delivery of Intelligent Tasks
+title:aiforcodecomplexityoptimizationahybridperspective,R0529,2026,Iowa State University Digital Repository (Iowa State University),AI for code complexity optimization: A hybrid perspective
+doi:10.5281/zenodo.19322215,R0531,2026,Zenodo (CERN European Organization for Nuclear Research),"AI Makes Coding Harder, Not Easier"
+title:aipairprogrammertechnologieswithgithubcopilotandlargelanguagemodel,R0532,2026,DR-NTU (Nanyang Technological University),AI pair programmer technologies with Github Copilot and large language model
+arxiv:2603.27130,R0534,2026,arXiv (Cornell University),A Large-Scale Comprehensive Measurement of AI-Generated Code in Real-World Repositories
+doi:10.5281/zenodo.22750453,R0535,2026,Zenodo (CERN European Organization for Nuclear Research),A Lean 4 Formalization Program Around the Yang–Mills Mass Gap — Version 53: Finite-Volume Lipschitz Stability Under Remote Polymer-Activity Damping
+doi:10.5281/zenodo.22767474,R0536,2026,Zenodo (CERN European Organization for Nuclear Research),A Lean 4 Formalization Program Around the Yang–Mills Mass Gap — Version 54: Refined Finite-Volume Lipschitz Stability Under Remote Polymer-Activity Damping
+arxiv:2609.24348,R0537,2026,arXiv (Cornell University),A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach
+doi:10.3390/bdcc10090313,R0538,2026,Big Data and Cognitive Computing,Algorithmic Bias and Logical Inconsistency in LLM-Generated Code
+doi:10.22214/ijraset.2026.82571,R0540,2026,International Journal for Research in Applied Science and Engineering Technology,An AI-Driven System for Automatic Code Explanation and Program Visualization
+arxiv:2606.31159,R0546,2026,arXiv (Cornell University),An Empirical Study of Security Calibration in Large Language Models for Code
+arxiv:2604.26469,R0547,2026,arXiv (Cornell University),An Empirical Study of Speculative Decoding on Software Engineering Tasks
+doi:10.5281/zenodo.20679719,R0550,2026,Zenodo (CERN European Organization for Nuclear Research),A Noise-Invariant Determinism Theorem for Multi-Base Post-Processing in Shor's Order Finding (v0.5.1: nonstabilizerness / magic — coding-theory of marker sets + oracle-hiding as T-cost)
+doi:10.25394/pgs.33968797,R0553,2026,Purdue,Application-Driven Hardware-Software Co-Design for Efficient Computing on Modern GPUs
+doi:10.5281/zenodo.19248411,R0562,2026,Zenodo (CERN European Organization for Nuclear Research),Artifact for Paper: Compressing Code Context for LLM-based Issue Resolution
+arxiv:2601.03780,R0563,2026,arXiv (Cornell University),Assessing and Improving the Representativeness of Code Generation Benchmarks Using Knowledge Units (KUs) of Programming Languages -- An Empirical Study
+doi:10.5281/zenodo.19672909,R0566,2026,Zenodo (CERN European Organization for Nuclear Research),Auditing an AI-Code Detector as a Security-Maintenance Signal in Java Repositories (Dataset and Scripts)
+arxiv:2608.09072,R0567,2026,arXiv (Cornell University),"A Unified Issue Resolution Benchmark for Requirement Clarification, Planning, and Code Generation for Coding Agents"
+doi:10.64137/31079911/ijmst-v2i2p103,R0571,2026,International Journal of Multidisciplinary Sciences and Technology,"Autonomous Code Review Using Large Language Models: A Hybrid Framework for Code Quality Assessment, Refactoring Recommendation, and Technical Debt Reduction"
+doi:10.5281/zenodo.21614411,R0574,2026,Zenodo (CERN European Organization for Nuclear Research),Autopsy: detecting vulnerabilities in AI-generated code by reasoning across dependency graphs
+doi:10.1145/3786175.3788345,R0584,2026,,Beyond Public Benchmarks: An LLM-as-Judge Framework for Enterprise Code Evaluation with Margin-Driven Optimization
+title:beyondthevisibletransformingarvrsoftwareengineeringthroughempiricaldiscoverymeta,R0588,2026,VTechWorks (Virginia Tech),"Beyond the Visible: Transforming AR/VR Software Engineering Through Empirical Discovery, Metamorphic Testing, and Multi-Agent Intelligence"
+arxiv:2603.24837,R0593,2026,,Bridging Code Property Graphs and Language Models for Program Analysis
+title:buildinganalyzingandenhancingcodelanguagemodelsforsoftwareengineering,R0597,2026,DR-NTU (Nanyang Technological University),"Building, analyzing, and enhancing code language models for software engineering"
+doi:10.2139/ssrn.7264680,R0601,2026,SSRN Electronic Journal,"Can AI Close the Grant Funding Gap? A Multi-Agent LLM System for Automated Grant Application Generation with Blind Expert Evaluation, Single-Agent Baseline Comparison, and Design Science Research Framework"
+arxiv:2602.03648,R0602,2026,,Can Developers Rely on LLMs for Secure IaC Development?
+arxiv:2605.13280,R0606,2026,arXiv (Cornell University),Characterizing Readability Issue Patterns and the Role of Prompt Design in LLM-Generated Code
+arxiv:2602.23047,R0607,2026,arXiv (Cornell University),CL4SE: Benchmarking Context Learning on Software Engineering

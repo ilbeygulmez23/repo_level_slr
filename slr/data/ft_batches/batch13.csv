@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2601.13240,KoCo-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?,include,core,"""from function-level to project-level with rigorous test suites"" domain benchmark",slr/data/fulltext/arxiv_2601.13240.txt
+arxiv:2604.24678,Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study,unsure,core,"""repository-scale change generation spanning multiple files"" DSL; mostly similarity metrics",slr/data/fulltext/arxiv_2604.24678.txt
+doi:10.3390/fi18090471,LLM-Assisted Porting of Security-Critical C Libraries to Idiomatic Rust: A Multi-Model Empirical Study,include,core,"""porting"" whole cJSON C library to Rust in agentic mode",
+arxiv:2605.02455,LLM-Assisted Repository-Level Generation with Structured Spec-Driven Engineering,unsure,core,"""repository-level code generation"" pilot study plus vision/roadmap",slr/data/fulltext/arxiv_2605.02455.txt
+arxiv:2601.03708,MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion benchmark,unsure,contextual,"""repository level"" hardware code completion benchmark; metric unclear",slr/data/fulltext/arxiv_2601.03708.txt
+arxiv:2607.27146,MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis,include,core,"""training environments"" for ""complete program from scratch"" (ProgramBench)",slr/data/fulltext/arxiv_2607.27146.txt
+arxiv:2607.26805,MRCoder: An Efficient Context Selecting Approach for Repository-Level Code Generation,include,contextual,"context selection evaluated on ""CoderEval and DevEval""",slr/data/fulltext/arxiv_2607.26805.txt
+doi:10.1145/3808138,One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation,include,contextual,"""empirical study"" of context engineering for repository-level code generation",
+arxiv:2609.02272,PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation,include,core,"""paper-to-code generation"" of repository-level implementations",slr/data/fulltext/arxiv_2609.02272.txt
+arxiv:2604.03632,Persistent Cross-Attempt State Optimization for Repository-Level Code Generation,include,core,"LiveCoder repository generation on ""RAL-Bench""",slr/data/fulltext/arxiv_2604.03632.txt
+arxiv:2605.03546,ProgramBench: Can Language Models Rebuild Programs From Scratch?,include,core,"""architect and implement a codebase that matches the reference executable""",slr/data/fulltext/arxiv_2605.03546.txt
+arxiv:2607.08691,ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation,include,contextual,"retrieval for repository-level generation evaluated on ""REPOCOD"" Pass@1",slr/data/fulltext/arxiv_2607.08691.txt

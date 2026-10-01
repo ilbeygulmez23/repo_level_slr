@@ -1,0 +1,12 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.3390/aerospace12060498,exclude,EC8,,,,,,Aerospace (MDPI) 2025,"no full text; RepoSpace 825 repo-level samples from 5 aerospace projects, but abstract gives no evaluation method (tests vs similarity) - undecidable, possibly EC2"
+doi:10.5753/wtf.2026.23233,exclude,EC3,,,,Python,nonfunctional,WTF 2026,"no full text; 4 ChatGPT-generated BaxBench Python backends (single-file app scenarios); aging study. Distinct from arxiv:2510.24188 (Bolt/JS), not duplicate"
+doi:10.1109/iciice69672.2026.11565314,exclude,EC8,,,,,,ICIICE 2026,"no full text and no abstract; agentic repository migration in AWS pipelines, task/evaluation undecidable"
+doi:10.1016/j.future.2026.108599,include,,core,repo-translation,method;empirical,Delphi;C#,build-run;other,Future Generation Computer Systems 2026,"abstract only; industrial agentic chunk-translate-reassemble pipeline, 5M LOC Delphi->C# (Danfoss); early observations only; extends short paper not in corpus"
+doi:10.1109/access.2026.3722027,exclude,EC1,,,,Go,,IEEE Access 2026,"no full text; cross-platform porting of existing Go code (platform residue, build pass rate) = in-place migration; repo granularity unclear"
+doi:10.1145/3797148,exclude,EC3,,,,Python,,PACMSE (FSE) 2026,"CtxBug resolution benchmark built on ClassEval (class-level context, not repository); essentially bug resolution during adaptation"
+doi:10.1007/978-3-032-37314-4_2,exclude,EC3,,,,Python,,LNCS 2026,"InteractGUI Bench 984 PySide6 desktop apps from screenshots; multi-file output not established (direct MLLM generation), GUI-debugging agent focus"
+doi:10.1145/3803437.3805266,include,,core,repo-translation,method;training-data,C;Rust,other,ACM proceedings 2026,abstract only (truncated); repo-level C->Rust with dependency-guided cross-file context and RL alignment; evaluation details not in abstract
+doi:10.1007/978-3-032-39395-1_23,exclude,EC8,,,,,,LNCS 2026,"no full text and no abstract; title suggests empirical evaluation of multi-agent SD frameworks, but task/evaluation undecidable"
+doi:10.1145/3786583.3786915,include,,core,repo-translation,method,COBOL;Java,other,ICSE-SEIP 2026,abstract only; IBM WCA for Z enterprise COBOL->Java with global Class/Method Designer analysis guiding LLM; evaluation not in abstract
+doi:10.2139/ssrn.7202151,exclude,EC8,,,,,,preprint,"no full text and no abstract (SSRN); agent-framework empirical study, task/evaluation undecidable"

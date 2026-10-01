@@ -1,0 +1,2 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.18653/v1/2024.acl-long.305,include,,core,nl-to-app,method,Python,build-run;similarity,ACL 2024,ChatDev extension; SRDD; completeness/executability/consistency; no functional tests (full text arXiv 2312.17025)

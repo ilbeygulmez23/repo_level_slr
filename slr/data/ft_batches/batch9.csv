@@ -1,0 +1,4 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2609.21293,GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development,include,core,"""autonomous software generation"" benchmark for games",slr/data/fulltext/arxiv_2609.21293.txt
+arxiv:2607.13921,Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code,unsure,contextual,"compiler feedback evaluated on ""repository-level Rust coding tasks""",slr/data/fulltext/arxiv_2607.13921.txt
+arxiv:2603.20299,HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs,include,core,"""repository-level code generation"" of game-theoretic systems",slr/data/fulltext/arxiv_2603.20299.txt

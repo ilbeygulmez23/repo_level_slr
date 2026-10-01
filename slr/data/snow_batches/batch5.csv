@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.1016/j.future.2025.108318,2025,Future Generation Computer Systems,1,Deobfuscation of JavaScript code and identification of security weaknesses through large language models
+doi:10.1109/fllm67465.2025.11391125,2025,,1,Hallucination in LLM-Based Code Generation: An Automotive Case Study
+doi:10.3390/info17010073,2026,Information,1,"Foundation Models in Software Engineering: A Taxonomy, Systematic Review, and In-Depth Analysis of Testing Support"
+doi:10.1109/tse.2025.3640641,2025,IEEE Transactions on Software Engineering,1,Advancing LLM-Generated Code Reliability: A Hybrid Approach for Hallucination Detection
+doi:10.1109/ase63991.2025.00321,2025,,1,How Does ChatGPT Make Assumptions When Creating Erroneous Programs?
+doi:10.2197/ipsjjip.33.487,2025,Journal of Information Processing,1,Hallucination Detection on Code Generation with SelfCheckGPT
+doi:10.1145/3772318.3791260,2026,,1,Evolving Enactions of Expertise: Software Engineers’ Evaluation and Demonstration of Coding Expertise with AI Coding Assistants
+doi:10.1109/hpec67600.2025.11196666,2025,,1,Towards Automated Reasoning Chains for Verification of LLM-Generated Scientific Code
+doi:10.2139/ssrn.6193142,2026,SSRN Electronic Journal,1,Walking on Thin Ice?: Defending RAG-based Code Recommender Systems Against Poisoning Attacks
+doi:10.1109/icdmw69685.2025.00069,2025,,1,A Benchmark and Optimization Framework for ML and LLM-Based Health Triage
+doi:10.1016/j.jss.2026.112852,2026,Journal of Systems and Software,1,Model-agnostic quality assessment for LLM-generated code via dynamic internal representation selection
+doi:10.1109/iisec69317.2026.11418436,2026,,1,Informed Skepticism: Navigating The Code Hallucination Dilemma
+doi:10.1088/1757-899x/1342/1/012064,2026,IOP Conference Series Materials Science and Engineering,1,Developing RAGs for robot code generation
+doi:10.1007/978-3-032-27993-4_12,2026,IFIP advances in information and communication technology,1,Shape Before You Build: Secure Cryptographic Code Generation via Prompt Optimization
+doi:10.1016/j.array.2026.101135,2026,Array,1,ASG-LLM: An LLM-based pipeline for automated scraping code generation in security-sensitive environments
+doi:10.1109/issatk69667.2026.11566869,2026,,1,Security-Related Code Hallucinations in Large Language Models: A Systematic Literature Review
+doi:10.1109/lt68265.2026.11592529,2026,,1,Twin Minds in Code Education: Simulating Student-Tutor Dynamics using LLMs as Cognitive Digital Twins
+doi:10.1016/j.jss.2026.113028,2026,Journal of Systems and Software,1,An empirical study of Policy-as-Code adoption in open-source software projects
+doi:10.1109/iaict71158.2026.11620682,2026,,1,Evaluating the Effect of Artefact Representation on LLM-Based RESTful API Code Generation
+doi:10.1145/3793302.3793587,2026,,1,When AI Code Doesn’t Stick: An Empirical Study on Reverted Changes Introduced by AI Coding Agents
+doi:10.1145/3611643.3613892,2023,,1,InferFix: End-to-End Program Repair with LLMs
+doi:10.18653/v1/2023.findings-acl.143,2023,,1,AVATAR: A Parallel Corpus for Java-Python Program Translation
+doi:10.1109/icse48619.2023.00072,2023,,1,Syntax and Domain Aware Model for Unsupervised Program Translation
+doi:10.18653/v1/2024.acl-long.301,2024,,1,CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation
+doi:10.1109/hpec62836.2024.10938485,2024,,1,Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
+doi:10.18653/v1/2023.findings-emnlp.917,2023,,1,Data Augmentation for Code Translation with Comparable Corpora and Multiple References
+doi:10.1109/iciice69672.2026.11565314,2026,,1,AgileAgent-Orch: Governance-Aware Agentic Repository Migration within Scaled Agile AWS Pipelines
+doi:10.1609/aaai.v37i4.25642,2023,Proceedings of the AAAI Conference on Artificial Intelligence,1,Repair Is Nearly Generation: Multilingual Program Repair with LLMs
+doi:10.1145/3524459.3527351,2022,,1,Can OpenAI's codex fix bugs?
+doi:10.1109/ase56229.2023.00109,2023,,1,What Makes Good In-Context Demonstrations for Code Intelligence Tasks with LLMs?
+doi:10.1109/icse-seip58684.2023.00022,2023,,1,Towards More Effective AI-Assisted Programming: A Systematic Design Exploration to Improve Visual Studio IntelliCode’s User Experience
+doi:10.1145/3550355.3552452,2022,,1,Editing support for software languages
+doi:10.1609/aaai.v37i4.25653,2023,Proceedings of the AAAI Conference on Artificial Intelligence,1,Better Context Makes Better Code Language Models: A Case Study on Function Call Argument Completion
+doi:10.48550/arxiv.2302.06590,2023,arXiv (Cornell University),1,The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+doi:10.48550/arxiv.2403.07974,2024,arXiv (Cornell University),1,LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code
+doi:10.1145/3729274,2025,Proceedings of the ACM on Programming Languages,1,Type-Constrained Code Generation with Language Models
+doi:10.1145/3746059.3747646,2025,,1,Denicek: Computational Substrate for Document-Oriented End-User Programming
+doi:10.1109/southeastcon63549.2026.11476670,2026,,1,Compiler-Guided Inference-Time Adaptation: Improving GPT-5 Programming Performance in Idris
+doi:10.17586/2226-1494-2026-26-3-565-573,2026,Scientific and technical journal of information technologies mechanics and optics,1,Domain-specific code analysis approach
+doi:10.48550/arxiv.2211.12588,2022,arXiv (Cornell University),1,Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
+doi:10.48550/arxiv.2203.05115,2022,arXiv (Cornell University),1,Internet-augmented language models through few-shot prompting for open-domain question answering
+doi:10.48550/arxiv.2207.11280,2022,arXiv (Cornell University),1,PanGu-Coder: Program Synthesis with Function-Level Language Modeling
+doi:10.1145/3796507,2026,ACM Transactions on Software Engineering and Methodology,1,Large Language Model-Based Agents for Software Engineering: A Survey
+doi:10.1109/tse.2025.3570680,2025,IEEE Transactions on Software Engineering,1,"Anchor Attention, Small Cache: Code Generation With Large Language Models"
+doi:10.1145/3729341,2025,Proceedings of the ACM on software engineering.,1,Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning
+doi:10.1109/icsme64153.2025.00062,2025,,1,A Deep Dive into Retrieval-Augmented Generation for Code Completion: Experience on WeChat
+doi:10.1109/apsec65559.2024.00052,2024,,1,Leveraging Generative AI for Accelerating Enterprise Application Development: Insights from ChatGPT
+doi:10.1109/smc58881.2025.11343579,2025,,1,Empowering LLM-based Software Defect Prediction with Chain-of-Thought and In-context Learning
+doi:10.1145/3796522,2026,ACM Transactions on Software Engineering and Methodology,1,A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models
+doi:10.1109/icassp55912.2026.11463415,2026,,1,SimulatorCoder: DNN Accelerator Simulator Code Generation and Optimization Via Large Language Models
+doi:10.1016/j.jss.2026.112973,2026,Journal of Systems and Software,1,How efficient is your clone? Evaluating LLM capabilities for runtime and memory-aware code selection
+doi:10.1145/3794763.3794824,2026,,1,SkelDPO: A Skeleton-Guided Direct Preference Optimization Framework for Efficient Code Generation
+doi:10.18653/v1/2023.acl-long.411,2023,,1,Large Language Models Meet NL2Code: A Survey
+doi:10.1109/medai59581.2023.00044,2023,,1,A Review on Code Generation with LLMs: Application and Evaluation
+doi:10.1145/3611643.3616339,2023,,1,CCT5: A Code-Change-Oriented Pre-trained Model
+doi:10.1109/icse48619.2023.00179,2023,,1,SkCoder: A Sketch-based Approach for Automatic Code Generation
+doi:10.1145/3643795.3648384,2024,,1,LLM-based and Retrieval-Augmented Control Code Generation
+doi:10.3390/app14031046,2024,Applied Sciences,1,An Empirical Study of the Code Generation of Safety-Critical Software Using LLMs
+doi:10.1145/3675395,2024,ACM Transactions on Software Engineering and Methodology,1,AceCoder : An Effective Prompting Technique Specialized in Code Generation
+doi:10.1145/3597926.3598048,2023,,1,CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation

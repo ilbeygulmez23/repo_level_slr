@@ -1,0 +1,61 @@
+key,decision,reason,tier,justification
+doi:10.1145/3755881.3755913,unsure,,,unclear completion
+doi:10.5281/zenodo.17870341,exclude,EC0,,off-topic
+doi:10.70267/cai.v3n4.127145,exclude,EC6,,review
+doi:10.1145/3708519,exclude,EC6,,survey/position
+arxiv:2607.27167,include,,,"from-scratch program synthesis, tests"
+doi:10.18653/v1/2023.findings-emnlp.917,exclude,EC3,,translation data augmentation snippets
+doi:10.25394/pgs.33968797,exclude,EC0,,hardware
+doi:10.4018/979-8-3693-6250-1.ch002,exclude,EC6,,book chapter overview
+doi:10.1145/3793302.3793371,include,,,"multi-file React apps from specs, evaluated"
+arxiv:2509.14745,exclude,EC1,,PRs to existing repos
+arxiv:2607.27146,include,,,training envs for from-scratch programs
+doi:10.3390/buildings16091722,exclude,EC3,,isolated control code
+doi:10.1080/20964471.2026.2615511,exclude,EC3,,geospatial isolated code
+arxiv:2211.12588,exclude,EC3,,isolated reasoning programs
+doi:10.1145/3803437.3805230,exclude,EC2,,"completion, no executed tests stated"
+doi:10.1145/3586030,exclude,EC0,,user study
+doi:10.1016/j.jss.2024.112149,exclude,EC4,,summarization
+arxiv:2508.04125,unsure,,,project-level tasks user study; unclear
+doi:10.1145/3565971,exclude,EC6,,survey
+doi:10.1109/ase63991.2025.00235,include,,,"contract-level with context, replay tests"
+title:agenttoolkitforefficientfeaturecreationwithinexistingcodebase,exclude,EC1,,"thesis, feature in existing codebase"
+arxiv:2410.19245,unsure,,,project-level multi-agent; unclear
+doi:10.1109/ase63991.2025.00075,exclude,EC0,,decompiled pseudocode refactoring
+arxiv:2603.06365,exclude,EC4,,security audit
+doi:10.1109/rew61692.2024.00045,unsure,,,requirements to system code; unclear
+arxiv:2406.14497,exclude,EC3,,retrieval for isolated code
+doi:10.1145/3551349.3559549,exclude,EC3,,snippet generation
+arxiv:2401.07339,include,,,"repo-level benchmark with tests, agent"
+doi:10.1145/3643916.3644403,exclude,EC3,,library API use isolated
+doi:10.1109/tetc.2024.3471684,exclude,EC0,,DBMS aging
+arxiv:2512.22387,include,,,empirical study of agent-generated multi-file projects
+arxiv:2606.13763,include,,,"agents build chess engines, oracles"
+arxiv:2509.18808,unsure,,,repo-level subset; unclear execution
+arxiv:2604.06793,exclude,EC4,,documentation
+doi:10.52202/079017-3202,exclude,EC3,,snippet translation
+doi:10.5281/zenodo.22128911,exclude,EC10,,data deposit
+doi:10.1109/ase63991.2025.00248,exclude,EC3,,function-level
+arxiv:2602.23047,exclude,EC3,,context tasks not repo gen
+doi:10.3390/fi18090471,include,,,"library port C to Rust, verified"
+doi:10.1145/3650105.3652301,exclude,EC3,,snippet translation
+arxiv:2409.00921,exclude,EC2,,completion
+doi:10.1109/icaace69793.2026.11508786,exclude,EC4,,code review
+arxiv:2506.19724,unsure,,,paper to code; unclear
+doi:10.1109/icsme64153.2025.00041,exclude,EC3,,isolated secure code
+doi:10.1145/3786335.3813132,exclude,EC4,,non-code documents
+doi:10.1109/icbase70763.2026.11619461,exclude,EC0,,environment reconstruction
+doi:10.1007/978-3-031-75434-0_8,unsure,,,no abstract
+doi:10.5281/zenodo.20779855,exclude,EC6,,experience report
+doi:10.1145/3729341,exclude,EC3,,fine-tuning method
+doi:10.5281/zenodo.19430533,exclude,EC10,,podcast
+doi:10.5281/zenodo.22767474,exclude,EC0,,math formalization
+arxiv:2510.14509,include,,,BDD benchmark end-to-end software
+arxiv:2509.20136,unsure,,,game generation; multi-file unclear
+arxiv:2506.17627,unsure,,,cross-file benchmark perturbation; unclear
+doi:10.1145/3729287,unsure,,,program translation; scale unclear
+doi:10.21203/rs.3.rs-10241058/v1,exclude,EC3,,difficulty study
+title:automateddevelopmentenvironmentusinganagentbasedapproachandmodelcontextprotocolm,unsure,,,end-to-end dev agent; unclear
+doi:10.48448/bqj0-ak93,exclude,EC2,,completion benchmark
+arxiv:2609.32459,unsure,,,harness study; tasks unclear
+arxiv:2410.24198,exclude,EC3,,function-level

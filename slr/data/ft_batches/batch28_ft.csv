@@ -1,0 +1,9 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1007/978-3-032-00828-2_16,exclude,EC8,,,,,,,No full text and no abstract; project-scale C-to-Rust claim cannot be verified; evaluation unknown.
+doi:10.1109/iceca66444.2025.11383462,exclude,EC8,,,,,,,"No full text; NL-to-deployed-system multi-agent, 65% task success, but how success is judged is not described; IC5 not met."
+doi:10.1145/3800424.3800453,exclude,EC3,,,,,,,"No full text; website generation, multi-file output not indicated; evaluation is accessibility-tool compliance only, not functional correctness."
+doi:10.1145/3786181.3788723,exclude,EC8,,,,,,,"No full text; truncated abstract, translation granularity and evaluation not described."
+doi:10.1145/3786167.3788408,include,,core,nl-to-repo,method;empirical,,build-run;nonfunctional,preprint,"No full text; ontology agents vs ChatDev/GHSpec, 6-sprint program x100 runs, runnable-project structural check plus cost/tokens/time."
+doi:10.1016/j.eswa.2026.134396,exclude,EC8,,,,,,,No full text and no abstract; multi-agent code generation scope and evaluation unknown.
+doi:10.1109/compsac69091.2026.00436,exclude,EC8,,,,,,,No full text and no abstract; scope and evaluation unknown.
+doi:10.1145/3809481.3812613,exclude,EC8,,,,,,,"No full text; truncated abstract, serverless function (likely single-function) with no evaluation described."

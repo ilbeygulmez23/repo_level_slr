@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.2139/ssrn.7508618,exclude,EC8,,,,,,,no full text and no abstract; title only suggests tool comparison for rapid app development
+doi:10.55041/isjem08051,exclude,EC8,,,,,,,"no full text; abstract describes generic multi-agent framework (fraud, healthcare), no app-generation task or evaluation described"
+title:automateddevelopmentenvironmentusinganagentbasedapproachandmodelcontextprotocolm,exclude,EC8,,,,,,,"no full text; one-sentence abstract, likely university thesis; task and evaluation undeterminable"
+doi:10.1145/3805712.3808589,include,,contextual,repo-context-gen,benchmark;method,Python,reference-unit-tests;other,ACM proceedings 2026,"no full text; RUCCE repo-usage scripts invoking repo-internal APIs, verified reference scripts; execution-based eval assumed, unconfirmed"
+doi:10.5281/zenodo.20265206,include,,contextual,repo-context-gen,benchmark;empirical,Solidity;Rust;Move;Cairo,reference-unit-tests,preprint,"no full text; 42 tasks, missing contract functionality/cross-chain translation in production repos, scored by existing verification suites"
+doi:10.5281/zenodo.21100657,exclude,EC8,,,,,,,"no full text and no abstract; context compression method, evaluation unknown"
+doi:10.5281/zenodo.22769026,include,,core,nl-to-repo,method,TypeScript,build-run,preprint,"no full text; PoC: compiler-in-loop multi-file TS project generation, single Express/JWT task, tsc errors only"
+arxiv:2604.17745,include,,core,paper-to-repo,method,Python,llm-judge;human,preprint,hierarchical manager agents; PaperBench + Paper2Code; also P2C-Ex revised reference-free LLM-judge protocol
+doi:10.20944/preprints202608.1294.v1,include,,core,nl-to-app,method,TypeScript,build-run;other,preprint,"no full text; CodeCraft schema-driven deterministic generators + 6 LangGraph agents; weak eval (schema iterations, deployability), no controlled study"
+arxiv:2601.00376,exclude,EC2,,,,,,,InlineCoder on DevEval/RepoExec evaluated only with EM/ES/BLEU/ID.F1; authors explicitly skip Pass@k
+arxiv:2606.19830,include,,core,nl-to-app,benchmark;training-data,GDScript,build-run;similarity;other,preprint,Godot game projects from theme; 300-project JamBench + 7.8K JamSet; Task2 completion subtasks; deterministic headless-engine verification
+doi:10.1145/3842390,include,,core,nl-to-repo,method,unspecified,generated-tests;build-run;other,TOSEM 2026,"no full text; SRS+ADD to application, 3 industrial case studies vs MetaGPT/ChatDev etc.; metrics not in abstract"

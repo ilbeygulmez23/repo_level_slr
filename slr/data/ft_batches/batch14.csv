@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2602.01655,ProjDevBench: Benchmarking AI Coding Agents on End-to-End Project Development,include,core,"""provides project requirements to coding agents and evaluates the resulting repositories""",slr/data/fulltext/arxiv_2602.01655.txt
+doi:10.1016/j.softx.2026.102636,RAGdeterm: Deterministic retrieval-augmented generation for code generation,unsure,contextual,"""project-specific source code"" RAG for code generation; evaluation unclear",
+arxiv:2409.15204,Rambo: Enhancing RAG-based repository-level method body completion,unsure,contextual,"""repository-level method body completion"" RAG; no abstract, evaluation unknown",slr/data/fulltext/arxiv_2409.15204.txt
+arxiv:2601.22706,RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories,include,contextual,"secure code generation in ""real-world repository contexts"" with SecurePass@k",slr/data/fulltext/arxiv_2601.22706.txt
+arxiv:2604.07341,ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories,include,core,"""translate and validate the entire repository"" multi-agent",slr/data/fulltext/arxiv_2604.07341.txt
+arxiv:2608.19854,Repo0: Design-Driven Zero-to-All Code Generation,include,core,"""construct an entire software project directly from natural-language requirements""",slr/data/fulltext/arxiv_2608.19854.txt
+arxiv:2601.13943,RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository,include,core,"""end-to-end microservice generation from Readme to Repository""",slr/data/fulltext/arxiv_2601.13943.txt
+doi:10.1145/3794763.3794823,RepoMind: Enhancing Repository-Level Code Generation via LLM Reasoning over Structured Repository Documentation,include,contextual,"RepoMind evaluated on ""CoderEval and DevEval"" Pass@1",
+arxiv:2602.22518,RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing,include,core,"""repository-level code modernization via automated translation"" benchmark",slr/data/fulltext/arxiv_2602.22518.txt
+arxiv:2507.14791,RepoScope: Leveraging Call Chain-Aware Multi-View Context for Repository-Level Code Generation,include,contextual,"RepoScope evaluated on ""CoderEval and DevEval"" pass@1",slr/data/fulltext/arxiv_2507.14791.txt
+arxiv:2606.19988,Repository-Level Solidity Code Generation with Large Language Models: From Prompting to Fine-Tuning,unsure,contextual,"""repository-level Solidity generation"" but similarity metric SolidityScore",slr/data/fulltext/arxiv_2606.19988.txt
+arxiv:2605.07122,RepoZero: Can LLMs Generate a Code Repository from Scratch?,include,core,"""re-implement an entire repository"" from API specifications",slr/data/fulltext/arxiv_2605.07122.txt

@@ -1,0 +1,41 @@
+key,year,venue,n_seeds,title
+doi:10.1109/icsme64153.2025.00069,2025,,1,Integrating Rules and Semantics for LLM-Based C-to-Rust Translation
+doi:10.1002/smr.2723,2024,Journal of Software Evolution and Process,1,LLMs for science: Usage for code generation and data analysis
+doi:10.18653/v1/2023.acl-long.45,2023,,1,Self-Edit: Fault-Aware Code Editor for Code Generation
+doi:10.18653/v1/2024.acl-long.269,2024,,1,MapCoder: Multi-Agent Code Generation for Competitive Problem Solving
+doi:10.1145/3643916.3644418,2024,,1,Knowledge-Aware Code Generation with Large Language Models
+doi:10.1145/3691620.3695506,2024,,1,A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement
+doi:10.1145/3674805.3690756,2024,,1,Rusty Linux: Advances in Rust for Linux Kernel Development
+doi:10.1145/3717061,2025,ACM Transactions on Software Engineering and Methodology,1,An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities
+doi:10.63317/3agxr3ouzo5m,2024,,1,Beyond Code: Evaluate Thought Steps for Complex Code Generation
+doi:10.1109/icpc66645.2025.00035,2025,,1,CLCoSum: Curriculum Learning-Based Code Summarization for Code Language Models
+doi:10.1145/3746027.3755425,2025,,1,From Model Diagram to Code: A Benchmark Dataset and Multi-Agent Framework
+doi:10.1145/3789667,2026,ACM Transactions on Software Engineering and Methodology,1,Code-Enhanced Cross-Perspective Bug Question Retrieval
+doi:10.1145/3806007.3810968,2026,,1,TOSSS: A CVE-based Software Security Benchmark for Large Language Models
+doi:10.3390/computers15090625,2026,Computers,1,Agentic Cryptographic Debt: Repository-Level Measurement of Post-Quantum Migration Regression Under Autonomous AI Software Development
+doi:10.64898/2026.09.19.752880,2026,bioRxiv (Cold Spring Harbor Laboratory),1,Scrub Data: A Framework for Reproducible Data Curation with AI Coding Agents
+doi:10.1145/3803633.3803662,2026,,1,Research on Formal Specification Generation Methods forAirborne Software Testing
+doi:10.1145/3610721,2025,Communications of the ACM,1,Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions
+doi:10.1145/3708519,2024,ACM Transactions on Software Engineering and Methodology,1,Automatic Programming: Large Language Models and Beyond
+doi:10.1109/tetc.2024.3471684,2024,IEEE Transactions on Emerging Topics in Computing,1,A Comparative Analysis of Software Aging in Relational Database System Environments
+doi:10.1109/qrs57517.2022.00112,2022,,1,An Empirical Study on Software Aging of Long-Running Object Detection Algorithms
+doi:10.1145/3697090.3699798,2024,,1,Comparison of Machine Learning Algorithms for Detecting Software Aging in SQL Server
+doi:10.1109/globalaisummit62156.2024.10947773,2024,,1,Accelerating Software Development with Artificial Intelligence
+doi:10.5753/wtf.2026.23233,2026,,1,A Case Study on Software Aging in LLM-Generated Python Applications
+doi:10.1109/access.2022.3196347,2022,IEEE Access,1,Code Generation Using Machine Learning: A Systematic Review
+doi:10.1109/issre62328.2024.00030,2024,,1,Assessing the Performance of AI-Generated Code: A Case Study on GitHub Copilot
+doi:10.1109/ms.2024.3428439,2024,IEEE Software,1,Tales From the Trenches: Expectations and Challenges From Practice for Code Review in the Generative AI Era
+doi:10.1109/icaice63571.2024.10863866,2024,,1,New Approaches to Automated Software Testing Based on Artificial Intelligence
+doi:10.48550/arxiv.2306.00029,2023,arXiv (Cornell University),1,CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs
+doi:10.48550/arxiv.2306.10194,2023,arXiv (Cornell University),1,Artificial Intelligence for Technical Debt Management in Software Development
+doi:10.1109/la-cci62337.2024.10814750,2024,,1,Twisted Games: A First Experience of Inclusion of AI tools in First Year Programming Classes
+doi:10.1109/exp.at2565440.2025.11348476,2025,,1,Coding with Intelligence: The Impact of AI Tools on Mobile Programming Education
+doi:10.1145/3793302.3793596,2026,,1,On the Adoption of AI Coding Agents in Open-source Android and iOS Development
+doi:10.1145/3551349.3559555,2022,,1,Few-shot training LLMs for project-specific code-summarization
+doi:10.1109/icse48619.2023.00125,2023,,1,Impact of Code Language Models on Automated Program Repair
+doi:10.1145/3597503.3623343,2024,,1,Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries
+doi:10.1109/icse48619.2023.00180,2023,,1,An Empirical Comparison of Pre-Trained Models of Source Code
+doi:10.1109/ase56229.2023.00193,2023,,1,CAT-LM Training Language Models on Aligned Code And Tests
+doi:10.1109/saner53432.2022.00112,2022,"2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",1,Assemble Foundation Models for Automatic Code Summarization
+doi:10.1007/978-3-031-56957-9_7,2024,Lecture notes in computer science,1,Enhancing Large Language Models-Based Code Generation by Leveraging Genetic Improvement
+doi:10.1109/icicc71012.2026.11638044,2026,,1,AI Code Autocompletion and Optimization Method with Integrated Real-Time Error Diagnosis

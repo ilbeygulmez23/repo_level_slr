@@ -1,0 +1,49 @@
+key,rid,year,venue,title
+doi:10.1371/journal.pone.0270595,R0018,2022,PLoS ONE,Multi-label classification of symptom terms from free-text bilingual adverse drug reaction reports using natural language processing
+arxiv:2210.07144,R0023,2022,arXiv (Cornell University),Reprogramming Pretrained Language Models for Antibody Sequence Infilling
+doi:10.1145/3606695,R0049,2023,ACM Transactions on Asian and Low-Resource Language Information Processing,"Improving Indic code-mixed to monolingual translation using Mixed Script Augmentation, Generation & Transfer Learning"
+arxiv:2311.18450,R0053,2023,,Lessons from Building StackSpot AI: A Contextualized AI Coding Assistant
+arxiv:2407.04899,R0083,2024,arXiv (Cornell University),Algorithmic Language Models with Neurally Compiled Libraries
+doi:10.1007/s11101-024-10009-1,R0116,2024,Phytochemistry Reviews,Crude extractchemical engineering: strategy for the library generation of novel bio-active chemical entities
+arxiv:2401.14196,R0119,2024,arXiv (Cornell University),DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence
+doi:10.1109/dasa63652.2024.10836262,R0128,2024,,Enhancing Software Engineering with AI: Key Insights from ChatGPT
+arxiv:2409.19425,R0147,2024,,Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment
+doi:10.21203/rs.3.rs-4583707/v1,R0157,2024,Research Square,Large Language Models for Source Code Vulnerability Detection: A DiverseVul Analysis
+doi:10.1145/3650105.3652292,R0170,2024,,Planning to Guide LLM for Code Coverage Prediction
+arxiv:2411.10129,R0176,2024,arXiv (Cornell University),Prompting and Fine-tuning Large Language Models for Automated Code Review Comment Generation
+arxiv:2405.08216,R0210,2024,,Toward Automated Programming for Robotic Assembly Using ChatGPT
+doi:10.1016/j.envsoft.2024.106003,R0212,2024,Environmental Modelling & Software,Towards reusable building blocks for agent-based modelling and theory development
+doi:10.1021/acs.jcim.4c01309,R0214,2024,Journal of Chemical Information and Modeling,"Transformer-Decoder GPT Models for Generating Virtual Screening Libraries of HMG-Coenzyme A Reductase Inhibitors: Effects of Temperature, Prompt Length, and Transfer-Learning Strategies"
+arxiv:2404.08947,R0221,2024,arXiv (Cornell University),Zero-Shot Code Representation Learning via Prompt Tuning
+doi:10.1158/1538-7445.am2025-4464,R0224,2025,Cancer Research,Abstract 4464: A large language model for diverse 2D molecular generation (2DMG) and its application in focused library generation and rational design
+doi:10.1109/ictbig68706.2025.11323919,R0236,2025,,Agentic AI-Driven CI/CD Pipelines for Autonomous Software Delivery
+doi:10.1007/978-3-032-06674-9_51,R0248,2025,Lecture notes in networks and systems,A Novel Deep Learning-Based Technique for Automatic Source Code Summarization
+doi:10.2139/ssrn.5987998,R0252,2025,SSRN Electronic Journal,A Programming-Specific Retrieval-Augmented Generation (RAG) Model Using LangChain
+doi:10.15849/ijasca.250730.11,R0255,2025,International Journal of Advances in Soft Computing and its Applications,Assessing ChatGPT's Capability in Extracting Architectural Elements from Software Systems
+arxiv:2509.07367,R0265,2025,arXiv (Cornell University),Autonomous Code Evolution Meets NP-Completeness
+title:benchmarkingllmsensitivitytopromptformatsacontaminationfreeapproach,R0271,2025,OSF Preprints (OSF Preprints),Benchmarking LLM Sensitivity to Prompt Formats: A Contamination-Free Approach
+doi:10.1145/3702653.3744328,R0272,2025,,Benchmarking of Generative AI Tools in Software Engineering Education: Formative Insights for Curriculum Integration
+doi:10.1109/ase63991.2025.00155,R0280,2025,,Can Mamba Be Better? An Experimental Evaluation of Mamba in Code Intelligence
+arxiv:2507.10646,R0287,2025,arXiv (Cornell University),CodeAssistBench (CAB): Dataset & Benchmarking for Multi-turn Chat-Based Code Assistance
+arxiv:2506.17627,R0290,2025,,CODEMORPH: Mitigating Data Leakage in Large Language Model Assessment
+arxiv:2508.08322,R0296,2025,arXiv (Cornell University),"Context Engineering for Multi-Agent LLM Code Assistants Using Elicit, NotebookLM, ChatGPT, and Claude Code"
+doi:10.1109/msr66628.2025.00075,R0302,2025,,CoUpJava: A Dataset of Code Upgrade Histories in Open-Source Java Repositories
+doi:10.1117/12.3057663,R0305,2025,,CWA and TIC library generation and laboratory validation on field portable FTIR systems
+doi:10.1109/svcc65277.2025.11133649,R0313,2025,,"Demo: Fixing C/C++ Vulnerabilities with LLMs : Prompt, Detect, Fix: No More Unsafe Code"
+doi:10.1016/j.lddd.2025.100267,R0316,2025,Letters in Drug Design & Discovery,"Design and combinatorial library generation of azole derivatives as anticancer agents: QSAR, molecular docking and dynamic approach"
+doi:10.1145/3735635,R0320,2025,ACM Transactions on Software Engineering and Methodology,Do Current Language Models Support Code Intelligence for R Programming Language?
+doi:10.31649/vitce/2.2025.47,R0331,2025,Information Technology and Computer Engineering,Evaluation of human and AI cooperation in pair programming on the example of CodeLlama and GPT-4
+arxiv:2506.02049,R0333,2025,arXiv (Cornell University),EvoGit: Decentralized Code Evolution via Git-Based Multi-Agent Collaboration
+arxiv:2510.04605,R0337,2025,arXiv (Cornell University),Exploring the Power of Diffusion Large Language Models for Software Engineering: An Empirical Investigation
+title:greenbydesignenergyguidedrerankingofllmgeneratedprograms,R0356,2025,RODIN (Universidad de Cádiz),Green by Design: Energy-Guided Reranking of LLM-Generated Programs
+arxiv:2504.20799,R0357,2025,arXiv (Cornell University),"Hallucination by Code Generation LLMs: Taxonomy, Benchmarks, Mitigation, and Challenges"
+doi:10.1109/icairc68035.2025.11385172,R0360,2025,,Hierarchical Syntax-Aware Modeling for Code Generation and Program Repair
+arxiv:2507.02976,R0361,2025,arXiv (Cornell University),How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench
+doi:10.64091/atiml.2025.000164,R0363,2025,AVE Trends in Intelligent Management Letters,Hybrid Reasoning Developer Assistants Leveraging LLMs for Enterprise Grade Java and Node Financial Systems
+arxiv:2507.05200,R0368,2025,,In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code
+doi:10.1109/iecon58223.2025.11221674,R0370,2025,,Industrial Control Software Migration Based on Large Language Models
+doi:10.1145/3715908,R0380,2025,ACM Transactions on Software Engineering and Methodology,Large Language Model-Aware In-Context Learning for Code Generation
+doi:10.1007/978-3-031-94931-9_19,R0383,2025,Lecture notes in business information processing,Leveraging LLMs to Discover Causal Dependencies: A Case Study on a University Program
+arxiv:2512.12730,R0402,2025,arXiv (Cornell University),NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents
+arxiv:2509.14745,R0404,2025,ACM Transactions on Software Engineering and Methodology,On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub
+arxiv:2601.11525,R0415,2025,arXiv (Cornell University),PlotGen-Bench: Evaluating VLMs on Generating Visualization Code from Diverse Plots across Multiple Libraries

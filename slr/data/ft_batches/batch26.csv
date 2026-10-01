@@ -1,0 +1,10 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.1109/iaict71158.2026.11620682,Evaluating the Effect of Artefact Representation on LLM-Based RESTful API Code Generation,unsure,core,"""LLM-Based RESTful API Code Generation""; no abstract, may be app-level [snowball r1]",
+doi:10.1145/3805712.3809571,Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation,unsure,contextual,"""repository representation for code completion""; evaluation type unclear [snowball r1]",
+doi:10.1145/3808169,Project-Level C-to-Rust Translation via Pointer Knowledge Graphs,include,core,"""Project-Level C-to-Rust Translation"" with LLMs [snowball r1]",
+doi:10.1109/saner67736.2026.00050,Refining LLM-Based Cobol-to-Java Translation via Natural Language Summary Augmentation,unsure,core,"""Cobol-to-Java Translation""; no abstract, scope unclear [snowball r1]",
+doi:10.1145/3803437.3805230,RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale,unsure,contextual,"""repository-level code completion""; evaluation metric unclear from abstract [snowball r1]",
+doi:10.1007/978-3-032-31930-2_12,SigRef: Verification-Driven Reflection for Faithful Paper-to-Code Development,unsure,core,"""Faithful Paper-to-Code Development""; paper to repository, no abstract [snowball r1]",
+doi:10.1109/icassp55912.2026.11463415,SimulatorCoder: DNN Accelerator Simulator Code Generation and Optimization Via Large Language Models,unsure,core,"""generate DNN accelerator simulators based on natural language descriptions"" [snowball r1]",slr/data/fulltext/doi_10.1109_icassp55912.2026.11463415.txt
+doi:10.1145/3744916.3773271,Top General Performance = Top Domain Performance? DomainCodeBench: A Multi-domain Code Generation Benchmark,unsure,contextual,"""fine-grained dependency information"" framework-based tasks; evaluation type unclear [snowball r1]",slr/data/fulltext/doi_10.1145_3744916.3773271.txt
+doi:10.1109/csecs69124.2026.11541607,Web Application for the Automatic Code Generation of Fullstack Projects Using Generative Artificial Intelligence: GPT-5,include,core,"""generates fullstack projects"" Angular frontend and .NET backend [snowball r1]",

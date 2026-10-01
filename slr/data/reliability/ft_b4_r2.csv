@@ -1,0 +1,26 @@
+key,decision,reason,tier,justification
+arxiv:2607.06306,include,,core,"Benchmark for multi-route executable web apps generated from screenshots, executability and interaction evaluated."
+arxiv:2312.05772,exclude,EC2,,"Repo-aware function generation evaluated by reuse rates and manual annotation, not executed tests."
+arxiv:2606.05720,exclude,EC1,,Implements features in an existing CMS codebase; context-management architecture.
+arxiv:2605.14478,include,,contextual,"Cross-file helper completion with stale retrieval context, evaluated by executed tests."
+arxiv:2603.11073,exclude,EC6,,Experience report on vibe coding.
+doi:10.1109/icassp55912.2026.11463415,exclude,EC3,,Function/module-level simulator tasks from spec; no evidence of multi-file repository output.
+arxiv:2603.20299,include,,core,Agent generates multi-module game-theory frameworks from requirements; executed pass rate.
+arxiv:2606.27045,exclude,EC6,,Conceptual architecture proposal without empirical evaluation of generation.
+arxiv:2311.09835,include,,contextual,"Repository-level tasks generating executable scripts/code using repo files, evaluated by execution Pass@k."
+arxiv:2402.03630,exclude,EC2,,"Cross-file completion evaluated only by exact match, CodeBLEU, syntax match."
+arxiv:2609.24348,exclude,EC6,,Process framework for education evaluated by student survey; no generation benchmark.
+arxiv:2604.16314,exclude,EC1,,Runtime addition of functions to an existing system; small tasks.
+doi:10.22369/issn.2153-4136/15/2/6,exclude,EC3,,Student case study of ChatGPT building a single-program GUI; qualitative.
+arxiv:2604.24678,exclude,EC1,,Multi-file DSL change generation and modification evaluated mostly by similarity metrics.
+arxiv:2508.18106,exclude,EC2,,"Repository-context generation scored by SAST and static/syntax checks, no executed tests."
+arxiv:2404.00599,include,,contextual,"Repository-level function generation benchmark with executed tests, Pass@k."
+arxiv:2609.00568,exclude,EC1,,Evaluated only on SWE-bench issue resolution.
+arxiv:2602.22518,include,,core,Whole-repository translation benchmark with hidden implementation-agnostic executed tests.
+doi:10.55041/ijsrem63072,exclude,EC3,,"Developer-query assistant; no repository generation task, weak evaluation."
+arxiv:2607.13921,include,,core,"Compiler-feedback method for repository-level Rust translation and skeleton-to-library generation, unit-tested."
+arxiv:2608.16742,include,,contextual,Test-driven agent evaluated on RepoEval repository-level generation with executed tests.
+arxiv:2509.09614,exclude,EC1,,"Mostly comprehension, refactoring, bug and feature tasks on existing codebases."
+arxiv:2502.17139,include,,contextual,Inference acceleration for repository-level generation on DevEval/RepoEval with test-based correctness.
+doi:10.47392/irjaem.2026.0294,exclude,EC8,,Platform description with no real evaluation; incremental search/replace edits.
+arxiv:2509.18808,include,,contextual,Includes 129 repository-level tasks with executed tests under stepwise requirements.

@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.1109/ccge67142.2026.11581835,2026,,1,Automated Code Debugging and Deployment Using Agentic AI
+doi:10.1007/s10472-026-10017-1,2026,Annals of Mathematics and Artificial Intelligence,1,CHORUS++: An agentic RAG framework with iterative refinement for linear programming code generation
+doi:10.1145/3803437.3805230,2026,,1,RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale
+doi:10.1109/iolts69666.2026.11633814,2026,,1,From Prompts to Pressure: Evaluating LLM-driven Agents for GPU Stress-code Generation
+doi:10.1109/codit70676.2026.11630895,2026,,1,Automated PLC Programming Using a Multi-Task LLM System
+doi:10.1007/978-981-92-4805-6_16,2026,Lecture notes in computer science,1,TensorAgent: Multi-agent Framework for Automated Tensor Core Code Generation
+doi:10.1109/icsme64153.2025.00041,2025,,1,"Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation"
+doi:10.3390/software5010004,2026,Software,1,Mitigating Prompt Dependency in Large Language Models: A Retrieval-Augmented Framework for Intelligent Code Assistance
+doi:10.1109/ase63991.2025.00070,2025,,1,DrainCode: Stealthy Energy Consumption Attacks on Retrieval-Augmented Code Generation via Context Poisoning
+doi:10.1109/fllm67465.2025.11391177,2025,,1,Investigating Retrieval Augmented Generation for LLM-Based Code Generation
+doi:10.1109/vr67842.2026.00081,2026,,1,GenAssist: Interactive Prompt-Driven XR Program Generation
+doi:10.1109/icassp55912.2026.11462224,2026,,1,IM-RACG: Information Density-Based Adaptive Masking Strategy for Retrieval-Augmented Code Generation
+doi:10.1109/tdsc.2026.3686845,2026,IEEE Transactions on Dependable and Secure Computing,1,Covert Knowledge Poisoning Attacks in Retrieval-Augmented Code Generation
+doi:10.1145/3805621.3807637,2026,,1,From Code to Execution: Multi-Agent GraphRAG for Automated Artifact Generation
+doi:10.1109/aaiml67890.2026.11498214,2026,,1,Source Code Error Categorization and Explanation by Retrieval Augmented Generation
+doi:10.1109/cscwd68734.2026.11582733,2026,,1,VulRetriever: Learning Program Representation for Vulnerability Detection
+doi:10.1145/3805712.3809571,2026,,1,Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation
+doi:10.1109/asens69964.2026.11605289,2026,,1,AutoQL: Retrieval-Augmented CodeQL Query Generation with Compiler Feedback
+doi:10.1007/978-3-032-31930-2_12,2026,Lecture notes in computer science,1,SigRef: Verification-Driven Reflection for Faithful Paper-to-Code Development
+doi:10.1109/ichi69079.2026.00113,2026,,1,Pseudocode Generation from Clinical Protocol Flowchart using Large Vision-Language Models
+doi:10.1109/compsac69091.2026.00430,2026,,1,RAILS-DK: Dynamic Knowledge Management for Retrieval-Augmented Code Repair in Scientific Computing
+doi:10.3390/electronics15184334,2026,Electronics,1,Baseline Output Length for Prioritizing Visible-Test Regressions Under a Task-Count Budget: Controlled Model and Retrieval-Context Changes in LLM-Enabled Code Generation
+doi:10.48550/arxiv.2208.06213,2022,arXiv (Cornell University),1,What is it like to program with artificial intelligence?
+doi:10.48550/arxiv.2206.13179,2022,arXiv (Cornell University),1,AixBench: A Code Generation Benchmark Dataset
+doi:10.1109/iccad57390.2023.10323812,2023,,1,Invited Paper: VerilogEval: Evaluating Large Language Models for Verilog Code Generation
+doi:10.1109/access.2025.3589503,2025,IEEE Access,1,Synthetic Data Generation Using Large Language Models: Advances in Text and Code
+doi:10.1007/s10664-025-10614-4,2025,Empirical Software Engineering,1,Bugs in large language models generated code: an empirical study
+doi:10.1145/3708525,2024,ACM Transactions on Software Engineering and Methodology,1,"Efficient and Green Large Language Models for Software Engineering: Literature Review, Vision, and the Road Ahead"
+doi:10.1145/3658644.3690298,2024,,1,PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)
+doi:10.1145/3691621.3694934,2024,,1,SALLM: Security Assessment of Generated Code
+doi:10.1109/aitest62860.2024.00019,2024,,1,Benchmarks and Metrics for Evaluations of Code Generation: A Critical Review
+doi:10.1109/tse.2025.3586082,2025,IEEE Transactions on Software Engineering,1,On the Effectiveness of LLM-as-a-Judge for Code Generation and Summarization
+doi:10.1145/3719006,2025,ACM Transactions on Software Engineering and Methodology,1,Artificial Intelligence for Software Engineering: The Journey So Far and the Road Ahead
+doi:10.1109/icse55347.2025.00012,2025,,1,Reasoning Runtime Behavior of a Program with LLM: How Far are We?
+doi:10.1109/tse.2025.3587794,2025,IEEE Transactions on Software Engineering,1,The Impact of Prompt Programming on Function-Level Code Generation
+doi:10.1109/issre66568.2025.00035,2025,,1,"Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity"
+doi:10.1109/forge66646.2025.00012,2025,,1,"AI-Powered, But Power-Hungry? Energy Efficiency of LLM-Generated Code"
+doi:10.1145/3771933,2025,ACM Transactions on Software Engineering and Methodology,1,Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?
+doi:10.1145/3597503.3639111,2024,,1,Development in times of hype: How freelancers explore Generative AI?
+doi:10.1145/3691620.3695480,2024,,1,RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code
+doi:10.1109/icse55347.2025.00052,2025,,1,Licoeval: Evaluating LLMs on License Compliance in Code Generation
+doi:10.1109/icpc66645.2025.00056,2025,,1,"Quality In, Quality Out: Investigating Training Data's Role in AI Code Generation"
+doi:10.1109/aitest62860.2024.00022,2024,,1,User Centric Evaluation of Code Generation Tools (Invited Paper)
+doi:10.1145/3691620.3695552,2024,,1,ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code
+doi:10.1109/scam63643.2024.00020,2024,,1,Franc: A Lightweight Framework for High-Quality Code Generation
+doi:10.1145/3736407,2025,ACM Transactions on Software Engineering and Methodology,1,CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences
+doi:10.1145/3728940,2025,Proceedings of the ACM on software engineering.,1,ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation
+doi:10.1109/access.2025.3556973,2025,IEEE Access,1,Exploring the Potential of Offline LLMs in Data Science: A Study on Code Generation for Data Analysis
+doi:10.1109/saner64311.2025.00068,2025,,1,"Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios"
+doi:10.1145/3748506,2025,ACM Transactions on Software Engineering and Methodology,1,One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code
+doi:10.1109/ase63991.2025.00028,2025,,1,Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping
+doi:10.1145/3664646.3664772,2024,,1,Chain of Targeted Verification Questions to Improve the Reliability of Code Generated by LLMs
+doi:10.1109/bigdata62323.2024.10825051,2024,,1,Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence
+doi:10.1109/fllm67465.2025.11391072,2025,,1,Energy-Aware Code Generation with LLMs: Benchmarking Small vs. Large Language Models for Sustainable AI Programming
+doi:10.1002/smr.70034,2025,Journal of Software Evolution and Process,1,Evaluating the Test Adequacy of Benchmarks for LLMs on Code Generation
+doi:10.1145/3801158,2026,ACM Transactions on Software Engineering and Methodology,1,An Empirical Study on the Code Refactoring Capability of Large Language Models
+doi:10.1145/3650212.3680308,2024,,1,Oracle-Guided Program Selection from Large Language Models
+doi:10.1109/icse55347.2025.00064,2025,,1,An Empirical Study on Automatically Detecting AI-Generated Source Code: How Far are We?
+doi:10.1109/aitest62860.2024.00015,2024,,1,ScenEval: A Benchmark for Scenario-Based Evaluation of Code Generation
+doi:10.1109/scam63643.2024.00028,2024,,1,The Fault in our Stars: Quality Assessment of Code Generation Benchmarks

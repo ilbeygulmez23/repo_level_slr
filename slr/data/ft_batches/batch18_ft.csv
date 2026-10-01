@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2508.02998,include,,contextual,repo-context-gen,benchmark;empirical,Python;Java;Go,reference-unit-tests,preprint,"383 function tasks, 22 post-2023 repos, project tests in Docker; best Pass@1 <40%; LLM-voted failure annotation (what vs how)."
+arxiv:2504.01848,include,,core,paper-to-repo,benchmark,Python,llm-judge;build-run,ICML 2025,"20 ICML 2024 papers, 8,316 author-co-developed rubric leaves; agent builds repo + reproduce.sh; o3-mini judge (F1 0.83); best 21.0%."
+arxiv:2503.07358,include,,contextual,repo-context-gen,benchmark;training-data;method,Python,generated-tests,preprint,"Sandboxed function + deps, LLM-generated tests; Train 7,415 fns/824 repos, Eval 296/99; GPT-4o 39.5 Pass@1."
+arxiv:2505.05057,exclude,EC2,,,,,,,"MARIN/APIHulBench: Java API-token completion in project context evaluated by hallucination metrics, EM and edit similarity; no executable tests."
+arxiv:2509.20136,exclude,EC3,,,,,,,"Single self-contained Pygame file (~283 LOC) from NL spec; no repository dependency; LLM/MLLM-judge on code, screenshots, video."
+arxiv:2509.22644,include,,core,nl-to-app,method;training-data,JavaScript;TypeScript;HTML;CSS,bdd-e2e-tests;llm-judge,preprint,"Website codebase agent with VLM screenshot + GUI-agent feedback, Step-GRPO; WebGen-Bench 101 tasks/647 GUI tests; Claude-3.5 26.4%->51.9%."
+doi:10.1109/bigdia71496.2026.11684680,exclude,EC8,,,,,,,"No full text; abstract vague on output scope (snippets vs software) and self-built dataset/metrics (""accuracy"", ""functional consistency"") undefined."
+doi:10.1109/iccmc69250.2026.11624731,include,,core,nl-to-app,method,HTML;CSS;JavaScript,other;nonfunctional,ICCMC 2026,"No full text; multi-agent NL->modular web app synthesis; 50 tasks, architectural accuracy 96.8%, structural integrity 94.2%; metrics loosely defined."
+doi:10.1109/icicit69063.2026.11634153,exclude,EC8,,,,,,,"No full text; abstract describes NL->full-stack SaaS framework but reports no evaluation, tasks or metrics."
+doi:10.1109/access.2026.3686308,exclude,EC4,,,,,,,"Outputs are SNL requirements, UML class/sequence diagrams and skeletal Java stubs, verified by instance matching; no functional repository. No full text."
+doi:10.1109/c358072.2023.10436306,include,,core,nl-to-app,empirical,Dart,human;nonfunctional;other,IEEE C3 2023,"No full text; ChatGPT-3.5 builds Flutter mobile app from scratch via iterative prompts; code/solution quality, response time, vs human code."
+doi:10.1109/iclad65226.2025.00029,exclude,EC8,,,,,,,No full text; RTL dataset for fine-tuning; abstract gives no repo-dependent execution-based generation evaluation (human eval only).

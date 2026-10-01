@@ -1,0 +1,61 @@
+key,title,year,venue
+doi:10.1109/compsac65507.2025.00158,C2RustTV: An LLM-based Framework for C to Rust Translation and Validation,2025,
+arxiv:2305.07922,CodeT5+: Open Code Large Language Models for Code Understanding and Generation,2023,arXiv (Cornell University)
+doi:10.1109/conit69683.2026.11620835,Aether: An AI Agent for Automating GitHub Developer Workflows,2026,
+doi:10.5281/zenodo.21781711,"Dissecting Repository-Scale Code-Agent Harnesses: Retrieval, Context, and Action Interfaces Under Model-in-the-Loop Evaluation",2026,Zenodo (CERN European Organization for Nuclear Research)
+arxiv:2504.01848,PaperBench: Evaluating AI's Ability to Replicate AI Research,2025,arXiv
+arxiv:2312.02120,Magicoder: Empowering Code Generation with OSS-Instruct,2023,arXiv (Cornell University)
+doi:10.3217/5beqv-dt259,<> comprehensive guideline on the usage of Large Language Models in the end-to-end software development life cycle,2026,TUGraz OPEN Library (Graz University of Technology)
+doi:10.1109/icecet65726.2026.11631806,Cindy: A Toolkit for Automated Architecture Recovery in Large Software Repositories,2026,
+doi:10.5281/zenodo.17541890,Logicoder,2025,Zenodo (CERN European Organization for Nuclear Research)
+arxiv:2409.15204,Rambo: Enhancing RAG-based repository-level method body completion,2024,Information and Software Technology
+doi:10.1109/conisoft63288.2024.00013,Transforming Software Development: A Study on the Integration of Multi-Agent Systems and Large Language Models for Automatic Code Generation,2024,
+doi:10.1145/3729385,Medusa: A Framework for Collaborative Development of Foundation Models with Automated Parameter Ownership Assignment,2025,Proceedings of the ACM on software engineering.
+arxiv:2608.01927,Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation,2026,arXiv (Cornell University)
+doi:10.1109/lt68265.2026.11592529,Twin Minds in Code Education: Simulating Student-Tutor Dynamics using LLMs as Cognitive Digital Twins,2026,
+doi:10.1016/j.infsof.2025.107917,Reasoned or Rapid code? Unveiling the strengths and limits of DeepSeek for Solidity development,2025,Information and Software Technology
+arxiv:2609.15387,WebCraftBench: Evaluating Web Application Generation from a Software Testing Perspective,2026,arXiv (Cornell University)
+doi:10.1145/3715908,Large Language Model-Aware In-Context Learning for Code Generation,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.1109/csecs69124.2026.11541607,Web Application for the Automatic Code Generation of Fullstack Projects Using Generative Artificial Intelligence: GPT-5,2026,
+doi:10.1145/3805712.3809571,Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation,2026,
+doi:10.1109/emes65692.2025.11045587,"Comparative Analysis of ChatGPT, DeepSeek, and Gemini for Automated Code Generation",2025,
+arxiv:2601.20789,SERA: Soft-Verified Efficient Repository Agents,2026,arXiv
+doi:10.1109/access.2026.3722027,CCGMAS: A Multi-Agent Framework for Cross-Platform Go Code Generation via Requirement-Centered Semantic Modeling and Feedback-Driven Verification,2026,IEEE Access
+doi:10.1109/access.2025.3631952,LLM-Based Code Generation: A Systematic Literature Review With Technical and Demographic Insights,2025,IEEE Access
+arxiv:2604.22659,RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices,2025,Proceedings of the ACM on software engineering.
+arxiv:2507.02976,How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench,2025,arXiv (Cornell University)
+doi:10.1109/icse-fose59343.2023.00008,Large Language Models for Software Engineering: Survey and Open Problems,2023,
+arxiv:2507.09866,Turning the Tide: Repository-based Code Reflection,2025,
+doi:10.1002/smr.2723,LLMs for science: Usage for code generation and data analysis,2024,Journal of Software Evolution and Process
+doi:10.1145/3808138,One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation,2026,Proceedings of the ACM on software engineering.
+arxiv:2608.21107,Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda,2026,arXiv (Cornell University)
+arxiv:2412.08109,Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar,2024,
+doi:10.1109/iccit57492.2022.10055851,XTest: A Parallel Multilingual Corpus with Test Cases for Code Translation and Its Evaluation*,2022,
+doi:10.1109/mlcad65511.2025.11189167,RTLExplain: A Structured Approach to RTL Code Summarization and Question Answering for Medium-to-Large Designs Using LLMs,2025,2025 ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)
+doi:10.1016/j.asoc.2026.115934,ADFCoder: Evolutionary requirements comprehension based on flowchart image with complex logic structure and domain-specific requirements,2026,Applied Soft Computing
+doi:10.1109/icicds70526.2026.11604721,Encoder–Decoder Transformer Framework for Delay Mitigation in Agile Software Development Using Generative AI,2026,
+arxiv:2608.26557,DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories,2026,arXiv (Cornell University)
+doi:10.5281/zenodo.19248411,Artifact for Paper: Compressing Code Context for LLM-based Issue Resolution,2026,Zenodo (CERN European Organization for Nuclear Research)
+arxiv:2604.03632,Persistent Cross-Attempt State Optimization for Repository-Level Code Generation,2026,arXiv (Cornell University)
+doi:10.64917/feaiml/volume03issue06-01,RAG-SecCode: Retrieval-Augmented Secure Coding Guidance for Enterprise LLM Software Development,2026,Frontiers in Emerging Artificial Intelligence and Machine Learning
+doi:10.1109/fllm67465.2025.11391125,Hallucination in LLM-Based Code Generation: An Automotive Case Study,2025,
+doi:10.1145/3770748,Enhancing Domain-Specific Code Completion via Collaborative Inference with Large and Small Language Models,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.5281/zenodo.20482307,Accessibility and Semantic Quality Regressions in AI-Assisted React Development: An Empirical Study,2026,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.1109/cascon66301.2025.00024,Lumen: Developer Agency Through Transparent Context Control in AI-Assisted Programming,2025,2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+doi:10.1109/clusterworkshops61563.2024.00029,LASSI: An LLM-Based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes,2024,
+doi:10.1145/3797071,Mining Long Tail Bugs: Identifying Rare and Overlooked Issues in Code,2026,Proceedings of the ACM on software engineering.
+title:theartofcodethesurprisingpowerofbeautyinsoftwaredevelopment,The Art of Code: The surprising power of beauty in software development,2026,The Art of Code: The surprising power of beauty in software development
+arxiv:2512.18080,From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems,2025,arXiv (Cornell University)
+arxiv:2502.17139,FastCoder: Accelerating Repository-level Code Generation via Efficient Retrieval and Verification,2025,
+arxiv:2607.04212,An Evaluation of Role-Based Multiagent Code Generation on Repository-Scale Problems,2026,IEEE Software
+doi:10.1109/bigdia71496.2026.11684680,CoLSM: Collaborative Large and Small Models for Automatic Software Generation,2026,2026 12th International Conference on Big Data and Information Analytics (BigDIA)
+doi:10.1145/3702987,Empowering Agile-Based Generative Software Development through Human-AI Teamwork,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.1109/ase63991.2025.00287,Evaluating Large Language Models for Functional and Maintainable Code in Industrial Settings: A Case Study at ASML,2025,
+doi:10.1145/3691620.3695552,ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code,2024,
+doi:10.1145/3501709.3544280,Generating Diverse Code Explanations using the GPT-3 Large Language Model,2022,
+doi:10.5281/zenodo.19183223,The Death of Context Red: Moving to Agentic Development,2026,Zenodo (CERN European Organization for Nuclear Research)
+arxiv:2601.22706,RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories,2026,
+arxiv:2605.18747,Code as Agent Harness,2026,arXiv (Cornell University)
+doi:10.1109/qrs57517.2022.00112,An Empirical Study on Software Aging of Long-Running Object Detection Algorithms,2022,
+doi:10.18653/v1/2024.acl-long.619,JumpCoder: Go Beyond Autoregressive Coder via Online Modification,2024,
+doi:10.1145/3805689.3812402,"Human oversight of agentic systems in practice: Examining the oversight work, challenges, and heuristics of developers using software agents",2026,

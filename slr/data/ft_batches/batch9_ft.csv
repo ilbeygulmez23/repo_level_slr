@@ -1,0 +1,4 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2609.21293,include,,core,nl-to-app,benchmark;empirical,JavaScript;HTML,bdd-e2e-tests;other,preprint,"47 NL-spec browser game tasks; pre-declared test interface, L1 static + L2 headless-Chromium checks; output single self-contained index.html (borderline multi-file)"
+arxiv:2607.13921,include,,contextual,repo-context-gen,method,Rust,reference-unit-tests,preprint,In-generation compiler feedback method; CRUST-Bench C-to-Rust per-file translation inside golden repo + UpdatedAPI skeleton crates; unit tests
+arxiv:2603.20299,include,,core,nl-to-repo,method;training-data,unspecified,llm-judge;similarity;build-run;other,preprint,"Hierarchical RAG generating complete game-theory simulation frameworks from NL; 100 tasks; LLM-judge CQ, edit similarity, execution-based requirement pass rate"

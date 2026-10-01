@@ -1,0 +1,12 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.18653/v1/2025.naacl-long.7,include,,contextual,repo-context-gen,method,Python,reference-unit-tests;similarity,NAACL 2025,"peripheral; graph-DB retrieval agent; EvoCodeBench (212 tasks, Pass@1) separately reported alongside CrossCodeEval and SWE-bench Lite"
+doi:10.1109/icdmw69685.2025.00208,exclude,EC8,,,,,,,"no full text; method-level OOP generation with project context, but benchmark/evaluation (tests vs similarity) not stated in abstract"
+doi:10.1609/aaai.v39i24.34811,exclude,EC3,,,,,,,function-level tasks mined from repos with only local context (imports/class) concatenated; no cross-file dependency
+doi:10.1109/compsac65507.2025.00175,exclude,EC3,,,,,,,"""DL projects"" are single Kaggle notebooks; CodeBLEU plus human eval, no execution"
+doi:10.1109/ase63991.2025.00287,include,,contextual,repo-context-gen,empirical;benchmark,unspecified,build-run;reference-unit-tests;similarity;nonfunctional;human,ASE 2025,"156 proprietary ASML garage files with import-context; build@k compile in repo; unit tests (pass@k 0 everywhere, 27% coverage)"
+doi:10.1145/3746027.3755425,exclude,EC3,,,,,,,no full text; diagram-to-model-code for single model implementations; no multi-file repository evident
+doi:10.1145/3735544.3735582,exclude,EC8,,,,,,,"no full text; manual LLM-assisted Gzip C-to-Rust, type-migration prompts; evaluation of translated project unclear"
+doi:10.1145/3729287,exclude,EC3,,,,,,,Skel Python-to-JS; benchmark programs merged into single self-contained files (121-2400 LOC); single-file translation
+doi:10.1145/3729315,include,,core,repo-translation,method,Go;Rust,differential-oracle;build-run,OOPSLA 2025,"Oxidizer; 7 Go projects to Rust; 99% compile, 73% functions I/O-equivalent via test-derived snapshots"
+doi:10.1109/ase63991.2025.00235,include,,contextual,repo-context-gen,benchmark;empirical,Solidity,differential-oracle,ASE 2025,abstract only; 124 contract-level tasks with full context dependencies; historical transaction replay for correctness; 6 LLMs
+doi:10.1145/3799830.3799841,exclude,EC8,,,,,,,no full text; multi-file translation claimed but benchmarks and functional evaluation unspecified in abstract

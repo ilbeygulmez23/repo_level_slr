@@ -1,0 +1,87 @@
+key,rid,year,venue,title
+arxiv:2208.06393,R0002,2022,arXiv (Cornell University),Autonomous Intelligent Software Development
+arxiv:2212.10007,R0003,2022,arXiv (Cornell University),CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context
+arxiv:2206.12839,R0014,2022,arXiv (Cornell University),Repository-Level Prompt Generation for Large Language Models of Code
+arxiv:2312.05772,R0018,2023,IEEE Transactions on Software Engineering,"A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware"
+arxiv:2312.10101,R0021,2023,arXiv (Cornell University),A Review of Repository Level Prompting for LLMs
+arxiv:2306.03203,R0023,2023,arXiv (Cornell University),A Static Evaluation of Code Completion by Large Language Models
+arxiv:2308.16458,R0025,2023,Bioinformatics,BioCoder: a benchmark for bioinformatics code generation with large language models
+arxiv:2309.12499,R0026,2023,Proceedings of the ACM on software engineering.,CodePlan: Repository-Level Coding using LLMs and Planning
+arxiv:2305.07922,R0027,2023,arXiv (Cornell University),CodeT5+: Open Code Large Language Models for Code Understanding and Generation
+arxiv:2310.11248,R0028,2023,arXiv (Cornell University),CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion
+arxiv:2309.07062,R0033,2023,arXiv (Cornell University),Large Language Models for Compiler Optimization
+arxiv:2308.03109,R0035,2023,,Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code
+arxiv:2311.09835,R0036,2023,arXiv (Cornell University),ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code
+arxiv:2307.14991,R0037,2023,,Multilingual Code Co-evolution using Large Language Models
+doi:10.5281/zenodo.10072087,R0038,2023,Zenodo (CERN European Organization for Nuclear Research),PragmaticCode
+arxiv:arXi,R0039,2023,Zenodo (CERN European Organization for Nuclear Research),PragmaticCode
+arxiv:2306.03091,R0040,2023,arXiv (Cornell University),RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems
+arxiv:2303.12570,R0041,2023,arXiv (Cornell University),RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation
+arxiv:2306.10998,R0042,2023,arXiv (Cornell University),RepoFusion: Training Code Models to Understand Your Repository
+arxiv:2304.07590,R0044,2023,ACM Transactions on Software Engineering and Methodology,Self-Collaboration Code Generation via ChatGPT
+doi:10.22369/issn.2153-4136/15/2/6,R0052,2024,The Journal of Computational Science Education,A Case Study for using Generative Language Models in GUI Development
+arxiv:2407.01489,R0054,2024,arXiv (Cornell University),Agentless: Demystifying LLM-based Software Engineering Agents
+doi:10.32388/atahd0,R0055,2024,Qeios,aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Completion
+arxiv:2410.13187,R0056,2024,,aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Processing
+arxiv:2406.01422,R0058,2024,,Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration
+arxiv:2406.10263,R0059,2024,arXiv (Cornell University),A Lightweight Framework for Adaptive Retrieval In Code Completion With Critique Model
+doi:10.54254/2755-2721/2025.18277,R0062,2024,Applied and Computational Engineering,A Study of Coding Framework Generation by ChatGPT
+doi:10.1109/rew61692.2024.00045,R0068,2024,,Boosting LLM-Based Software Generation by Aligning Code with Requirements
+arxiv:2410.21647,R0070,2024,,Can Language Models Replace Programmers for Coding? REPOCOD Says ‘Not Yet’
+arxiv:2406.03283,R0071,2024,ACM Transactions on Software Engineering and Methodology,CatCoder : Repository-Level Code Generation with Relevant Code and Type Context
+arxiv:2405.01573,R0072,2024,arXiv (Cornell University),"Class-Level Code Generation from Natural Language Using Iterative, Tool-Enhanced Reasoning over Repository"
+arxiv:2401.07339,R0073,2024,,CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+arxiv:2406.14497,R0074,2024,,CodeRAG-Bench: Can Retrieval Augment Code Generation?
+doi:10.1145/3597503.3623316,R0075,2024,,CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models
+arxiv:2403.16443,R0076,2024,ACM Transactions on Software Engineering and Methodology,CodeS : Natural Language to Code Repository via Multi-Layer Sketch
+arxiv:2410.01353,R0077,2024,arXiv (Cornell University),Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?
+arxiv:2412.01769,R0079,2024,arXiv (Cornell University),Commit0: Library Generation from Scratch
+arxiv:2412.08063,R0080,2024,arXiv (Cornell University),ContextModule: Improving Code Completion via Repository-level Contextual Information
+arxiv:2405.19782,R0084,2024,,Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion
+arxiv:2401.01701,R0086,2024,arXiv (Cornell University),De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks via Iterative Grounding
+arxiv:2405.19856,R0087,2024,arXiv (Cornell University),DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories
+arxiv:2402.03630,R0092,2024,,Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context
+arxiv:2404.00599,R0094,2024,arXiv (Cornell University),EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories
+arxiv:2410.22821,R0095,2024,arXiv (Cornell University),EvoCodeBench: An Evolving Code Generation Benchmark with Domain-Specific Evaluations
+arxiv:2412.11990,R0096,2024,arXiv (Cornell University),ExecRepoBench: Multi-level Executable Code Completion Evaluation
+doi:10.1016/j.jss.2024.112002,R0098,2024,Journal of Systems and Software,Few-shot code translation via task-adapted prompt learning
+arxiv:2407.03625,R0099,2024,,Fix the Tests: Augmenting LLMs to Repair Test Cases with Static Collector and Neural Reranker
+doi:10.1145/3691620.3695054,R0105,2024,,GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph
+arxiv:2406.07003,R0106,2024,arXiv (Cornell University),GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model
+arxiv:2406.18294,R0108,2024,Proceedings of the AAAI Conference on Artificial Intelligence,Hierarchical Context Pruning: Optimizing Real-World Code Completion with Repository-Level Pretrained Code LLMs
+arxiv:2406.06918,R0109,2024,,HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation
+arxiv:2409.16299,R0110,2024,arXiv (Cornell University),HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale
+doi:10.1109/ijcnn60899.2024.10650776,R0111,2024,,iiPCS: Intent-Based In-Context Learning for Project-Specific Code Summarization
+arxiv:2403.16792,R0114,2024,,Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback
+arxiv:2406.12902,R0115,2024,,JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models
+arxiv:2409.20550,R0117,2024,Proceedings of the ACM on software engineering.,"LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation"
+arxiv:2406.11612,R0119,2024,arXiv (Cornell University),Long Code Arena: a Set of Benchmarks for Long-Context Code Models
+arxiv:2410.21157,R0120,2024,arXiv (Cornell University),M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation
+arxiv:2410.19245,R0121,2024,,MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming
+arxiv:2403.17927,R0122,2024,arXiv (Cornell University),MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
+doi:10.1109/icstw60967.2024.00018,R0124,2024,,“No Free Lunch” when using Large Language Models to Verify Self-Generated Programs
+arxiv:2406.11927,R0126,2024,,On the Impacts of Contexts on Repository-Level Code Generation
+arxiv:2406.04464,R0127,2024,arXiv (Cornell University),On The Importance of Reasoning for Context Retrieval in Repository-Level Code Editing
+doi:10.55041/ijsrem36242,R0131,2024,INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT,ProgAI: Enhancing Code Generation with LLMs For Real World Challenges
+arxiv:2406.01359,R0134,2024,arXiv (Cornell University),R2C2-Coder: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models
+arxiv:2401.16467,R0135,2024,arXiv (Cornell University),ReGAL: Refactoring Programs to Discover Generalizable Abstractions
+arxiv:2402.16667,R0136,2024,arXiv (Cornell University),RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation
+arxiv:2403.10059,R0137,2024,arXiv (Cornell University),Repoformer: Selective Retrieval for Repository-Level Code Completion
+arxiv:2402.14323,R0138,2024,arXiv (Cornell University),REPOFUSE: Repository-Level Code Completion with Fused Dual Context
+doi:10.1145/3691620.3695331,R0139,2024,,RepoGenix: Dual Context-Aided Repository-Level Code Completion with Language Models
+arxiv:2410.14684,R0140,2024,arXiv (Cornell University),RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph
+arxiv:2403.06095,R0141,2024,,RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level Code Completion
+doi:10.5281/zenodo.21157035,R0142,2024,International Journal on Recent and Innovation Trends in Computing and Communication,Repository-Level Code Generation with Retrieval-Augmented Large Language Model Agents
+arxiv:2412.17744,R0143,2024,IEEE Transactions on Software Engineering,RepoTransBench: A Real-World Multilingual Benchmark for Repository-Level Code Translation
+arxiv:2411.13990,R0144,2024,arXiv (Cornell University),RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust
+arxiv:2412.11713,R0145,2024,arXiv (Cornell University),Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework
+title:softwaredevelopmentforscientificcomputingusingaicodegeneration,R0147,2024,Työväentutkimus Vuosikirja,Software Development for Scientific Computing Using AI Code Generation
+arxiv:2501.00363,R0148,2024,ACM Transactions on Software Engineering and Methodology,SPDZCoder: Combining Expert Knowledge with LLMs for Generating Privacy-Computing Code
+arxiv:2406.10018,R0151,2024,ACM Transactions on Software Engineering and Methodology,STALL + : Boosting LLM-based Repository-level Code Completion with Static Analysis
+arxiv:2409.00921,R0152,2024,Proceedings of the ACM on Programming Languages,Statically Contextualizing Large Language Models with Typed Holes
+arxiv:2405.15793,R0153,2024,arXiv (Cornell University),SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+arxiv:2401.06391,R0155,2024,ACM Transactions on Software Engineering and Methodology,Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation
+arxiv:2410.00752,R0156,2024,arXiv (Cornell University),TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark
+doi:10.1109/vl/hcc60511.2024.00051,R0161,2024,,Towards Effective Validation and Integration of LLM-Generated Code
+arxiv:2412.08109,R0164,2024,,Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar
+doi:10.82308/28709,R0165,2024,eScholarship@McGill (McGill),Using Repository Level Embeddings to Generate Code Using Large Language Models

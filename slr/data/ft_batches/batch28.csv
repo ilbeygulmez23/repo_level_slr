@@ -1,0 +1,9 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.1007/978-3-032-00828-2_16,RustMap: Towards Project-Scale C-to-Rust Migration via Program Analysis and LLM,unsure,core,"""Project-Scale C-to-Rust Migration"" via LLM; no abstract [snowball r2]",
+doi:10.1109/iceca66444.2025.11383462,Semantic Kernel for Software Engineering: A Multi-Agent Framework for Autonomous Development Lifecycles,include,core,"multi-agent 'natural language requirements to deployed systems', vs ChatDev [snowball r2]",
+doi:10.1145/3800424.3800453,A Multi-Agent Framework for Accessible Web Code Generation,unsure,core,multi-agent 'website generation'; multi-file scope unclear [snowball r2],
+doi:10.1145/3786181.3788723,An Empirical Study of C to Rust Translation using Local Large-Language Models,unsure,core,C to Rust translation of 'codebases'; granularity unclear [snowball r2],
+doi:10.1145/3786167.3788408,From Stateless Code Generation to Living Ontologies,include,core,"ontology agents vs 'GHSpec and ChatDev', 'runnable project' [snowball r2]",
+doi:10.1016/j.eswa.2026.134396,Learning to coordinate: A knowledge-distilled agent for adaptive multi-agent code generation,unsure,core,No abstract; 'adaptive multi-agent code generation' scope unclear [snowball r2],
+doi:10.1109/compsac69091.2026.00436,Proactive Multi-Agent Systems for Autonomous Code Generation and Software Maintenance,unsure,core,"No abstract; 'Autonomous Code Generation' multi-agent, possibly repository-level [snowball r2]",
+doi:10.1145/3809481.3812613,Spec2FaaS: using AI Agents for Autonomous Serverless Function Development and Deployment,unsure,core,'end-to-end pipeline' from requirements to serverless function deployment [snowball r2],

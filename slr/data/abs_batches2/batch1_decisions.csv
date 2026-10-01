@@ -1,0 +1,49 @@
+key,decision,reason,tier,note
+doi:10.1371/journal.pone.0270595,exclude,EC0,,'adverse drug reaction reports' NLP classification; off-topic
+arxiv:2210.07144,exclude,EC0,,'antibody sequence infilling'; not code generation
+doi:10.1145/3606695,exclude,EC0,,'code-mixed to monolingual translation' of natural language
+arxiv:2311.18450,exclude,EC0,,'lessons learned' building StackSpot AI product; no repo generation
+arxiv:2407.04899,exclude,EC0,,'neurally compiled libraries' for algorithmic reasoning; not code generation
+doi:10.1007/s11101-024-10009-1,exclude,EC0,,'bio-active chemical entities' library generation; chemistry
+arxiv:2401.14196,exclude,EC3,,general code LLM 'DeepSeek-Coder'; no repo-level executable evaluation stated
+doi:10.1109/dasa63652.2024.10836262,exclude,EC3,,"ChatGPT case study on 'code generation, bug fixing, documentation'; no repo generation"
+arxiv:2409.19425,exclude,EC0,,'multimodal alignment' of vision-language encoders
+doi:10.21203/rs.3.rs-4583707/v1,exclude,EC4,,'vulnerability detection'; output not code
+doi:10.1145/3650105.3652292,exclude,EC4,,'code coverage prediction'; output not code
+arxiv:2411.10129,exclude,EC4,,'code review comment generation'
+arxiv:2405.08216,exclude,EC3,,'robot control code' generation; domain snippets
+doi:10.1016/j.envsoft.2024.106003,exclude,EC5,,'agent-based modelling' building blocks; not LLM-based
+doi:10.1021/acs.jcim.4c01309,exclude,EC0,,'virtual screening libraries' of molecules
+arxiv:2404.08947,exclude,EC3,,'zero-shot code representation learning'; no repo context
+doi:10.1158/1538-7445.am2025-4464,exclude,EC0,,'2D molecular generation' for drug design
+doi:10.1109/ictbig68706.2025.11323919,unsure,,core,'specify goals using natural language' agents 'build applications'; possibly vision paper
+doi:10.1007/978-3-032-06674-9_51,exclude,EC4,,'source code summarization'
+doi:10.2139/ssrn.5987998,exclude,EC8,,no abstract; 'programming-specific RAG model' ambiguous
+doi:10.15849/ijasca.250730.11,exclude,EC4,,"'extracting architectural elements'; analysis, not generation"
+arxiv:2509.07367,exclude,EC1,,'evolve solver repositories' starting from existing codebases; optimisation
+title:benchmarkingllmsensitivitytopromptformatsacontaminationfreeapproach,exclude,EC10,,'initial public release' Zenodo software/data deposit
+doi:10.1145/3702653.3744328,exclude,EC3,,benchmarking Gen-AI tools for 'SE education'; not repo generation
+doi:10.1109/ase63991.2025.00155,exclude,EC3,,"Mamba PLMs on 'code completion, code generation, clone detection'"
+arxiv:2507.10646,exclude,EC4,,'multi-turn chat-based code assistance' answering GitHub question issues
+arxiv:2506.17627,unsure,,contextual,perturbation 'preserving cross-file dependencies' for code completion evaluation
+arxiv:2508.08322,exclude,EC1,,"'plans, edits, and tests complex features' in existing Next.js codebase"
+doi:10.1109/msr66628.2025.00075,exclude,EC1,,'code upgrade' of existing Java repositories
+doi:10.1117/12.3057663,exclude,EC0,,'chemical warfare agent' FTIR library generation
+doi:10.1109/svcc65277.2025.11133649,exclude,EC1,,'Fixing C/C++ Vulnerabilities'; demo
+doi:10.1016/j.lddd.2025.100267,exclude,EC0,,'combinatorial library generation of azole derivatives'
+doi:10.1145/3735635,exclude,EC3,,R 'code summarization and method name prediction'; Pass@K generation
+doi:10.31649/vitce/2.2025.47,exclude,EC3,,'pair programming' with LLMs on function generation tasks
+arxiv:2506.02049,include,,core,multi-agent 'building a web application from scratch'
+arxiv:2510.04605,exclude,EC3,,diffusion LLMs across general SE tasks; not repo generation
+title:greenbydesignenergyguidedrerankingofllmgeneratedprograms,exclude,EC3,,'energy-guided reranking' on algorithmic tasks
+arxiv:2504.20799,exclude,EC6,,'This survey investigates' hallucinations in CodeLLMs
+doi:10.1109/icairc68035.2025.11385172,unsure,,contextual,'cross-file coherence' code generation; evaluation unclear
+arxiv:2507.02976,exclude,EC1,,security of 'patches' on SWE-bench issues
+doi:10.64091/atiml.2025.000164,exclude,EC3,,'hybrid reasoning developer assistants' for financial systems; no repo generation
+arxiv:2507.05200,exclude,EC3,,'functional correctness' estimation of generated code; no repo context
+doi:10.1109/iecon58223.2025.11221674,exclude,EC3,,generates 'IEC 61499 function block' from control logic
+doi:10.1145/3715908,include,,contextual,"ICL example selection improves 'DevEval, a repository-level code generation dataset' Pass@k"
+doi:10.1007/978-3-031-94931-9_19,exclude,EC8,,no abstract; 'causal dependencies' case study ambiguous
+arxiv:2512.12730,include,,core,'requirements document and an empty workspace' to 'installable Python library'
+arxiv:2509.14745,exclude,EC1,,agent 'pull requests' to existing open-source projects
+arxiv:2601.11525,exclude,EC3,,'plot-to-code generation' visualization snippets

@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.18653/v1/2023.findings-emnlp.337,2023,,2,CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation
+doi:10.1007/s10515-024-00419-y,2024,Automated Software Engineering,2,Using model-driven engineering to automate software language translation
+doi:10.1109/icsme58944.2024.00061,2024,,2,GlueTest: Testing Code Translation via Language Interoperability
+doi:10.1109/wccis70285.2026.11650848,2026,,2,Trustworthy Programming Language Translation with Large Language Models: A Focused Review
+doi:10.1145/3725812,2025,ACM Transactions on Software Engineering and Methodology,2,Prompt-Based Code Completion via Multi-Retrieval Augmented Generation
+doi:10.1145/3631802.3631806,2023,,2,How Novices Use LLM-based Code Generators to Solve CS1 Coding Tasks in a Self-Paced Learning Environment
+doi:10.1145/3729315,2025,Proceedings of the ACM on Programming Languages,2,"Scalable, Validated Code Translation of Entire Projects using Large Language Models"
+doi:10.1145/3729287,2025,Proceedings of the ACM on Programming Languages,2,Program Skeletons for Automated Program Translation
+doi:10.1145/3808169,2026,Proceedings of the ACM on software engineering.,2,Project-Level C-to-Rust Translation via Pointer Knowledge Graphs
+doi:10.1145/3597503.3639187,2024,,2,Using an LLM to Help With Code Understanding
+doi:10.1145/3711896.3736570,2025,,2,Evaluation and Benchmarking of LLM Agents: A Survey
+doi:10.1145/3671016.3674819,2024,,2,RepoMinCoder: Improving Repository-Level Code Generation Based on Information Loss Screening
+doi:10.1145/3520312.3534864,2022,,2,Productivity assessment of neural code completion
+doi:10.52202/075280-1035,2023,,2,InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback
+doi:10.1007/978-3-031-37709-9_22,2023,Lecture notes in computer science,2,Ownership Guided C to Rust Translation
+doi:10.1145/3586046,2023,Proceedings of the ACM on Programming Languages,2,Aliasing Limits on Translating C to Safe Rust
+doi:10.14722/ndss.2025.241407,2025,,2,Translating C To Rust: Lessons from a User Study
+doi:10.1109/tse.2024.3368208,2024,IEEE Transactions on Software Engineering,2,"Software Testing With Large Language Models: Survey, Landscape, and Vision"
+doi:10.3390/e25060888,2023,Entropy,1,Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review
+doi:10.1093/bib/bbaf492,2025,Briefings in Bioinformatics,1,Benchmarking large language models for genomic knowledge with GeneTuring
+doi:10.1186/s13059-026-03998-z,2026,Genome biology,1,Benchmarking LLM-based agents for single-cell omics analysis
+doi:10.1007/s44366-025-0051-1,2025,Frontiers of digital education.,1,AI-Empowered Genome Decoding: Applications of Large Language Models in Genomics
+doi:10.1007/s44443-025-00237-6,2025,Journal of King Saud University - Computer and Information Sciences,1,CodeDiffuSe: A masked diffusion framework for structure-aware code completion and repair
+doi:10.1109/dsa66321.2025.00021,2025,,1,Review of Large Language Model-Based Software Fault Localization Techniques
+doi:10.1101/2023.10.15.562423,2023,bioRxiv (Cold Spring Harbor Laboratory),1,"Bioinformatics Illustrations Decoded by ChatGPT: The Good, The Bad, and The Ugly"
+doi:10.1145/3770855.3817576,2026,,1,BioFlowBench: A Comprehensive Benchmark for Evaluating Bioinformatics Tool-use Capabilities of LLMs and Agents
+doi:10.1145/3770855.3817556,2026,,1,Benchmarking LLM Agents on Real-World Biological Database Curation for Data-Driven Scientific Discovery
+doi:10.1145/3724117,2025,ACM Transactions on Software Engineering and Methodology,1,Bias Testing and Mitigation in LLM-based Code Generation
+doi:10.1145/3691620.3695063,2024,,1,DroidCoder: Enhanced Android Code Completion with Context-Enriched Retrieval-Augmented Generation
+doi:10.1145/3728947,2025,Proceedings of the ACM on software engineering.,1,The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation
+doi:10.21203/rs.3.rs-3920214/v1,2024,Research Square,1,GPT-4 vs. GPT-3.5 AS CODING ASSISTANTS
+doi:10.1145/3770748,2025,ACM Transactions on Software Engineering and Methodology,1,Enhancing Domain-Specific Code Completion via Collaborative Inference with Large and Small Language Models
+doi:10.1109/tse.2024.3392499,2024,IEEE Transactions on Software Engineering,1,No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT
+doi:10.1145/3490099.3511157,2022,,1,Better Together? An Evaluation of AI-Supported Code Translation
+doi:10.1109/ase56229.2023.00096,2023,,1,A Closer Look at Different Difficulty Levels Code Generation Abilities of ChatGPT
+doi:10.1117/12.3031411,2024,,1,Analysis of Python web development applications based on the Django framework
+doi:10.1109/scam55253.2022,2022,,1,2022 IEEE 22nd International Working Conference on Source Code Analysis and Manipulation (SCAM)
+doi:10.1145/3650212.3652115,2024,,1,CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios
+doi:10.1007/s10664-025-10796-x,2026,Empirical Software Engineering,1,Reading between the Lines: Context-Aware AI-based generation of software exploits
+doi:10.1007/s10515-024-00485-2,2025,Automated Software Engineering,1,BadCodePrompt: backdoor attacks against prompt engineering of large language models for code generation
+doi:10.1080/10095020.2025.2535523,2025,Geo-spatial Information Science,1,Can large language models generate geospatial code?
+doi:10.1080/13658816.2025.2549460,2025,International Journal of Geographical Information Systems,1,GeoCogent: an LLM-based agent for geospatial code generation
+doi:10.1145/3728939,2025,Proceedings of the ACM on software engineering.,1,AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent
+doi:10.1186/s42400-025-00518-7,2026,Cybersecurity,1,Source code vulnerability detection based on deep learning: a review
+doi:10.1145/3728981,2025,Proceedings of the ACM on software engineering.,1,SWE-GPT: A Process-Centric Language Model for Automated Software Improvement
+doi:10.1007/978-981-95-0014-7_4,2025,Lecture notes in computer science,1,Exploring Behavior-Driven Development for Code Generation
+doi:10.1002/smr.70032,2025,Journal of Software Evolution and Process,1,A Simple Yet Practical Backdoor Prompt Attack Against Black‐Box Code Summarization Engines
+doi:10.1109/smc58881.2025.11343120,2025,,1,KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
+doi:10.1145/3797085,2026,Proceedings of the ACM on software engineering.,1,TLR: Codebase-Level C Memory Management Error Repair with Large Language Models
+doi:10.1007/978-3-031-75434-0_8,2024,Lecture notes in computer science,1,SEGym: Optimizing Large Language Model Assisted Software Engineering Agents with Reinforcement Learning
+doi:10.1109/ase63991.2025.00309,2025,,1,"Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute"
+doi:10.3390/sym18020248,2026,Symmetry,1,MPC-Coder: A Dual-Knowledge Enhanced Multi-Agent System with Closed-Loop Verification for PLC Code Generation
+doi:10.2139/ssrn.6332149,2026,SSRN Electronic Journal,1,LLM-Based Multi-Agent Systems for Code Generation: A Multi-Vocal Literature Review ⋆
+doi:10.1109/iisec69317.2026.11418469,2026,,1,"LLMs Can Code, But Can They Do Designƒ"
+doi:10.1007/978-981-95-7144-4_24,2026,Lecture notes in computer science,1,CodeEdu: A Multi-agent Collaborative Platform for Personalized Coding Education
+doi:10.1007/978-3-032-37314-4_2,2026,Lecture notes in computer science,1,Coding with Eyes: Visual Feedback Unlocks Reliable GUI Code Generating and Debugging
+doi:10.1145/3786335.3813220,2026,,1,Wily: High-Performance Complexity Gated-Feedback for AI Coding Agents
+doi:10.1145/3786335.3813132,2026,,1,DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents
+doi:10.23919/date69613.2026.11539373,2026,,1,EstCoder: A RTL Code Generator based on Static Functional Estimation
+doi:10.1145/3805689.3812402,2026,,1,"Human oversight of agentic systems in practice: Examining the oversight work, challenges, and heuristics of developers using software agents"

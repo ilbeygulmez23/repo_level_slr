@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.2139/ssrn.6738341,include,,core,nl-to-repo,method,,build-run;other,preprint,"no full text; user stories→backend software via LLM+control plane; eval metrics (validation accuracy, task completion) vaguely reported in abstract"
+doi:10.1109/asew67777.2025.00060,include,,contextual,repo-context-gen,method,,reference-unit-tests,ASE Workshops (ASEW) 2025,no full text; GNN graph retrieval over repo for function generation; pass@k with tests; end-to-end gains non-significant
+doi:10.1007/978-3-031-97635-3_52,exclude,EC8,,,,,,,no full text and no abstract; title suggests project-level context retrieval but evaluation unknown
+doi:10.1109/access.2025.3625819,include,,core,skeleton-to-library,empirical,Python;C++,reference-unit-tests,IEEE Access 2025,no full text; 6 LLMs implement a medium-complexity multi-class system from class specs with pre/postconditions; pass@k; single system
+doi:10.2139/ssrn.5886003,exclude,EC8,,,,,,,"no full text and no abstract; C repo-level benchmark, evaluation method unknown; re-check if full text obtained"
+doi:10.1007/s10664-025-10762-7,exclude,EC8,,,,,,,"no full text and no abstract; repo-level completion, likely similarity metrics (EC2) but unverifiable"
+doi:10.1007/978-3-031-93257-1_3,exclude,EC8,,,,,,,"no full text and no abstract; repo-level generation with graph retrieval, evaluation unknown"
+doi:10.24433/co.6120886.v1,include,,core,nl-to-app,method,multi,generated-tests;nonfunctional;other,preprint,"no full text; Code Ocean capsule; NL requirements→deployable apps, 18 projects; cost/time/coverage/security metrics, no functional oracle"
+doi:10.17605/osf.io/8q27d,exclude,EC8,,,,,,,"no full text; OSF report; tasks unspecified (""heterogeneous tasks""), unclear whether output is software; success rate only"
+doi:10.1145/3725213,include,,contextual,repo-context-gen,method;training-data,Python,reference-unit-tests,TOSEM 2025,no full text; WenwangData fine-tuning with program-analysis context for non-standalone functions; CoderEval executable tests
+doi:10.1109/aitest70988.2026.00019,include,,contextual,repo-context-gen,empirical;benchmark,Python,reference-unit-tests,IEEE AITest 2026,no full text; DevEval Python multi-round unit-test feedback repair trajectories; gains saturate by round 3
+doi:10.5281/zenodo.18639236,exclude,EC6,,,,,,,single-developer experience report/methodology on 8 own projects (Zenodo); no controlled task/evaluation

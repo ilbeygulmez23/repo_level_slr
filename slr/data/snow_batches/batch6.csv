@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.1609/aaai.v39i24.34811,2025,Proceedings of the AAAI Conference on Artificial Intelligence,1,DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation
+doi:10.1145/3609437.3609439,2023,,1,Towards Better Multilingual Code Search through Cross-Lingual Contrastive Learning
+doi:10.1145/3639478.3643076,2024,,1,KareCoder: A New Knowledge-Enriched Code Generation System
+doi:10.1109/ipccc66453.2025.11304661,2025,,1,Mitigating Syntax and Logic Errors in LLM Based Code Generation via XML-Structured Prompts
+doi:10.1145/3797148,2026,Proceedings of the ACM on software engineering.,1,Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs during Code Adaptation
+doi:10.1145/3805760.3814896,2026,,1,Executable but Unlearnable: Designing Code That Resists LLM-Based Learning
+doi:10.18653/v1/2024.findings-acl.762,2024,,1,OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement
+doi:10.18653/v1/2022.findings-emnlp.57,2022,,1,Detect-Localize-Repair: A Unified Framework for Learning to Debug with CodeT5
+doi:10.1145/3788879,2026,ACM Transactions on Software Engineering and Methodology,1,A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI
+doi:10.1109/icscds65426.2025.11166951,2025,,1,Agile Software Development for Cost Cutting and Operational Efficiency
+doi:10.1109/icwite64848.2025.11306978,2025,,1,"A Multi-Agent AI Framework for Agile Workflow Automation, Issue Resolution, and Developer Performance Evaluation"
+doi:10.1145/3786167.3788430,2026,,1,A Catalogue of Evaluation Metrics for LLM-Based Multi-Agent Frameworks in Software Engineering
+doi:10.1145/3803846.3807461,2026,,1,An Empirical Study of Waterfall-style Multi-Agent Workflows for Class-Level Code Generation
+doi:10.2139/ssrn.7202151,2026,SSRN Electronic Journal,1,Evaluating Agent Frameworks for Code-centric Software Engineering: A Comprehensive Empirical Study
+doi:10.2139/ssrn.7442693,2026,SSRN Electronic Journal,1,From Design Choices to Engineering Risks:A Large-Scale Empirical Study of Best Practices and Defectsin Developer-Facing Open-Source Agent Frameworks
+doi:10.1007/978-3-032-39395-1_23,2026,Lecture notes in computer science,1,Do Multi-agent Systems Make Better Software? An Empirical Evaluation of LLM-Based Frameworks for Software Development
+doi:10.1145/3636430,2023,ACM Transactions on Knowledge Discovery from Data,1,StructCoder: Structure-Aware Transformer for Code Generation
+doi:10.1145/3639477.3639719,2024,,1,CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model
+doi:10.1007/s10664-023-10385-w,2023,Empirical Software Engineering,1,Mutation analysis for evaluating code translation
+doi:10.1145/3639478.3641226,2024,,1,Program Decomposition and Translation with Static Analysis
+doi:10.1109/csce60160.2023.00413,2023,,1,On the Interoperability of Programming Languages via Translation
+doi:10.1007/s10664-025-10768-1,2025,Empirical Software Engineering,1,Output format biases in the evaluation of large language models for code translation
+doi:10.1007/978-3-032-22774-4_2,2026,Lecture notes in computer science,1,Revisiting the Role of Natural Language Code Comments in Code Translation
+doi:10.1145/3790101,2026,ACM Transactions on Software Engineering and Methodology,1,Can Emulating Semantic Translation Help LLMs with Code Translation? A Study Based on Pseudocode
+doi:10.1145/3774748.3787747,2026,,1,Evaluating LLMs Code Reasoning Under Real-World Context
+doi:10.1145/3799830.3799841,2025,,1,TranSCoT: Towards Improving Quality of Code Translations
+doi:10.1007/978-3-032-36590-3_15,2026,Lecture notes in computer science,1,Neural Code Translation of Legacy Code: APL to C#
+doi:10.1016/j.future.2026.108599,2026,Future Generation Computer Systems,1,A modular multi-agent pipeline framework for large-scale code translation
+doi:10.1109/saner67736.2026.00048,2026,,1,Efficient Translation of Long Code Blocks Using Large Language Models
+doi:10.1109/saner67736.2026.00050,2026,,1,Refining LLM-Based Cobol-to-Java Translation via Natural Language Summary Augmentation
+doi:10.1145/3786583.3786915,2026,,1,Enterprise-Scale COBOL-to-Java Translation: LLMs Augmented with Program Analysis
+doi:10.1145/3794763.3794826,2026,,1,Algorithm-Based Pipeline for Reliable and Intent-Preserving Code Translation with LLMs
+doi:10.1145/3774748.3787667,2026,,1,Comprehensive and Realistic Evaluation on the Code Reasoning Capability of LLMs
+doi:10.1145/3524610.3527917,2022,,1,On the transferability of pre-trained language models for low-resource programming languages
+doi:10.18653/v1/2024.naacl-long.417,2024,,1,UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback
+doi:10.1145/3510454.3516849,2022,,1,Code implementation recommendation for Android GUI components
+doi:10.1145/3808114,2026,Proceedings of the ACM on software engineering.,1,EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-Based UI Code Generation
+doi:10.1109/re59067.2024.00049,2024,,1,Requirements are All You Need: From Requirements to Code with LLMs
+doi:10.18653/v1/2024.emnlp-main.1118,2024,,1,CodeJudge: Evaluating Code Generation with Large Language Models
+doi:10.1145/3696410.3714889,2025,,1,WebCode2M: A Real-World Dataset for Code Generation from Webpage Designs
+doi:10.1145/3706598.3713932,2025,,1,Closing the Loop between User Stories and GUI Prototypes: An LLM-Based Assistant for Cross-Functional Integration in Software Development
+doi:10.1145/3696410.3714891,2025,,1,UIC opilot : Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs
+doi:10.5220/0012759500003753,2024,,1,Automated Generation of Web Application Front-end Components from User Interface Mockups
+doi:10.2139/ssrn.6295236,2026,SSRN Electronic Journal,1,DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models
+doi:10.1145/3597503.3608128,2024,,1,A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges
+doi:10.1145/3661167.3661221,2024,,1,A Performance Study of LLM-Generated Code on Leetcode
+doi:10.1145/3597503.3639085,2024,,1,Code Search is All You Need? Improving Code Suggestions with Code Search
+doi:10.1145/3661167.3661218,2024,,1,LLM-Based Chatbots for Mining Software Repositories: Challenges and Opportunities
+doi:10.1145/3643916.3644403,2024,,1,Compositional API Recommendation for Library-Oriented Code Generation
+doi:10.1145/3643991.3645072,2024,,1,Analyzing Developer Use of ChatGPT Generated Code in Open Source GitHub Projects
+doi:10.1145/3650105.3652289,2024,,1,Investigating the Performance of Language Models for Completing Code in Functional Programming Languages: a Haskell Case Study
+doi:10.1145/3803437.3805266,2026,,1,Dependency-Guided Repository-Level C-to-Rust Translation with Reinforcement Alignment
+doi:10.1016/j.infsof.2024.107610,2024,Information and Software Technology,1,"Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward"
+doi:10.1145/3613904.3641936,2024,,1,Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming
+doi:10.1145/3491102.3501870,2022,CHI Conference on Human Factors in Computing Systems,1,Discovering the Syntax and Strategies of Natural Language Programming with Generative Language Models
+doi:10.1145/3617555.3617874,2023,,1,The FormAI Dataset: Generative AI in Software Security through the Lens of Formal Verification
+doi:10.1109/tai.2023.3318183,2023,IEEE Transactions on Artificial Intelligence,1,Ethical Aspects of ChatGPT in Software Engineering Research
+doi:10.1109/spw63631.2024.00014,2024,,1,Just another copy and paste? Comparing the security vulnerabilities of ChatGPT generated code and StackOverflow answers
+doi:10.1109/icse-seip58684.2023.00043,2023,,1,Make Your Tools Sparkle with Trust: The PICSE Framework for Trust in Software Tools
+doi:10.1145/3706598.3713335,2025,,1,CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development

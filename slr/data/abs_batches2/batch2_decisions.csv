@@ -1,0 +1,49 @@
+key,decision,reason,tier,note
+doi:10.34190/ecgbl.19.1.3976,exclude,EC5,,visual language for 'future AI agent collaboration'; no LLM used
+doi:10.1109/ijcnn64981.2025.11228932,exclude,EC4,,"'repo-level code smell detection', not code generation"
+arxiv:2506.11084,exclude,EC0,,'survey conducted among IT employers' on skills
+arxiv:2502.08489,exclude,EC0,,general multilingual LLM 'technical report'
+title:studyingdevelopersengagementwithchatgptforissueresolution,exclude,EC6,,'In this thesis' on ChatGPT for issue resolution
+doi:10.5281/zenodo.17870341,exclude,EC0,,"'Universal Control Codex' reasoning layer, off-topic"
+arxiv:2412.05075,exclude,EC4,,"'migrating models' between low-code platforms, not source code"
+arxiv:2512.18552,exclude,EC1,,"'inject and repair software bugs', SWE-bench evaluation"
+arxiv:2506.22390,exclude,EC1,,'ChatGPT for issue resolution' in GitHub issues
+arxiv:2508.06414,unsure,,contextual,ICL study incl. 'repository-level tasks'; possibly test-based repo benchmarks
+arxiv:2509.10946,exclude,EC3,,"embedded ML pipeline 'inference code generation', no repository scope"
+arxiv:2508.14104,include,,core,'generate production-ready repositories from scratch' benchmark RealDevBench
+doi:10.5281/zenodo.20274901,exclude,EC0,,"'prompt injection prevention' framework, security focus"
+arxiv:2606.16244,unsure,,core,secure codegen method; evaluates 'project-level generation' (BaxBench)
+title:adaptingsmalllanguagemodelstodelphiandproprietarycodebasethroughcontinuedpretrai,exclude,EC6,,'This thesis'; BLEU-evaluated continued pre-training
+doi:10.5281/zenodo.21452028,exclude,EC3,,'single-file web-application generation' in small-model benchmark
+doi:10.63282/3050-922x.ijeret-v7i2p134,exclude,EC1,,"'bug localization, patch generation' maintenance of existing repos"
+arxiv:2605.04845,exclude,EC4,,'repository mining' classification tasks
+arxiv:2604.00594,exclude,EC1,,performance prediction on issue-based 'agentic coding benchmarks'
+arxiv:2608.20318,exclude,EC1,,agent rewrites training algorithm in 'frozen research repositories'
+doi:10.5281/zenodo.21931156,exclude,EC6,,"'disciplinary program for AI Engineering', position paper"
+title:aiforcodecomplexityoptimizationahybridperspective,exclude,EC6,,"thesis on 'code complexity optimization', refactoring"
+doi:10.5281/zenodo.19322215,exclude,EC10,,'Episode summary' podcast
+title:aipairprogrammertechnologieswithgithubcopilotandlargelanguagemodel,exclude,EC6,,student 'project' VS Code extension for code ownership
+arxiv:2603.27130,exclude,EC0,,'measurement study of AI-assisted code' in real repositories
+doi:10.5281/zenodo.22750453,exclude,EC0,,'Lean 4 Formalization' Yang-Mills mass gap
+doi:10.5281/zenodo.22767474,exclude,EC0,,'Lean 4 Formalization' Yang-Mills mass gap
+arxiv:2609.24348,unsure,,core,'spec-driven lifecycle' for coding agents building software; survey evaluation
+doi:10.3390/bdcc10090313,exclude,EC3,,"auditing 'generated functions' logic, isolated"
+doi:10.22214/ijraset.2026.82571,exclude,EC4,,'automatic code explanation and program visualization'
+arxiv:2606.31159,unsure,,contextual,"security calibration on 'repository-level contexts', functional correctness"
+arxiv:2604.26469,exclude,EC0,,'speculative decoding' inference acceleration study
+doi:10.5281/zenodo.20679719,exclude,EC0,,quantum 'Shor's order finding' theorem
+doi:10.25394/pgs.33968797,exclude,EC0,,GPU 'hardware-software co-design' thesis
+doi:10.5281/zenodo.19248411,exclude,EC10,,'Artifact for Paper' on issue resolution
+arxiv:2601.03780,exclude,EC3,,'HumanEval and MBPP' benchmark representativeness
+doi:10.5281/zenodo.19672909,exclude,EC10,,'replication package' for AI-code detector study
+arxiv:2608.09072,exclude,EC1,,'bug fixes and feature additions' in existing repos
+doi:10.64137/31079911/ijmst-v2i2p103,exclude,EC4,,'Autonomous code review' framework
+doi:10.5281/zenodo.21614411,exclude,EC4,,'vulnerability detector' for AI-generated code
+doi:10.1145/3786175.3788345,unsure,,contextual,"'private repository tasks', 'cross-file dependency'; LLM-as-judge evaluation"
+title:beyondthevisibletransformingarvrsoftwareengineeringthroughempiricaldiscoverymeta,exclude,EC6,,AR 'metamorphic testing' dissertation
+arxiv:2603.24837,exclude,EC4,,MCP server for 'vulnerability discovery' and program analysis
+title:buildinganalyzingandenhancingcodelanguagemodelsforsoftwareengineering,exclude,EC6,,'This thesis' on code language models
+doi:10.2139/ssrn.7264680,exclude,EC0,,"'grant application generation', not code"
+arxiv:2602.03648,exclude,EC3,,'secure IaC' snippets and smell detection
+arxiv:2605.13280,exclude,EC3,,"'readability' of generated code, WoC/LeetCode scenarios"
+arxiv:2602.23047,exclude,EC3,,context learning benchmark; code generation with 'interpretable examples'

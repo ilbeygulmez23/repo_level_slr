@@ -1,0 +1,4 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.1109/ase56229.2023.00174,Software Engineering Using Autonomous Agents: Are We There Yet?,unsure,core,"Auto-GPT evaluated on tasks with ""Spring Boot, Django, Flask""; possibly app generation [snowball r3]",
+doi:10.1145/3702987,Empowering Agile-Based Generative Software Development through Human-AI Teamwork,include,core,"""generating software through user requirements"" – AgileGen agent builds software from requirements [snowball r3]",
+doi:10.1007/978-3-032-30693-7_4,Clight2Rust: Translating a Subset of C into Safe Rust with a Small Trusted Runtime,unsure,core,"""Translating a Subset of C into Safe Rust""; no abstract, LLM use unclear [snowball r3]",

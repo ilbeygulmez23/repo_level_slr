@@ -1,0 +1,26 @@
+key,decision,reason,tier,justification
+arxiv:2501.16050,include,,core,Java-to-C# whole-repository translation benchmark with fixed unit tests and build.
+arxiv:2601.23009,include,,contextual,"Solidity function generation with project dependencies, evaluated by executing Forge tests."
+arxiv:2608.06041,exclude,EC0,,Measures programming-language choice preferences; no functional or repository evaluation of generated projects.
+arxiv:2608.19854,include,,core,Agent builds whole repository from NL requirements; evaluated by tests on RepoCraft.
+doi:10.18653/v1/2025.emnlp-main.218,include,,contextual,"Repository-level Solidity function generation, 1,507 samples, executed tests."
+arxiv:2606.16244,exclude,EC3,,Secure code prompting mostly on function-level benchmarks; project-level only minor BaxBench part.
+doi:10.1109/icassp55912.2026.11462205,include,,core,"Multi-agent paper-to-repository generation, executable repositories checked on eight papers."
+arxiv:2503.06689,exclude,EC2,,"Repository construction scored by structural similarity; other tasks recognition and editing, no executed tests."
+arxiv:2601.11077,exclude,EC1,,Agents implement masked endpoints in existing backend repos and configure deployment; modification of existing repository.
+arxiv:2609.15387,include,,core,Web applications generated from NL requirements across frameworks; runtime exploration and scoring.
+arxiv:2409.15204,exclude,EC2,,"Method body completion evaluated by BLEU, CodeBLEU, exact match, compilation; no executed tests."
+arxiv:2505.05057,exclude,EC2,,"Evaluated by hallucination metrics, EM and ES; no executed tests."
+arxiv:2409.16299,exclude,EC1,,Generalist agent mainly issue resolution and repair; RepoExec generation only a minor evaluation.
+arxiv:2308.16458,include,,contextual,"Bioinformatics functions with cross-file dependencies, evaluated via fuzz-testing execution."
+doi:10.1145/3691620.3695552,exclude,EC2,,Repository-context tasks evaluated by CodeBLEU and edit similarity only.
+arxiv:2405.01573,include,,contextual,"Class generation with cross-file repository dependencies, executed tests, agentic retrieval method."
+arxiv:2605.26017,include,,core,Agent generates complete multi-module RISC-V interpreter project with verified core; tested and fuzzed.
+arxiv:2601.03708,exclude,EC2,,Hardware repository-level completion evaluated by exact match and edit similarity.
+doi:10.1007/978-3-032-37314-4_2,include,,core,"984 GUI app tasks from NL, multi-file output, interactive script evaluation, multi-agent method."
+doi:10.1109/ase63991.2025.00287,include,,contextual,"Generation in proprietary industrial repository with context files, build and unit-test execution."
+arxiv:2608.01927,include,,contextual,"Repository-level function generation retrieval method, Pass@1 on CoderEval and DevEval."
+arxiv:2605.02455,exclude,EC6,,Vision paper with small pilot study; position on spec-driven engineering.
+arxiv:2507.09866,exclude,EC3,,Self-contained algorithmic problems in repo-style layout with generation and repair; little repository dependency.
+arxiv:2608.26557,include,,core,Agent builds ML paper repositories from papers on PaperBench Code-Dev; rubric-based grading.
+arxiv:2604.19742,include,,contextual,"Repository-aware GUI function generation, executed unit tests plus interactive Play@k evaluation."

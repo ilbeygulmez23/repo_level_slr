@@ -1,0 +1,48 @@
+key,decision,reason,tier,note
+arxiv:2608.27906,unsure,,core,RL for 'interactive web application generation' from NL; may be single-file
+arxiv:2605.26548,exclude,EC4,,"Vulnerability PoC reproduction benchmark, 'hunt real vulnerabilities'"
+doi:10.23919/date69613.2026.11539310,exclude,EC3,,PCB component library via domain DSL code generation
+doi:10.5281/zenodo.18856389,exclude,EC6,,Conceptual analysis/position on 'Software 3.0' paradigm
+arxiv:2604.16314,unsure,,contextual,'runtime self-extension' generating new modules into running system; Pass@1
+arxiv:2510.17925,unsure,,contextual,"Repo-level completion 'cross-file dependencies'; metric unclear, possibly non-executable"
+doi:10.5281/zenodo.19410068,exclude,EC10,,"Software deposit of quantum SDK, not research article"
+arxiv:2606.05249,exclude,EC1,,'code modifications in AWS CDK repositories' of existing codebases
+arxiv:2604.09388,unsure,,core,Maturity model; dashboard 'built from scratch with Claude Code' experience
+doi:10.5281/zenodo.19183223,exclude,EC10,,Podcast 'Episode summary' on agentic development
+doi:10.66823/2egmd793,exclude,EC6,,'Systematic Literature Review' of security in AI code
+arxiv:2606.03907,unsure,,core,"Protocol: agents on 'staged projects', build-vs-buy library decisions"
+doi:10.5281/zenodo.18849549,exclude,EC10,,Conference talk about JOSS platform
+arxiv:2608.11469,exclude,EC4,,"Reverse engineering benchmark on binaries, not code generation"
+doi:10.62731/mcnd-19.06.2026.007,exclude,EC4,,"'repository-level question answering', output not code"
+doi:10.6084/m9.figshare.32854478.v1,unsure,,core,Requirement clarification; validated on 'project-level code generation tasks (DevBench)'
+title:towardsreliableandpracticallanguagemodelagentsevaluationanddevelopment,exclude,EC6,,PhD thesis on agent reliability
+doi:10.1145/3786582.3786842,exclude,EC3,,"General DLLM evaluation across SE tasks, not repo generation"
+arxiv:2601.20112,exclude,EC0,,Developer survey on AI coding assistant usage
+arxiv:2609.15877,exclude,EC4,,Agentic 'code review' at Ericsson
+doi:10.20913/2224-1841-2026-1-7,exclude,EC0,,Teaching programming with generative AI tools
+arxiv:2607.26937,include,,contextual,Repo retrieval method; 'highest raw Pass@1 on RepoExec'
+doi:10.21203/rs.3.rs-10241058/v1,exclude,EC3,,"No abstract; 'programming problem' difficulty on benchmarks, isolated"
+doi:10.5281/zenodo.20779855,unsure,,core,Experience building ERP with Replit/Cursor; 'AI-generated codebases' drift
+arxiv:2606.28438,exclude,EC0,,Recursive self-training collapse of code LLMs
+doi:10.5281/zenodo.21399565,exclude,EC5,,"WDL bioinformatics workflow library, no LLM"
+arxiv:2310.11546,exclude,EC1,,Correcting errors of previous software versions via LLM candidates
+arxiv:2404.00399,exclude,EC0,,Multilingual LLM continual pretraining
+arxiv:2411.19325,exclude,EC0,,Geospatial VLM benchmark
+arxiv:2502.05202,exclude,EC0,,Speculative decoding inference acceleration
+doi:10.1109/ojcoms.2024.3514774,exclude,EC5,,"Hypergraph defect prediction, not LLM"
+arxiv:2608.12629,exclude,EC3,,"GPU kernel generation agents, domain code"
+title:theartofcodethesurprisingpowerofbeautyinsoftwaredevelopment,exclude,EC6,,Book on code aesthetics
+doi:10.1109/icbc54727.2022.9805493,exclude,EC5,,"TOSCA extensions for Dapps, no LLM"
+doi:10.1109/iconnect56593.2023.10327087,unsure,,core,ChatGPT used to 'make a simple application from scratch'
+doi:10.1109/msr59073.2023.00036,exclude,EC5,,"NER adapters for CodeBERT, pre-LLM models"
+doi:10.1109/vlsi-soc62099.2024.10767831,exclude,EC4,,"Translating hardware security properties, not source code"
+doi:10.1109/tnsm.2023.3325768,exclude,EC5,,"Blockchain infrastructure as code, no LLM"
+doi:10.1109/ase63991.2025.00397,exclude,EC6,,PhD project proposal on artifact inconsistencies
+doi:10.1109/mlcad65511.2025.11189167,exclude,EC4,,RTL 'code summarization and question answering'
+doi:10.1109/usbereit70063.2026.11581004,exclude,EC4,,"Code Q&A assistant, output not code"
+doi:10.1109/access.2026.3738134,exclude,EC0,,Federated query engine for LLM-assisted operations
+doi:10.1109/compsac69091.2026.00062,exclude,EC1,,'GitHub issue resolution' on SWE-bench Lite
+doi:10.1109/saner67736.2026.00040,exclude,EC0,,Privacy-preserving code sanitization for cloud LLMs
+doi:10.1109/icaace69793.2026.11508786,exclude,EC4,,'Automated Code Review' framework for power grid
+doi:10.1109/wacv61042.2026.00771,exclude,EC0,,Medical image anomaly detection
+doi:10.1109/tse.2026.3681886,exclude,EC0,,Mining 'self-admitted GenAI usage' in OSS repositories

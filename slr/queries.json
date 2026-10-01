@@ -1,0 +1,107 @@
+{
+  "window": {
+    "from": "2022-01-01",
+    "to": "2026-09-30"
+  },
+  "blocks": {
+    "LLM": [
+      "language model",
+      "language models",
+      "LLM",
+      "LLMs",
+      "agent",
+      "agents",
+      "agentic",
+      "GPT",
+      "Codex",
+      "foundation model",
+      "foundation models"
+    ],
+    "REPO_SCOPE": [
+      "repository-level",
+      "repo-level",
+      "repository-scale",
+      "project-level",
+      "codebase-level",
+      "repository-aware",
+      "repository context",
+      "cross-file",
+      "non-standalone",
+      "project-specific",
+      "real-world repositories",
+      "real-world code repositories",
+      "real-world projects"
+    ],
+    "CODEGEN": [
+      "code generation",
+      "generating code",
+      "generate code",
+      "code synthesis",
+      "program synthesis",
+      "code completion"
+    ],
+    "WHOLE_REPO": [
+      "repository generation",
+      "codebase generation",
+      "code repository generation",
+      "project generation",
+      "software generation",
+      "application generation",
+      "library generation",
+      "NL2Repo",
+      "natural language to code repository",
+      "entire repository",
+      "entire repositories",
+      "entire codebase",
+      "whole repository",
+      "whole-repository",
+      "repository from scratch",
+      "repository reconstruction",
+      "repository reproduction",
+      "repository translation",
+      "repository modernization",
+      "end-to-end software development",
+      "end-to-end software generation",
+      "end-to-end project development",
+      "software from scratch"
+    ],
+    "FROM_SCRATCH": [
+      "from scratch"
+    ],
+    "SW_ARTIFACT": [
+      "repository",
+      "repositories",
+      "codebase",
+      "codebases",
+      "software project",
+      "software projects",
+      "library",
+      "libraries",
+      "application",
+      "applications"
+    ],
+    "CODE": [
+      "code",
+      "coding",
+      "program",
+      "programs"
+    ]
+  },
+  "families": {
+    "F1_repo_level_codegen": [
+      "REPO_SCOPE",
+      "CODEGEN",
+      "LLM"
+    ],
+    "F2_whole_repo_construction": [
+      "WHOLE_REPO",
+      "LLM"
+    ],
+    "F3_from_scratch_software": [
+      "FROM_SCRATCH",
+      "SW_ARTIFACT",
+      "CODE",
+      "LLM"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+key,rid,year,venue,title
+arxiv:2608.27906,R0875,2026,arXiv (Cornell University),Rubric-to-Code Credit Assignment for Reinforcement Learning
+arxiv:2605.26548,R0880,2026,arXiv (Cornell University),SEC-bench Pro: Can Language Models Solve Long-Horizon Software Security Tasks?
+doi:10.23919/date69613.2026.11539310,R0889,2026,,Smart-PCLib: A LLM-based Multi-Agent Framework for Automated PCB Component Library Generation
+doi:10.5281/zenodo.18856389,R0891,2026,Zenodo (CERN European Organization for Nuclear Research),Software 3.0: The Paradigm Shift from Code Authorship to Agent Orchestration
+arxiv:2604.16314,R0893,2026,,Software Self-Extension with SelfEvolve: an Agentic Architecture for Runtime Code Generation
+arxiv:2510.17925,R0462,2025,Underline Science Inc.,SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion
+doi:10.5281/zenodo.19410068,R0898,2026,Zenodo (CERN European Organization for Nuclear Research),"Specification-First, Agent-Driven Development of a Quantum Simulation SDK: The AGENTS.md Methodology Behind @hviana/js-quantum"
+arxiv:2606.05249,R0906,2026,arXiv (Cornell University),SWE-InfraBench: Evaluating Language Models on Cloud Infrastructure Code
+arxiv:2604.09388,R0923,2026,arXiv (Cornell University),The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems
+doi:10.5281/zenodo.19183223,R0927,2026,Zenodo (CERN European Organization for Nuclear Research),The Death of Context Red: Moving to Agentic Development
+doi:10.66823/2egmd793,R0928,2026,Journal of Sustainable Smart Systems in Education & Environment,The Double-Edged Sword of AI Pair Programmers: A Systematic Literature Review of Security Vulnerabilities in AI-Generated Code and Agentic Development Environments
+arxiv:2606.03907,R0931,2026,arXiv (Cornell University),The Impact of Configuring Agentic AI Coding Tools on Build-vs-Buy Decisions: A Study Protocol
+doi:10.5281/zenodo.18849549,R0932,2026,Zenodo (CERN European Organization for Nuclear Research),The Journal of Open Source Software (JOSS): An open community and platform providing credit to software developers in the time of GenAI
+arxiv:2608.11469,R0937,2026,arXiv (Cornell University),"The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark"
+doi:10.62731/mcnd-19.06.2026.007,R0948,2026,,TOWARDS EFFICIENT MAINTENANCE-ORIENTED CODE QUESTION ANSWERING WITH STRUCTURED REPOSITORY CONTEXT
+doi:10.6084/m9.figshare.32854478.v1,R0950,2026,Figshare,Towards Pre-generation Requirement Uncertainty Assessment for Code Generation
+title:towardsreliableandpracticallanguagemodelagentsevaluationanddevelopment,R0951,2026,TSpace (University of Toronto),Towards Reliable and Practical Language-Model Agents: Evaluation and Development
+doi:10.1145/3786582.3786842,R0960,2026,,Unveiling the Potential of Diffusion Large Language Models in Software Engineering Tasks: An Empirical Study
+arxiv:2601.20112,R0961,2026,,"Usage, Effects and Requirements for AI Coding Assistants in the Enterprise: An Empirical Study"
+arxiv:2609.15877,R0962,2026,arXiv (Cornell University),Using Agentic AI for contextualized and multifaceted code review at Ericsson
+doi:10.20913/2224-1841-2026-1-7,R0963,2026,Professional education in the modern world,Using generative AI tools in teaching students programming
+arxiv:2607.26937,R0971,2026,arXiv (Cornell University),VITAL-RAG: Invariance Race for Context Allocation in Coding Agents
+doi:10.21203/rs.3.rs-10241058/v1,R0979,2026,Research Square,What Makes a Programming Problem Hard for a Language Model? An Empirical Study of Item Difficulty Across Code LLMs on Two Benchmarks
+doi:10.5281/zenodo.20779855,R0980,2026,Zenodo (CERN European Organization for Nuclear Research),When AI Becomes a Junior Programmer
+arxiv:2606.28438,R0981,2026,arXiv (Cornell University),When AI Reviews Its Own Code: Recursive Self-Training Collapse in Code LLMs
+doi:10.5281/zenodo.21399565,R0984,2026,Zenodo (CERN European Organization for Nuclear Research),WILDS WDL Library: Modular Bioinformatics Workflow Components for Researchers and Developers
+arxiv:2310.11546,R0035,2023,arXiv,Bias and Error Mitigation in Software-Generated Data: An Advanced Search and Optimization Framework Leveraging Generative Code Models
+arxiv:2404.00399,R0094,2024,arXiv,Aurora-M: Open Source Continual Pre-training for Multilingual Language and Code
+arxiv:2411.19325,R0140,2024,arXiv,GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks
+arxiv:2502.05202,R0226,2025,arXiv,Accelerating LLM Inference with Lossless Speculative Decoding Algorithms for Heterogeneous Vocabularies
+doi:10.1109/ojcoms.2024.3514774,R0301,2025,IEEE Open Journal of the Communications Society,Cost-Sensitive Hypergraph Learning With Structure Quality Preservation for IoT Software Defect Prediction
+arxiv:2608.12629,R0599,2026,arXiv,CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution
+title:theartofcodethesurprisingpowerofbeautyinsoftwaredevelopment,R0925,2026,The Art of Code: The surprising power of beauty in software development,The Art of Code: The surprising power of beauty in software development
+doi:10.1109/icbc54727.2022.9805493,R0009,2022,2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC),Decentralized Application Infrastructures as Smart Contract Codes
+doi:10.1109/iconnect56593.2023.10327087,R0030,2023,"2023 International Conference on Networking, Electrical Engineering, Computer Science, and Technology (IConNECT)",Analysis ChatGPT Potential: Transforming Software Development with AI Chat Bots
+doi:10.1109/msr59073.2023.00036,R0057,2023,2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR),Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models
+doi:10.1109/vlsi-soc62099.2024.10767831,R0115,2024,2024 IFIP/IEEE 32nd International Conference on Very Large Scale Integration (VLSI-SoC),Continuity in Security: Leveraging LLM for Translating Security Properties Across Hardware Designs
+doi:10.1109/tnsm.2023.3325768,R0123,2024,IEEE Transactions on Network and Service Management,DIaC: Re-Imagining Decentralized Infrastructure as Code Using Blockchain
+doi:10.1109/ase63991.2025.00397,R0317,2025,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE),"Detecting and Mitigating Inconsistencies Between Code, Documentation and Tests"
+doi:10.1109/mlcad65511.2025.11189167,R0447,2025,2025 ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD),RTLExplain: A Structured Approach to RTL Code Summarization and Question Answering for Medium-to-Large Designs Using LLMs
+doi:10.1109/usbereit70063.2026.11581004,R0661,2026,"2026 IEEE Ural-Siberian Conference on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT)",Development of an LLM-Based Q&A Assistant for the Code of an Internal Design System
+doi:10.1109/access.2026.3738134,R0722,2026,IEEE Access,From Context to Code: Codifying Cross-System Reasoning for LLM-Assisted Operations
+doi:10.1109/compsac69091.2026.00062,R0746,2026,"2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)",HGARena: Budgeted Test-Driven Multi-Agent Repository Issue Resolution with Heterogeneous Graph-Augmented Retrieval
+doi:10.1109/saner67736.2026.00040,R0828,2026,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",PiCo: Privacy-Preserving Code Sanitization for Cloud-Based LLMs
+doi:10.1109/icaace69793.2026.11508786,R0830,2026,2026 9th International Conference on Advanced Algorithms and Control Engineering (ICAACE),PowerReviewer: A Knowledge-Graph Enhanced Multi-Agent Framework for Automated Code Review in Power Grid Systems
+doi:10.1109/wacv61042.2026.00771,R0842,2026,2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection
+doi:10.1109/tse.2026.3681886,R0882,2026,IEEE Transactions on Software Engineering,Self-Admitted GenAI Usage in Open-Source Software

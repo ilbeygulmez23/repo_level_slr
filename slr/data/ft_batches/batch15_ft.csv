@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2605.17526,include,,core,nl-to-app,benchmark;empirical,multi,bdd-e2e-tests;llm-judge;build-run,preprint,"30 enterprise SaaS tasks from PRD+KB built from scratch; DAG of 5,370 executable validation nodes; best 20.68% Pass@1 (Opus 4.7/Claude Code)."
+arxiv:2504.21205,include,,contextual,repo-context-gen,benchmark;empirical,C;C++,reference-unit-tests;other,LLM4Code 2026,318 masked-region completions in 27 C/C++ repos; developer unit tests + OSS-Fuzz PoC security tests; agents vs standalone LLMs.
+doi:10.48448/20gs-ff95,exclude,EC8,,,,,,,"No full text; abstract (FSD-bench++, unit tests) does not establish whether generated software is multi-file/repository-level."
+doi:10.55041/ijsrem63072,exclude,EC8,,,,,,,"Multi-agent dev assistant; 500 unspecified queries, no repository/test details; task and evaluation not extractable."
+arxiv:2601.23009,include,,contextual,repo-context-gen,method;benchmark;training-data,Solidity,reference-unit-tests;nonfunctional,preprint,"Forge+Slither dual-loop agent; SolEval+ repository-aware file-level Solidity generation (81 files, 1,188 Foundry tests); distillation to Qwen3-8B."
+arxiv:2607.27167,include,,core,behavioral-reconstruction,method;empirical,multi,differential-oracle,preprint,"Spec agent probes binary to write SPEC.md before synthesis; all 200 ProgramBench instances, 4 models; +6.9-21.3% test pass rate."
+doi:10.5281/zenodo.20709565,include,,core,repo-translation,method;empirical,JavaScript;TypeScript;Python,reference-unit-tests;build-run,preprint,"No full text; JS->TS whole-repo migration under strict tsc+immutable tests, plus NL2Repo-Bench validation (91.1%); single-author Zenodo deposit."
+doi:10.1007/978-981-95-7078-2_43,exclude,EC8,,,,,,,"No full text and no abstract; repository-level completion RAG, evaluation metric unknown."
+arxiv:2608.23564,include,,core,repo-translation,benchmark;empirical,multi,differential-oracle;generated-tests;llm-judge,preprint,Mixed migration benchmark; 7/20 whole-repo language rewrites (C->Rust etc.) separately reported (score 5.6); others framework/toolchain migrations (EC1-like).
+arxiv:2608.16742,include,,contextual,repo-context-gen,method,Python,reference-unit-tests,preprint,Test-first dual-track refinement agent; RepoEval function-level (8 repos) with repo unit tests; also LiveCodeBench (isolated).
+arxiv:2606.27045,exclude,EC6,,,,,,,Conceptual spec-graph architecture for AI-assisted development; no empirical evaluation.
+arxiv:2606.08135,include,,contextual,repo-context-gen,method,Python;Java,reference-unit-tests,preprint,"Test-driven planning + implementation-aware callee reuse; CoderEval (Py/Java) and DevEval, Pass@k; tests also fed to generator."

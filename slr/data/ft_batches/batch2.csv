@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+arxiv:2406.14497,CodeRAG-Bench: Can Retrieval Augment Code Generation?,unsure,contextual,"RAG benchmark includes ""repository-level problems""",slr/data/fulltext/arxiv_2406.14497.txt
+arxiv:2302.00288,CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models,include,contextual,"CoderEval ""non-standalone functions"" pragmatic code generation",slr/data/fulltext/arxiv_2302.00288.txt
+arxiv:2403.16443,CodeS : Natural Language to Code Repository via Multi-Layer Sketch,include,core,"""Natural Language to Code Repository (NL2Repo)""",slr/data/fulltext/arxiv_2403.16443.txt
+arxiv:2410.01353,Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?,include,contextual,"repository-level completion with execution environments, unit tests",slr/data/fulltext/arxiv_2410.01353.txt
+arxiv:2412.01769,Commit0: Library Generation from Scratch,include,core,"""write libraries from scratch"" validated by unit tests",slr/data/fulltext/arxiv_2412.01769.txt
+arxiv:2405.19856,DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories,include,contextual,"DevEval ""repository-level code generation"", Pass@1",slr/data/fulltext/arxiv_2405.19856.txt
+arxiv:2402.03630,Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context,unsure,contextual,"IDE context for ""repository-level code completion""; metrics unclear",slr/data/fulltext/arxiv_2402.03630.txt
+arxiv:2404.00599,EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories,include,contextual,"EvoCodeBench repository-level generation, ""Pass@k""",slr/data/fulltext/arxiv_2404.00599.txt
+arxiv:2410.22821,EvoCodeBench: An Evolving Code Generation Benchmark with Domain-Specific Evaluations,include,contextual,"EvoCodeBench ""real-world repositories"", Pass@k",slr/data/fulltext/arxiv_2410.22821.txt
+arxiv:2412.11990,ExecRepoBench: Multi-level Executable Code Completion Evaluation,include,contextual,"""repository-level benchmark ExecRepoBench"", executable evaluation",slr/data/fulltext/arxiv_2412.11990.txt
+arxiv:2406.06918,HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation,include,contextual,"""evolution-aware repository-level code generation"", execution-based evaluation",slr/data/fulltext/arxiv_2406.06918.txt
+arxiv:2409.16299,HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale,unsure,contextual,"generalist agent; evaluated on ""repository-level code generation (RepoExec)""",slr/data/fulltext/arxiv_2409.16299.txt

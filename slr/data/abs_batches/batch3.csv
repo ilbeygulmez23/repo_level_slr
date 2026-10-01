@@ -1,0 +1,87 @@
+key,rid,year,venue,title
+arxiv:2507.12415,R0363,2025,arXiv (Cornell University),SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?
+arxiv:2511.02399,R0369,2025,arXiv (Cornell University),Towards Iterative End-to-End Software Development: A Feature-Driven Multi-Agent Framework
+arxiv:2511.03404,R0370,2025,ACM Transactions on Software Engineering and Methodology,Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling
+arxiv:2512.12216,R0374,2025,arXiv (Cornell University),Training Versatile Coding Agents in Synthetic Environments
+arxiv:2507.09866,R0376,2025,,Turning the Tide: Repository-based Code Reflection
+arxiv:2505.03733,R0379,2025,,WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch
+doi:10.1145/3725213,R0380,2025,ACM Transactions on Software Engineering and Methodology,Wenwang: Toward Effectively Generating Code Beyond Standalone Functions via Generative Pre-trained Models
+arxiv:2601.11077,R0386,2026,arXiv (Cornell University),ABC-Bench: Benchmarking Agentic Backend Coding in Real-World Development
+doi:10.5281/zenodo.20482307,R0388,2026,Zenodo (CERN European Organization for Nuclear Research),Accessibility and Semantic Quality Regressions in AI-Assisted React Development: An Empirical Study
+arxiv:2609.01601,R0395,2026,arXiv (Cornell University),Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation
+doi:10.1109/aitest70988.2026.00019,R0397,2026,,A Dynamic Evaluation Approach to Repository-Level Code Generation Via LLM
+doi:10.5281/zenodo.18639236,R0400,2026,Zenodo (CERN European Organization for Nuclear Research),Agent-Driven Design & Development: An Empirical Study of Solo Developer Productivity with LLM Coding Agents
+arxiv:2605.20456,R0401,2026,arXiv (Cornell University),Agentic Agile-V: From Vibe Coding to Verified Engineering in Software and Hardware Development
+title:agenttoolkitforefficientfeaturecreationwithinexistingcodebase,R0405,2026,DSpace@MIT (Massachusetts Institute of Technology),Agent Toolkit For Efficient Feature Creation Within Existing Codebase
+doi:10.2139/ssrn.7508618,R0409,2026,SSRN Electronic Journal,"AI-Assisted Software Engineering: Evaluating Copilot, Cursor, and Autonomous AI Agents for Rapid Application Development"
+doi:10.55056/ceur-ws.org/vol-4164/paper13.pdf,R0411,2026,,AI-Facilitated Software Project Generation from Natural Language Using Curated Code Snippets
+doi:10.55041/isjem08051,R0422,2026,International Scientific Journal of Engineering and Management,A Multi-Agent Engineering Team for Prompt-Based Application Generation
+doi:10.5281/zenodo.22301753,R0424,2026,Zenodo (CERN European Organization for Nuclear Research),An Authored Recursive Contract Graph as the Control Plane for Coding Agents
+doi:10.5281/zenodo.19338239,R0428,2026,Zenodo (CERN European Organization for Nuclear Research),An Empirical Study of LLM-Assisted PHP Version Migration in WordPress
+arxiv:2607.04212,R0432,2026,IEEE Software,An Evaluation of Role-Based Multiagent Code Generation on Repository-Scale Problems
+arxiv:2509.03310,R0434,2026,,app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding
+doi:10.5281/zenodo.20779854,R0438,2026,Zenodo (CERN European Organization for Nuclear Research),Architectural Entropy in AI-Assisted Software Development
+arxiv:2603.01814,R0439,2026,arXiv (Cornell University),Architecture-Aware Multi-Design Generation for Repository-Level Feature Addition
+title:areviewofcodeagentsbasedonlargelanguagemodels,R0441,2026,DOAJ (DOAJ: Directory of Open Access Journals),A review of code agents based on large language models
+doi:10.70267/cai.v3n4.127145,R0442,2026,Computers and artificial intelligence.,A Review of Research on the Development of Artificial Intelligence Programming Agent-Assisted Software
+doi:10.48448/bqj0-ak93,R0443,2026,Underline Science Inc.,ArkRepoBench: A Repository-Level Code Completion Benchmark for HarmonyOS Development
+doi:10.15276/aait.09.2026.08,R0446,2026,Applied Aspects of Information Technology,A system internals modeling and annotation language for large language model-driven software engineering
+title:automateddevelopmentenvironmentusinganagentbasedapproachandmodelcontextprotocolm,R0451,2026,Electronic Kyiv-Mohyla Academy Institutional Repository (National University of Kyiv-Mohyla Academy),Automated development environment using an agent-based approach and Model Context Protocol (MCP)
+doi:10.1007/s11219-026-09782-3,R0452,2026,Software Quality Journal,Automating best-practice refactoring in Java via multi-agent planning and verification
+doi:10.1109/icassp55912.2026.11462205,R0455,2026,,AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Machine Learning Papers
+title:averificationguidedcontextefficientframeworkforllmbasedsoftwarerefactoring,R0457,2026,DSpace@MIT (Massachusetts Institute of Technology),"A Verification-Guided, Context-Efficient Framework for LLM-Based Software Refactoring"
+doi:10.1145/3797088,R0458,2026,Proceedings of the ACM on software engineering.,Balancing Latency and Accuracy of Code Completion via Local-Cloud Model Cascading
+arxiv:2601.23254,R0461,2026,arXiv (Cornell University),Better Call Grep: Evaluating and Improving Grep-Like Lexical Retrieval for Repository-Level Code Completion
+arxiv:2604.06373,R0463,2026,arXiv (Cornell University),Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects
+doi:10.1145/3805712.3808589,R0464,2026,,Beyond Maintenance: A Benchmark and Multi-Agent Framework for Repository-Usage Code Generation
+arxiv:2603.03194,R0468,2026,arXiv (Cornell University),BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?
+doi:10.48550/arxiv.2609.32459,R0469,2026,arXiv (Cornell University),Beyond the Model: Demystifying Harness Effects in Software Engineering Agents
+arxiv:2607.24884,R0471,2026,arXiv (Cornell University),"Beyond ""What to Retrieve"": Uncertainty in Retrieval-Augmented Code Generation"
+arxiv:2605.06136,R0477,2026,arXiv (Cornell University),BUILD-AND-FIND: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases
+doi:10.5281/zenodo.20445220,R0480,2026,Zenodo (CERN European Organization for Nuclear Research),Can Agents reconstruct microservice architecture?
+arxiv:2605.19901,R0483,2026,arXiv (Cornell University),Can LLMs Produce Better Object-Oriented Designs than Human-Involved Development?
+arxiv:2601.01271,R0484,2026,arXiv (Cornell University),CatchAll: Repository-Aware Exception Handling with Knowledge-Guided LLMs
+doi:10.5281/zenodo.20265206,R0485,2026,Zenodo (CERN European Organization for Nuclear Research),ChainBench: An LLM Benchmark for Cross-Chain Code Generation
+arxiv:2604.26923,R0488,2026,,ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation
+arxiv:2605.18747,R0491,2026,arXiv (Cornell University),Code as Agent Harness
+doi:10.1007/s10489-026-07230-0,R0492,2026,Applied Intelligence,Code generation with large language models: a survey from neural program synthesis to autonomous software development
+doi:10.5281/zenodo.21100657,R0493,2026,Zenodo (CERN European Organization for Nuclear Research),CodeGist: Schema-Guided Repository Context Compression for LLM Code Generation
+arxiv:2601.02868,R0494,2026,,CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation
+arxiv:2604.12268,R0495,2026,arXiv (Cornell University),CodeSpecBench: Benchmarking LLMs for Executable Behavioral Specification Generation
+arxiv:2607.26777,R0496,2026,arXiv (Cornell University),CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development
+arxiv:2606.22082,R0497,2026,arXiv (Cornell University),CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation
+doi:10.1145/3774905.3793914,R0499,2026,,Collaborative LLM Agents for End-to-End Software Development
+doi:10.5281/zenodo.22769026,R0503,2026,Zenodo (CERN European Organization for Nuclear Research),Compiler-in-the-Loop Code Generation A validation-first agent architecture for type-safe multi-file software synthesis
+doi:10.3217/5beqv-dt259,R0504,2026,TUGraz OPEN Library (Graz University of Technology),<> comprehensive guideline on the usage of Large Language Models in the end-to-end software development life cycle
+doi:10.2139/ssrn.7405698,R0505,2026,SSRN Electronic Journal,Computer Science: Reproducible Benchmarking of Code-Generating Large Language Models Across the Software Development Life Cycle
+doi:10.6084/m9.figshare.31891510.v1,R0509,2026,Figshare,ContraFix
+doi:10.14778/3827998.3828136,R0520,2026,Proceedings of the VLDB Endowment,DBCooker : A Database Kernel-Specialized Coding Agent Harness
+doi:10.6084/m9.figshare.32845994.v2,R0521,2026,Figshare,DECO
+arxiv:2608.26557,R0527,2026,arXiv (Cornell University),DeepRepro: State-Aware Subplanning for Paper-to-Code Reproduction in Evolving Repositories
+doi:10.47392/irjaem.2026.0294,R0528,2026,International Research Journal on Advanced Engineering and Management (IRJAEM),Deepsite: A Next-Generation Vibe Coding Platform for Browser-Based Application Generation
+arxiv:2607.07946,R0529,2026,arXiv (Cornell University),"DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks"
+arxiv:2606.10728,R0532,2026,arXiv (Cornell University),DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch
+doi:10.5281/zenodo.21781711,R0539,2026,Zenodo (CERN European Organization for Nuclear Research),"Dissecting Repository-Scale Code-Agent Harnesses: Retrieval, Context, and Action Interfaces Under Model-in-the-Loop Evaluation"
+arxiv:2602.11671,R0542,2026,Proceedings of the ACM on software engineering.,Do Not Treat Code as Natural Language: Implications for Repository-Level Code Generation and Beyond
+doi:10.48448/7yzj-8306,R0546,2026,Underline Science Inc.,E2EDev: Benchmarking Large Language Models in End-to-End Software Development Task
+arxiv:2608.01927,R0547,2026,arXiv (Cornell University),Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation
+arxiv:2608.09273,R0550,2026,arXiv (Cornell University),Entropy-based Code Adversarial Translation for Real-world Repository Migration
+title:evaluatingandimprovingthereliabilityofllmgeneratedcoderefactorings,R0565,2026,QSpace (Queen's University Library),Evaluating and Improving the Reliability of LLM-Generated Code Refactorings
+arxiv:2604.06742,R0566,2026,arXiv (Cornell University),Evaluating LLM-Based 0-to-1 Software Generation in End-to-End CLI Tool Scenarios
+doi:10.1145/3786583.3786856,R0571,2026,,EvoC2Rust: A Skeleton-guided Framework for Project-Level C-to-Rust Translation
+doi:10.6084/m9.figshare.31861498.v1,R0572,2026,Figshare,EvoCodeAgent
+doi:10.54254/2755-2721/2026.31609,R0577,2026,Applied and Computational Engineering,Exploration of AI Software Generation Methods Based on Work Flow Knowledge and Domain Constraints
+doi:10.5281/zenodo.21190519,R0583,2026,Zenodo (CERN European Organization for Nuclear Research),FeatX: Editing Software by Editing Features for Repository-Level Code Evolution (Artifact)
+arxiv:2603.16011,R0584,2026,arXiv (Cornell University),FormulaCode: Evaluating Agentic Optimization on Large Codebases
+doi:10.34218/ijcet_17_04_004,R0590,2026,INTERNATIONAL JOURNAL OF COMPUTER ENGINEERING & TECHNOLOGY,FROM COMPILATION TO CORRECTNESS: A STRUCTURED EVIDENCE SYNTHESIS OF AGENTIC AI FOR LEGACY APPLICATION MODERNIZATION
+doi:10.48448/a65b-cc66,R0592,2026,Underline Science Inc.,From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long-Code Completion
+arxiv:2605.17242,R0596,2026,arXiv (Cornell University),From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements
+arxiv:2609.21293,R0603,2026,arXiv (Cornell University),GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development
+arxiv:2607.13921,R0605,2026,arXiv (Cornell University),Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code
+arxiv:2603.20299,R0610,2026,arXiv (Cornell University),HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs
+arxiv:2604.17745,R0611,2026,,HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code Generation and Execution
+arxiv:2608.06791,R0613,2026,arXiv (Cornell University),HLSmith: An Expert-Guided Agentic Framework for C/C++-to-HLS Translation
+doi:10.20944/preprints202608.1294.v1,R0614,2026,Preprints.org,Hybrid Multi-Agent Framework for Enterprise Web Application Generation
+arxiv:2601.00376,R0615,2026,Proceedings of the ACM on software engineering.,In Line with Context: Repository-Level Code Generation via Context Inlining
+arxiv:2606.19830,R0618,2026,arXiv (Cornell University),JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines
+doi:10.1145/3842390,R0620,2026,ACM Transactions on Software Engineering and Methodology,KGMACG: Knowledge-Guided Multi-Agent Orchestration for Scalable Application-Level Code Generation

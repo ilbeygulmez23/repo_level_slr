@@ -1,0 +1,61 @@
+key,decision,reason,tier,justification
+doi:10.1109/compsac65507.2025.00158,unsure,,,C2R translation of codebases; repo scope and tests unclear
+arxiv:2305.07922,exclude,EC3,,Isolated pretraining model
+doi:10.1109/conit69683.2026.11620835,exclude,EC1,,"GitHub workflow automation, no abstract"
+doi:10.5281/zenodo.21781711,exclude,EC10,,Zenodo deposit
+arxiv:2504.01848,include,,core,"Paper to codebase replication, executed rubric"
+arxiv:2312.02120,exclude,EC3,,Isolated instruction tuning
+doi:10.3217/5beqv-dt259,exclude,EC6,,"Guideline, no research"
+doi:10.1109/icecet65726.2026.11631806,exclude,EC4,,"Architecture recovery, not code generation"
+doi:10.5281/zenodo.17541890,exclude,EC10,,Replication package
+arxiv:2409.15204,exclude,EC2,,"Method-body completion judged by BLEU/EM/compilation, no tests"
+doi:10.1109/conisoft63288.2024.00013,exclude,EC6,,Review and case study
+doi:10.1145/3729385,exclude,EC0,,Foundation model versioning
+arxiv:2608.01927,include,,contextual,"Repo context retrieval, CoderEval/DevEval executed tests"
+doi:10.1109/lt68265.2026.11592529,exclude,EC0,,Education simulation
+doi:10.1016/j.infsof.2025.107917,exclude,EC3,,Isolated contract generation
+arxiv:2609.15387,include,,core,Web application generation benchmark
+doi:10.1145/3715908,exclude,EC3,,Isolated ICL demonstration selection
+doi:10.1109/csecs69124.2026.11541607,unsure,,,"Fullstack project generation; evaluation only static metrics, two students"
+doi:10.1145/3805712.3809571,unsure,,,"Repo completion; evaluation unstated, possibly similarity"
+doi:10.1109/emes65692.2025.11045587,exclude,EC3,,Competitive programming problems
+arxiv:2601.20789,exclude,EC1,,Issue-resolution agent training
+doi:10.1109/access.2026.3722027,unsure,,,Cross-platform Go generation from code context; repo scope unclear
+doi:10.1109/access.2025.3631952,exclude,EC6,,Systematic literature review
+arxiv:2604.22659,include,,core,Repo-level generation from specifications benchmark
+arxiv:2507.02976,exclude,EC1,,Patch security study on SWE-bench
+doi:10.1109/icse-fose59343.2023.00008,exclude,EC6,,Survey
+arxiv:2507.09866,exclude,EC1,,Modifying code in existing repositories
+doi:10.1002/smr.2723,exclude,EC3,,"Scientific scripts, isolated"
+doi:10.1145/3808138,include,,contextual,Empirical study of context engineering for repo-level generation
+arxiv:2608.21107,exclude,EC6,,Survey
+arxiv:2412.08109,include,,contextual,Project-context functions evaluated with official test suites
+doi:10.1109/iccit57492.2022.10055851,exclude,EC3,,Isolated program translation corpus
+doi:10.1109/mlcad65511.2025.11189167,exclude,EC4,,Summarization and QA
+doi:10.1016/j.asoc.2026.115934,exclude,EC3,,Flowchart to isolated code
+doi:10.1109/icicds70526.2026.11604721,exclude,EC0,,"Agile delay mitigation, no abstract"
+arxiv:2608.26557,include,,core,Paper to repository reproduction agent
+doi:10.5281/zenodo.19248411,exclude,EC10,,Artifact deposit; issue resolution
+arxiv:2604.03632,include,,core,Repository-level generation method
+doi:10.64917/feaiml/volume03issue06-01,exclude,EC3,,"Secure coding guidance, no repo generation"
+doi:10.1109/fllm67465.2025.11391125,exclude,EC3,,Isolated automotive snippet generation
+doi:10.1145/3770748,exclude,EC2,,Domain-specific code completion
+doi:10.5281/zenodo.20482307,exclude,EC0,,Accessibility regressions study of existing repos
+doi:10.1109/cascon66301.2025.00024,exclude,EC0,,Context control tool for assistants
+doi:10.1109/clusterworkshops61563.2024.00029,exclude,EC3,,"Program translation, not repository"
+doi:10.1145/3797071,exclude,EC0,,Bug detection
+title:theartofcodethesurprisingpowerofbeautyinsoftwaredevelopment,exclude,EC6,,Book
+arxiv:2512.18080,include,,core,Prompt-to-app full-stack generation benchmark
+arxiv:2502.17139,unsure,,,Inference acceleration for repo-level generation; evaluation unclear
+arxiv:2607.04212,include,,core,Multi-agent SRS to Java repository generation
+doi:10.1109/bigdia71496.2026.11684680,unsure,,,Software generation collaboration; repo scale and tests unclear
+doi:10.1145/3702987,include,,core,Generating software from requirements with human-AI agile agents
+doi:10.1109/ase63991.2025.00287,include,,contextual,Industrial repo code generation with build and execution metrics
+doi:10.1145/3691620.3695552,unsure,,,Multi-task benchmark with repo context; evaluation unclear
+doi:10.1145/3501709.3544280,exclude,EC0,,Code explanations
+doi:10.5281/zenodo.19183223,exclude,EC10,,Podcast
+arxiv:2601.22706,include,,contextual,Repo-level secure generation benchmark with tests
+arxiv:2605.18747,exclude,EC6,,Survey
+doi:10.1109/qrs57517.2022.00112,exclude,EC0,,Software aging
+doi:10.18653/v1/2024.acl-long.619,exclude,EC3,,Isolated generation
+doi:10.1145/3805689.3812402,exclude,EC0,,Interview study on oversight

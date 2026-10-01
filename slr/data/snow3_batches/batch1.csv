@@ -1,0 +1,24 @@
+key,year,venue,n_seeds,title
+doi:10.1162/tacl.a.25,2025,Transactions of the Association for Computational Linguistics,1,(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts
+doi:10.1145/3702987,2025,ACM Transactions on Software Engineering and Methodology,1,Empowering Agile-Based Generative Software Development through Human-AI Teamwork
+doi:10.1080/20964471.2026.2615511,2026,Big Earth Data,1,GeoJSON agents: a multi-agent LLM architecture for geospatial analysis—function calling vs. code generation
+doi:10.1109/ms.2024.3441889,2024,IEEE Software,1,Generative AI: Redefining the Future of Software Engineering
+doi:10.1109/ase56229.2023.00174,2023,,1,Software Engineering Using Autonomous Agents: Are We There Yet?
+doi:10.1007/s42979-024-02664-0,2024,SN Computer Science,1,Evaluating ChatGPT’s Proficiency in Understanding and Answering Microservice Architecture Queries Using Source Code Insights
+doi:10.1109/cgo57630.2024.10444830,2024,,1,AskIt: Unified Programming Interface for Programming with Large Language Models
+doi:10.17352/tcsit.000084,2024,Trends in Computer Science and Information Technology,1,Insights into the Development Trends of Industrial Large Language Models
+doi:10.1109/weef-gedc59520.2023.10343985,2023,,1,"Engineering, the Profession in Trouble: Lack of Programme Development Standards That Support the AI Chatbot? A System View"
+doi:10.1016/j.ipm.2024.104057,2025,Information Processing & Management,1,A contracted container-based code component collaboration model with reusable but invisible right management
+doi:10.1101/2025.03.06.641840,2025,bioRxiv (Cold Spring Harbor Laboratory),1,DORA AI Scientist: Multi-agent Virtual Research Team for Scientific Exploration Discovery and Automated Report Generation
+doi:10.2139/ssrn.5353252,2025,SSRN Electronic Journal,1,Developer Perspectives on Licensing and Copyright Issues Arising from Generative AI for Software Development
+doi:10.34257/gjcstcvol23is2pg37,2023,Global Journal of Computer Science and Technology,1,Application of Meta-Programming Techniques for Accelerating Software Development and Improving Quality
+doi:10.22214/ijraset.2025.69166,2025,International Journal for Research in Applied Science and Engineering Technology,1,AI-Forge - Your Coding Assistant
+doi:10.1109/icse-companion66252.2025.00069,2025,,1,Identifying Performance-Sensitive Configurations in Software Systems with LLM-Driven Agents
+doi:10.1145/3696630.3731460,2025,,1,Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents
+doi:10.1109/iwqos65803.2025.11143253,2025,,1,NetMAS: Efficient Network Configuration Translation with Multi-Agent System
+doi:10.1145/3788149.3788219,2025,,1,A Software Synapse for a Multi-Agent System Based on Large Language Models
+doi:10.1007/978-3-032-29788-4_73,2026,Communications in computer and information science,1,"Teaching Step by Step: LLM-Generated Animations That Segment Mathematical Concepts, Not Just Render Answers"
+doi:10.1007/978-3-032-19744-3_3,2026,Structural integrity,1,Intelligent Analysis of Software Team Performance: An Agentic Approach
+doi:10.1007/978-3-032-30693-7_4,2026,Lecture notes in computer science,1,Clight2Rust: Translating a Subset of C into Safe Rust with a Small Trusted Runtime
+doi:10.48550/arxiv.2308.08155,2023,arXiv (Cornell University),1,AIKernel Semantic DSL Compiler and Deterministic Agent Execution Architecture
+doi:10.48550/arxiv.2412.03801,2024,arXiv (Cornell University),1,Agent AI with LangGraph: A Modular Framework for Enhancing Machine Translation Using Large Language Models

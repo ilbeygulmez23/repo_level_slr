@@ -1,0 +1,4 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.1109/ase63991.2025.00304,RepoMasterEval: Evaluating Code Completion via Real-World Repositories,unsure,contextual,masked-snippet completion from real repos; check if test-based [R1: main session],
+doi:10.1109/llm4code66737.2025.00016,YABLoCo: Yet Another Benchmark for Long Context Code Generation,include,contextual,"215 functions from large repos with dependency contexts, long-context generation [R1: main session]",
+doi:10.1145/3755881.3755913,API-Repo: API-centric Repository-level Code Completion,unsure,contextual,"API-centric repository-level completion; no abstract, check evaluation [R1: main session]",

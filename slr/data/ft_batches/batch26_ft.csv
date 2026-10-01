@@ -1,0 +1,10 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1109/iaict71158.2026.11620682,exclude,EC8,,,,,,IAICT 2026,no full text and no abstract; RESTful API generation scope (app-level vs endpoint-level) undecidable
+doi:10.1145/3805712.3809571,exclude,EC8,,,,,,preprint,no full text; abstract on repo-level completion via embedding fusion gives no evaluation info; likely similarity-only (EC2)
+doi:10.1145/3808169,include,,core,repo-translation,method,C;Rust,reference-unit-tests;other,PACMSE 2026,"no full text; abstract: project-level C-to-Rust via pointer KG (PtrTrans); functional correctness +29.3%, unsafe usage -99.9%"
+doi:10.1109/saner67736.2026.00050,exclude,EC8,,,,,,SANER 2026,no full text and no abstract; granularity of Cobol-to-Java translation (unit vs project) undecidable
+doi:10.1145/3803437.3805230,exclude,EC8,,,,,,preprint,"no full text; abstract: industrial repo-level completion (Ant Group), latency focus; evaluation unstated, likely similarity/online metrics (EC2)"
+doi:10.1007/978-3-032-31930-2_12,exclude,EC8,,,,,,LNCS 2026,no full text and no abstract; title suggests paper-to-repo (likely in scope) but task/evaluation not extractable; retrieve full text
+doi:10.1109/icassp55912.2026.11463415,include,,core,behavioral-reconstruction,method,Python,reference-unit-tests;differential-oracle;nonfunctional,ICASSP 2026,"borderline: modular DNN simulator regenerated from SCALE-Sim specs; 138 tasks pass@k, cycle counts vs SCALE-Sim; multi-file not explicit"
+doi:10.1145/3744916.3773271,exclude,EC2,,,,,,ICSE 2026,"repo-context function generation (2,400 tasks, 15 langs) evaluated only by CodeBLEU; explicitly opts out of execution"
+doi:10.1109/csecs69124.2026.11541607,include,,core,nl-to-app,method,TypeScript;C#,nonfunctional;human,CSECS 2026,no full text; Design System to fullstack Angular/.NET project via GPT-5; validated only with SonarQube/Lighthouse/WAVE and two students; weak

@@ -1,0 +1,4 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1109/ase63991.2025.00304,include,,contextual,repo-context-gen,benchmark;empirical,Python;TypeScript,reference-unit-tests,ASE 2025,"No full text; masked-snippet completion in real repos, scored by mutation-checked, augmented repo test suites -> contextual. Languages per citing paper; verify."
+doi:10.1109/llm4code66737.2025.00016,exclude,EC8,,,,,,,"No full text; abstract: 215 C/C++ function bodies in large repos, but metrics unspecified (test execution unclear). Likely contextual if tests confirmed; retrieve arXiv version."
+doi:10.1145/3755881.3755913,exclude,EC8,,,,,,,"No full text and no abstract; API-centric repo-level completion, evaluation (tests vs similarity) cannot be determined."

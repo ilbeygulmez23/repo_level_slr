@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.3390/app132413061,2023,Applied Sciences,1,Evaluating the Usability and Functionality of Intelligent Source Code Completion Assistants: A Comprehensive Review
+doi:10.1016/j.cola.2024.101267,2024,Journal of Computer Languages,1,Developers’ information seeking in Question & Answer websites through a gender lens
+doi:10.1109/icse55347.2025.00199,2025,,1,"Trust Dynamics in AI-Assisted Development: Definitions, Factors, and Implications"
+doi:10.31219/osf.io/kjz9t_v1,2025,,1,The Gotchas of AI Coding and Vibe Coding. It’s All About Support And Maintenance
+doi:10.1145/3822455.3830306,2026,,1,Software Development using Low-Code Platforms or AI-Assistants: A Case Study-based Comparison
+doi:10.1007/s11432-023-4127-5,2024,Science China Information Sciences,1,"Deep learning-based software engineering: progress, challenges, and opportunities"
+doi:10.18653/v1/2024.acl-long.607,2024,,1,Draft& Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding
+doi:10.18653/v1/2024.naacl-long.88,2024,,1,REST: Retrieval-Based Speculative Decoding
+doi:10.18653/v1/2024.emnlp-main.742,2024,,1,Ouroboros: Generating Longer Drafts Phrase by Phrase for Faster Speculative Decoding
+doi:10.52202/079017-4224,2024,,1,G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering
+doi:10.1109/ms.2023.3248401,2023,IEEE Software,1,"Application of Large Language Models to Software Engineering Tasks: Opportunities, Risks, and Implications"
+doi:10.1145/3565971,2022,ACM Computing Surveys,1,Code Search: A Survey of Techniques for Finding Code
+doi:10.18653/v1/2025.naacl-long.7,2025,,1,CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases
+doi:10.48550/arxiv.2312.13010,2023,arXiv (Cornell University),1,AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation
+doi:10.1145/3808190,2026,Proceedings of the ACM on software engineering.,1,Not All RAGs Are Created Equal: A Component-Wise Empirical Study for Software Engineering Tasks
+doi:10.1016/j.future.2024.05.034,2024,Future Generation Computer Systems,1,LLM4VV: Developing LLM-driven testsuite for compiler validation
+doi:10.1002/cpe.8269,2024,Concurrency and Computation Practice and Experience,1,Large language model evaluation for high‐performance computing software development
+doi:10.1109/clusterworkshops61563.2024.00029,2024,,1,LASSI: An LLM-Based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes
+doi:10.52202/079017-3202,2024,,1,CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming
+doi:10.1109/ipdps54959.2023.00066,2023,,1,Porting a Computational Fluid Dynamics Code with AMR to Large-scale GPU Platforms
+doi:10.1109/tpds.2026.3675550,2026,IEEE Transactions on Parallel and Distributed Systems,1,Performance-Aligned LLMs for Generating Fast HPC Code
+doi:10.1145/3510003.3510172,2022,Proceedings of the 44th International Conference on Software Engineering,1,CodeFill
+doi:10.1016/j.csi.2024.103917,2024,Computer Standards & Interfaces,1,Large language models for code completion: A systematic literature review
+doi:10.1145/3597503.3639138,2024,,1,Language Models for Code Completion: A Practical Evaluation
+doi:10.48550/arxiv.2412.19437,2024,arXiv (Cornell University),1,DeepSeek-V3 Technical Report
+doi:10.48550/arxiv.2203.13474,2022,arXiv (Cornell University),1,CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
+doi:10.48550/arxiv.2309.16609,2023,arXiv (Cornell University),1,Qwen Technical Report
+doi:10.48550/arxiv.2211.11501,2022,arXiv (Cornell University),1,DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation
+doi:10.48550/arxiv.2308.01861,2023,arXiv (Cornell University),1,ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation
+doi:10.48550/arxiv.2401.06401,2024,arXiv (Cornell University),1,DevEval: Evaluating Code Generation in Practical Software Projects
+doi:10.48550/arxiv.2401.06628,2024,arXiv (Cornell University),1,OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models
+doi:10.48550/arxiv.2212.10481,2022,arXiv (Cornell University),1,Execution-Based Evaluation for Open-Domain Code Generation
+doi:10.48550/arxiv.2410.24198,2024,arXiv (Cornell University),1,SelfCodeAlign: Self-Alignment for Code Generation
+doi:10.48550/arxiv.2501.05414,2025,arXiv (Cornell University),1,LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation
+doi:10.48550/arxiv.2503.04359,2025,arXiv (Cornell University),1,LONGCODEU: Benchmarking Long-Context Language Models on Long Code Understanding
+doi:10.1145/3650105.3652301,2024,,1,Exploring the Impact of the Output Format on the Evaluation of Large Language Models for Code Translation
+doi:10.1016/j.infsof.2022.107082,2022,Information and Software Technology,1,Learning migration models for supporting incremental language migrations of software applications
+doi:10.1109/iccit57492.2022.10055851,2022,,1,XTest: A Parallel Multilingual Corpus with Test Cases for Code Translation and Its Evaluation*
+doi:10.1109/tai.2025.3639527,2025,IEEE Transactions on Artificial Intelligence,1,A Preference-Driven Methodology for Efficient Code Generation
+doi:10.1109/apsec66846.2025.00021,2025,,1,Reliable Code Generation with Test Case Prioritization and Cognitive Validation
+doi:10.1109/ichora69329.2026.11537217,2026,,1,From Code Synthesis to Security Analysis: Evaluation of Open-Source LLMs on Ethereum Smart Contracts
+doi:10.1016/j.infsof.2022.106987,2022,Information and Software Technology,1,Keyword-guided abstractive code summarization via incorporating structural and contextual information
+doi:10.1145/3506696,2022,ACM Transactions on Software Engineering and Methodology,1,XCode : Towards Cross-Language Code Representation with Large-Scale Pre-Training
+doi:10.1109/esem56168.2023.10304803,2023,,1,An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code
+doi:10.1007/s11432-025-4670-0,2026,Science China Information Sciences,1,A survey on large language models for software engineering
+doi:10.1109/llm4code66737.2025.00009,2025,,1,CWEval: Outcome-driven Evaluation on Functionality and Security of LLM Code Generation
+doi:10.1145/3540250.3549101,2022,Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,1,"Less training, more repairing please: revisiting automated program repair via zero-shot learning"
+doi:10.1145/3501709.3544280,2022,,1,Generating Diverse Code Explanations using the GPT-3 Large Language Model
+doi:10.1145/3545945.3569785,2023,,1,Experiences from Using Code Explanations Generated by Large Language Models in a Web Software Development E-Book
+doi:10.18653/v1/2023.findings-emnlp.316,2023,,1,The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation
+doi:10.18653/v1/2025.acl-long.1072,2025,,1,CoIR: A Comprehensive Benchmark for Code Information Retrieval Models
+doi:10.1016/j.jss.2024.112149,2024,Journal of Systems and Software,1,Project-specific code summarization with in-context learning
+doi:10.1007/s10664-024-10573-2,2024,Empirical Software Engineering,1,Type-migrating C-to-Rust translation using a large language model
+doi:10.1109/icse48619.2023.00069,2023,,1,Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs
+doi:10.1145/3656406,2024,Proceedings of the ACM on Programming Languages,1,"Don’t Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation"
+doi:10.1109/apsec65559.2024.00046,2024,,1,Unraveling the Potential of Large Language Models in Code Translation: How Far are We?
+doi:10.1109/icse55347.2025.00127,2025,,1,GenC2Rust: Towards Generating Generic Rust Code from C
+doi:10.1145/3735544.3735582,2025,,1,Optimizing Type Migration for LLM-Based C-to-Rust Translation: A Data Flow Graph Approach
+doi:10.1109/compsac65507.2025.00176,2025,,1,ApiRAT: Integrating Multi-source API Knowledge for Enhanced Code Translation with LLMs
+doi:10.1109/ase63991.2025.00130,2025,,1,Forcrat: Automatic I/O API Translation from C to Rust via Origin and Capability Analysis

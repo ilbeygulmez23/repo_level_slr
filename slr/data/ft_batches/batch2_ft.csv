@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2406.14497,include,,contextual,repo-context-gen,benchmark;empirical,Python,reference-unit-tests,preprint,"Mixed RAG benchmark; RepoEval-function (373, executable) separately reported; SWE-bench-Lite and function-level parts out of scope."
+arxiv:2302.00288,include,,contextual,repo-context-gen,benchmark;empirical,Python;Java,reference-unit-tests;other,ICSE 2024,"230 Python + 230 Java functions, six dependency levels, project-level Docker execution; Pass@k plus Acc@k context-token metric."
+arxiv:2403.16443,include,,core,nl-to-repo,method;benchmark;training-data,Python,similarity;human;nonfunctional,TOSEM 2026,README→repo via three-layer sketch; SketchEval 19 repos scored only by SketchBLEU similarity; 30-participant user study.
+arxiv:2410.01353,include,,contextual,repo-context-gen,benchmark,Python,reference-unit-tests;similarity,preprint,"Repo-level completion, 10 repos/296 blocks, unit-test Pass@1 plus edit similarity; agent-built environments."
+arxiv:2412.01769,include,,core,skeleton-to-library,benchmark;method,Python,reference-unit-tests,ICLR 2025,54 Python libraries with bodies stubbed; spec+tests given; unit-test pass rate; SDE-I agent and OpenHands baselines.
+arxiv:2405.19856,include,,contextual,repo-context-gen,benchmark;empirical,Python,reference-unit-tests;other,preprint,"1,874 samples/117 repos, human-written requirements; Pass@k and dependency Recall@k."
+arxiv:2402.03630,exclude,EC2,,,,,,LLM4Code 2024,Repo-level completion (IDECoder) evaluated only by EM/CodeBLEU/syntax match on 10 CrossCodeEval repos; short vision paper.
+arxiv:2404.00599,exclude,EC7,,,,,,,"Earlier version of EvoCodeBench (arxiv:2410.22821, NeurIPS 2024); same EvoCodeBench-2403 data and results."
+arxiv:2410.22821,include,,contextual,repo-context-gen,benchmark;empirical,Python,reference-unit-tests;other,NeurIPS 2024 D&B,"EvoCodeBench-2403: 275 samples/25 repos, evolving; Pass@k, Recall@k, domain-specific DSI; supersedes arxiv:2404.00599."
+arxiv:2412.11990,include,,contextual,repo-context-gen,benchmark;method;training-data,Python,reference-unit-tests;similarity,preprint,1.2K completion samples/50 repos with unit tests; Repo-Instruct ~3M SFT samples; Qwen2.5-Coder-Instruct-C.
+arxiv:2406.06918,include,,contextual,repo-context-gen,benchmark;empirical,Python;Java,reference-unit-tests,preprint,"400 PR-derived functions (200 Py/200 Java), repo rolled back to pre-commit state; evolution-ignored inflates Pass@1 10-61%."
+arxiv:2409.16299,include,,contextual,repo-context-gen,method,Python,reference-unit-tests,preprint,"Generalist agent; mostly SWE-bench/Defects4J (EC1), but RepoExec (355) section separately reported with Pass@k."

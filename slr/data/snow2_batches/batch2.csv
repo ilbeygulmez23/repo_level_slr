@@ -1,0 +1,61 @@
+key,year,venue,n_seeds,title
+doi:10.1109/cicn70047.2026.11594236,2026,,1,Closing the Loop: Code Generation and Intelligent Debugging with Large Language Models
+doi:10.1016/j.asoc.2026.115934,2026,Applied Soft Computing,1,ADFCoder: Evolutionary requirements comprehension based on flowchart image with complex logic structure and domain-specific requirements
+doi:10.1145/3719345,2025,ACM Transactions on Software Engineering and Methodology,1,ContrastRepair : Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs
+doi:10.1109/icse55347.2025.00022,2025,,1,RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code
+doi:10.18653/v1/2023.findings-emnlp.119,2023,,1,Explain-then-translate: an analysis on improving program translation with self-generated explanations
+doi:10.1109/saner67736.2026.00068,2026,,1,Combining Static Code Analysis and Large Language Models Improves Correctness and Performance of Algorithm Recognition
+doi:10.1145/3786181.3788723,2026,,1,An Empirical Study of C to Rust Translation using Local Large-Language Models
+doi:10.3390/app15031344,2025,Applied Sciences,1,AI-Driven Innovations in Software Engineering: A Review of Current Practices and Future Directions
+doi:10.1109/tse.2024.3492204,2024,IEEE Transactions on Software Engineering,1,Fight Fire With Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?
+doi:10.3390/electronics14010087,2024,Electronics,1,Cognitive Agents Powered by Large Language Models for Agile Software Project Management
+doi:10.1109/icse55347.2025.00140,2025,,1,SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents
+doi:10.1145/3696630.3728717,2025,,1,Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering
+doi:10.1109/forge66646.2025.00008,2025,,1,PerfCodeGen: Improving Performance of LLM Generated Code with Execution Feedback
+doi:10.1109/tvcg.2024.3410523,2024,IEEE Transactions on Visualization and Computer Graphics,1,SPROUT: An Interactive Authoring Tool for Generating Programming Tutorials With the Visualization of Large Language Models
+doi:10.1109/llm4code66737.2025.00023,2025,,1,Hierarchical Repository-Level Code Summarization for Business Applications Using Local LLMs
+doi:10.1109/tse.2026.3667895,2026,IEEE Transactions on Software Engineering,1,Agents4PLC: Automating Closed-Loop PLC Code Generation and Verification in Industrial Control Systems Using LLM-Based Agents
+doi:10.1109/icse55347.2025.00108,2025,,1,Fixing Large Language Models' Specification Misunderstanding for Better Code Generation
+doi:10.1145/3795154.3795362,2025,,1,A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices
+doi:10.1109/jcdl67857.2025.00025,2025,,1,A Multi-Agent System for Complex Reasoning in Radiology Visual Question Answering
+doi:10.1080/10494820.2025.2542892,2025,Interactive Learning Environments,1,"Application of multi-agent systems in legal education: the impact of multi-agent mock trial exercises on student satisfaction, core skill enhancement, and cognitive development"
+doi:10.1007/s40747-025-02051-z,2025,Complex & Intelligent Systems,1,Collaborative LLM agents for flexible software development of intelligent industrial robot control systems
+doi:10.1038/s44182-025-00065-w,2026,npj Robotics,1,GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models
+doi:10.1109/pais66004.2025.11126523,2025,,1,Locally-deployed Open-source LLMs for Code Generation: Promises and Challenges
+doi:10.3390/s26113502,2026,Sensors,1,SafeCodeRL: Security-Constrained Multi-Agent Reinforcement Learning for Trustworthy LLM-Generated IoT/CPS Software
+doi:10.1109/emes65692.2025.11045587,2025,,1,"Comparative Analysis of ChatGPT, DeepSeek, and Gemini for Automated Code Generation"
+doi:10.3390/sym17101660,2025,Symmetry,1,Leveraging Symmetry in Multi-Agent Code Generation: A Cross-Verification Collaboration Protocol for Competitive Programming
+doi:10.1109/icisc65841.2025.11188152,2025,,1,Using Role-Specialized LLM Agents for Workflow Execution in a Product Development Setting
+doi:10.1109/tse.2025.3621462,2025,IEEE Transactions on Software Engineering,1,Hydra-Reviewer: A Holistic Multi-Agent System for Automatic Code Review Comment Generation
+doi:10.1109/icicn67355.2025.11430449,2025,,1,LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system
+doi:10.1109/iccns66249.2025.11428688,2025,,1,"Advancing LLM Agents for Code Generation: Observability, Orchestration, Reliable Performance"
+doi:10.4018/979-8-3693-9851-7.ch005,2025,,1,AI Tools for the Software Development of Real-Time Communication Systems
+doi:10.1109/conisoft63288.2024.00013,2024,,1,Transforming Software Development: A Study on the Integration of Multi-Agent Systems and Large Language Models for Automatic Code Generation
+doi:10.4018/979-8-3693-6250-1.ch002,2025,,1,Generative AI in the Software Development Lifecycle
+doi:10.1145/3711896.3737196,2025,,1,Benchmarking and Advancing Large Language Models for Local Life Services
+doi:10.1109/tse.2025.3641225,2025,IEEE Transactions on Software Engineering,1,Reaching Software Quality for Bioinformatics Applications: How Far Are We?
+doi:10.1109/tse.2025.3632508,2025,IEEE Transactions on Software Engineering,1,The Power of Small LLMs: A Multi-Agent for Code Generation via Dynamic Precaution Tuning
+doi:10.1109/ase63991.2025.00345,2025,,1,Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision
+doi:10.1145/3774904.3792557,2026,,1,Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate
+doi:10.1145/3786167.3788424,2026,,1,TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation
+doi:10.1186/s12967-026-08829-0,2026,Journal of Translational Medicine,1,"Agentic systems in computational pathology: architectures, evidence, and translational challenges"
+doi:10.2139/ssrn.5381820,2025,SSRN Electronic Journal,1,Orchestration of No-Code Agents in the AgentFlow Framework
+doi:10.1109/icoict66265.2025.11193130,2025,,1,AI Agents: From Concept to Code to Commerce
+doi:10.1109/icpads67057.2025.11322891,2025,,1,Test Case Enhanced Self-Iterative Code Generation Framework
+doi:10.1109/ase63991.2025.00200,2025,,1,An Agent-based Evaluation Framework for Complex Code Generation
+doi:10.1109/conisoft66928.2025.00046,2025,,1,A Systematic Literature Review on Intelligent Tools and the Developer Experience
+doi:10.1109/iceca66444.2025.11383462,2025,,1,Semantic Kernel for Software Engineering: A Multi-Agent Framework for Autonomous Development Lifecycles
+doi:10.1109/bigdata66926.2025.11402643,2025,,1,"Optimizing Agentic Code Generation: Cost Efficiency, Observability and Orchestration"
+doi:10.2139/ssrn.6387100,2026,SSRN Electronic Journal,1,FTDI: A Budget-Aware Self-Healing Framework for Resilient LLM Multi-Agent Code Generation
+doi:10.1109/southeastcon63549.2026.11476694,2026,,1,Ede-Slm: Execution-Driven Ensembles for Sub-1B Code Generation Models
+doi:10.1109/iscait69154.2026.11477183,2026,,1,TDPGen: Optimizing Agentic Code Generation via Test-Driven Planning and Hierarchical ReAct
+doi:10.29121/shodhkosh.v7.i9s.2026.7999,2026,ShodhKosh Journal of Visual and Performing Arts,1,TOWARDS AN ADAPTIVE COST-OPTIMIZATION FRAMEWORK FOR SOFTWARE MAINTENANCE: INTEGRATING PREDICTIVE MODELING WITH ORGANIZATIONAL READINESS
+doi:10.1145/3786167.3788408,2026,,1,From Stateless Code Generation to Living Ontologies
+doi:10.3390/pr14101669,2026,Processes,1,Action-Oriented Programming and Automatic Agent Generation for Adaptive Data Collection in Decentralized Data Ecosystems
+doi:10.1145/3800424.3800453,2026,,1,A Multi-Agent Framework for Accessible Web Code Generation
+doi:10.1109/icrtcst68392.2026.11545390,2026,,1,Secure Software Development Lifecycle (SDLC): Integrating Security Practices into Agile Methodologies
+doi:10.1109/scsp69985.2026.11548581,2026,,1,Accelerating Smart City Resiliency: AI-Agent Approach to Isotope Detection Development
+doi:10.1145/3809481.3812613,2026,,1,Spec2FaaS: using AI Agents for Autonomous Serverless Function Development and Deployment
+doi:10.1109/aiita69518.2026.11567118,2026,,1,DCR-Code: A Difficulty-Aware Multi-Agent Framework for Code Generation Via Decompose-Compose-Refine
+doi:10.1109/meco70748.2026.11579021,2026,,1,Trust-Aware Multi-Agent Traceability: Confidence-Calibrated Knowledge Graphs for Consistent Software Artifact Management
+doi:10.1145/3805760.3814911,2026,,1,Wink: Recovering from Misbehaviors in Coding Agents

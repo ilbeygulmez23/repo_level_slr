@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1109/rew61692.2024.00045,exclude,EC8,,,,,,REW 2024,"no full text; BP requirements-to-modules for reactive systems; only ""initial evaluation"", task scale and metrics not extractable from abstract"
+doi:10.55041/ijsrem36242,exclude,EC7,,,,,,IJSREM,"no full text; abstract near-verbatim copy of CodeAgent (Zhang et al., ACL 2024, CodeAgentBench); not an independent study"
+doi:10.5281/zenodo.21157035,include,,contextual,repo-context-gen,benchmark;method,multi,reference-unit-tests,IJRITCC,"no full text; 4,140 items/612 repos/5 langs, hidden tests; mixed families incl. repair; cross-file completion part qualifies"
+title:softwaredevelopmentforscientificcomputingusingaicodegeneration,exclude,EC6,,,,,,,"no full text; single-developer Copilot experience/case report building satellite sim; human-driven, prompt-usefulness labels only"
+doi:10.1109/forge66646.2025.00026,include,,core,nl-to-repo,method,Python,build-run;reference-unit-tests;other,FORGE 2025,no full text; Agile multi-agent (PM/Dev/Tester sprints) + dynamic code graph; HumanEval/MBPP plus real-world project scenarios vs ChatDev/MetaGPT
+doi:10.1007/978-981-96-9986-5_35,exclude,EC8,,,,,,CCIS 2025,no full text and no abstract; title only (agent-driven backend development)
+doi:10.1145/3793302.3793371,include,,core,nl-to-app,method;empirical,JavaScript;TypeScript,llm-judge;human,MSR 2026,no full text; user stories+Figma to React apps; 4 projects/75 stories; LLM-judge functional/visual coverage; 3 architectures compared
+doi:10.1109/issrew67781.2025.00051,include,,contextual,repo-context-gen,method,Python,reference-unit-tests;similarity,ISSREW 2025,"no full text; fine-grained code-element RAG on DevEval (1,825 tasks); Pass@1 27.01% vs RepoCoder"
+doi:10.1109/cict67193.2025.11399205,exclude,EC6,,,,,,CICT 2025,no full text; abstract reads as overview of LangGraph/CrewAI multi-agent approaches; no own task or evaluation described
+doi:10.23977/jaip.2025.080217,exclude,EC8,,,,,,JAIP,"no full text; conceptual generation-repair architecture; no benchmark, task or evaluation described in abstract"
+doi:10.5281/zenodo.17841335,include,,core,nl-to-app,method,JavaScript,build-run;nonfunctional;other,preprint,"no full text; voice/text requirements to React Native apps; eval: dev-time reduction, intent resolution accuracy under noise; weak functional eval"
+doi:10.1109/asyu67174.2025.11208402,exclude,EC8,,,,,,ASYU 2025,no full text; banking-scenario LLM code SonarQube analysis; unclear whether snippets or multi-file systems; likely EC3

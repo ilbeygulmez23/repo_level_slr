@@ -1,0 +1,32 @@
+arxiv_id,short_name,tier,origin,title
+2403.16443,CodeS,core,draft,CodeS: Natural Language to Code Repository via Multi-Layer Sketch
+2412.01769,Commit0,core,draft,Commit0: Library Generation from Scratch
+2509.16198,RPG/ZeroRepo,core,draft,RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation
+2510.14509,E2EDev,core,draft,E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task
+2511.04064,E2EDevBench,core,draft,Benchmarking and Studying the LLM-based Agent System in End-to-End Software Development
+2512.12730,NL2Repo-Bench,core,draft,NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents
+2601.13943,RepoGenesis,core,draft,RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository
+2604.06742,CLI-Tool-Bench,core,draft,Evaluating LLM-Based 0-to-1 Software Generation in End-to-End CLI Tool Scenarios
+2604.22659,RealBench,core,draft,RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices
+2605.07122,RepoZero,core,draft,RepoZero: Can LLMs Generate a Code Repository from Scratch?
+2606.22082,CodeTeam,core,draft,CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation
+2406.11927,RepoExec,contextual,draft,On the Impacts of Contexts on Repository-Level Code Generation
+2602.01655,ProjDevBench,core,preliminary,ProjDevBench: Benchmarking AI Coding Agents on End-to-End Project Development
+2602.03462,RAL-Bench,core,preliminary,Toward Functional and Non-Functional Evaluation of Application-Level Code Generation
+2602.22518,RepoMod-Bench,core,preliminary,RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing
+2605.03546,ProgramBench,core,preliminary,ProgramBench: Can Language Models Rebuild Programs From Scratch?
+2606.10728,DeNovoSWE,core,preliminary,DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch
+2607.27146,MindForge,core,preliminary,MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis
+2604.03632,LiveCoder,core,preliminary,Persistent Cross-Attempt State Optimization for Repository-Level Code Generation
+2302.00288,CoderEval,contextual,preliminary,CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models
+2312.05772,A3-CodGen,contextual,preliminary,A^3-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware and Global-Aware and Third-Party-Library-Aware
+2401.07339,CodeAgent,contextual,preliminary,CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+2404.00599,EvoCodeBench,contextual,preliminary,EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories
+2405.19856,DevEval,contextual,preliminary,DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories
+2502.18793,SolEval,contextual,preliminary,SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation
+2507.14791,RepoScope,contextual,preliminary,RepoScope: Leveraging Call Chain-Aware Multi-View Context for Repository-Level Code Generation
+2508.02998,MRG-Bench,contextual,preliminary,MRG-Bench: Evaluating and Exploring the Requirements of Context for Repository-Level Code Generation
+2601.02868,CodeMEM,contextual,preliminary,CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation
+2603.25770,ReCUBE,contextual,preliminary,ReCUBE: Evaluating Repository-Level Context Utilization in Code Generation
+2606.08135,TICoder,contextual,preliminary,TICoder: A Repository-Level Code Generation Framework with Test-Driven Planning and Implementation-Aware Reuse
+2609.26480,FeatLens,contextual,preliminary,FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation

@@ -1,0 +1,13 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.1145/3786175.3788345,exclude,EC8,,,,,,,No full text; abstract: private repository tasks scored via LLM-as-judge framework plus CE/margin fine-tuning; unclear whether executed tests are used.
+arxiv:2603.11073,exclude,EC6,,,,,,,Experience report (EASE 2026) of a team vibe-coding two systems; no benchmark or systematic evaluation of generated repositories.
+arxiv:2603.23633,exclude,EC1,,,,,,,Security Detect-Repair-Verify on already-generated EduCollab web apps; generation only builds the benchmark and is not evaluated. Companion/extended version of arxiv:2603.00897.
+arxiv:2603.00897,exclude,EC1,,,,,,,"Earlier version of arxiv:2603.23633 (same author, same DRV benchmark); repair of existing generated projects, not generation evaluation."
+arxiv:2606.13763,include,,core,nl-to-repo,empirical,multi,differential-oracle;build-run;nonfunctional;other,preprint,"Claude Code/Codex build 34 multi-file chess engines from one-line prompt in 17 languages; perft oracle, Elo gauntlet vs Stockfish, cost; single domain."
+arxiv:2609.26480,include,,contextual,repo-context-gen,method,Python,reference-unit-tests;other,preprint,Feature-guided graph retrieval for repo-level function generation; DevEval Pass@1 (90 repos) plus dependency recall on EvoCodeBench.
+arxiv:2609.06383,include,,core,behavioral-reconstruction,method,Python,reference-unit-tests;similarity;human;llm-judge,preprint,"Peripheral: aims at spec-driven maintenance, but evaluation reconstructs whole repos (Flask, Seaborn, Pytest) from spec, checked by original test suites."
+arxiv:2608.06041,exclude,EC3,,,,,,,"Measures language choice in chat responses to project prompts; code blocks not built into repositories, correctness not evaluated."
+arxiv:2606.05720,exclude,EC1,,,,,,,"Skill-capsule context routing for implementing 15 features in an existing CMS codebase; feature addition, single case study."
+arxiv:2604.19742,include,,contextual,repo-context-gen,benchmark;method,Python;JavaScript;TypeScript,generated-tests;build-run;llm-judge;human,preprint,PlayEval: function-level generation inside 43 GUI app repos; LLM-generated unit tests plus PlayTester GUI agent (Play@k); repair loop method.
+arxiv:2604.17187,include,,core,nl-to-app,empirical,JavaScript,build-run;human,preprint,"Five open-weights models generate a multi-file React Native app from one prompt; manual feature checklist; single task, single seed, very small."
+arxiv:2603.25770,include,,contextual,repo-context-gen,benchmark;method,Python,generated-tests,preprint,ReCUBE: reconstruct a masked file in 20 post-2025 repos (366 instances) using repo context; LLM-generated usage-aware tests; CCE agent toolkit.

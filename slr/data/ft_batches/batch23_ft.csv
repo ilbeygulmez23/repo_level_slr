@@ -1,0 +1,12 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+doi:10.3390/app14031046,exclude,EC8,,,,,,Applied Sciences 2024,no full text; GPT-4 case study on safety-critical code from requirements; abstract does not show multi-file artefact or executed evaluation
+doi:10.18653/v1/2024.acl-long.810,include,,core,nl-to-app,method;benchmark,Python,build-run;llm-judge;human;similarity;other,ACL 2024,"Multi-agent waterfall chat chain; SRDD 1,200 software prompts; ~4.4 files/app; completeness/executability/embedding consistency vs GPT-Engineer, MetaGPT"
+doi:10.1145/3650212.3652115,include,,contextual,repo-context-gen,benchmark;empirical,Java,reference-unit-tests;build-run,ISSTA 2024,"Mixed multi-task Java benchmark (17 Defects4J projects); FCG 238 in-project function tasks run with project tests, separately reported; also test gen/APR"
+doi:10.1145/3691620.3695552,exclude,EC2,,,,,,ASE 2024,Repo-sourced code generation/completion evaluated only by CodeBLEU/BLEU/ES/EM; no executed tests
+arxiv:2401.06401,exclude,EC7,,,,,,preprint,"no full text; earlier version of DevEval (arxiv:2405.19856, same Li/Li et al. PKU team; 2,690 vs 1,874 samples)"
+doi:10.1109/icsme58944.2024.00061,exclude,EC8,,,,,,ICSME 2024,no full text; contribution is interop-based validation of Java->Python translation; LLM role in translation not stated in abstract
+doi:10.1109/clusterworkshops61563.2024.00029,exclude,EC3,,,,,,,LASSI OpenMP<->CUDA translation of 10 single-file HeCBench codes with self-correction; no multi-file/repository dependency
+doi:10.1109/apsec65559.2024.00052,include,,core,nl-to-app,method,unspecified,other,APSEC 2024,no full text; meta-model based prompting refines requirements->design->enterprise app code; small applications; evaluation details not in abstract
+doi:10.1109/re59067.2024.00049,exclude,EC8,,,,,,RE 2024,Research preview; custom GPT demo on one use case producing one test and one method; no systematic evaluation
+doi:10.1007/978-3-031-75434-0_8,exclude,EC8,,,,,,,"no full text and no abstract; SE agent RL optimisation, task undeterminable"
+doi:10.1007/s10664-024-10573-2,include,,core,repo-translation,method,C;Rust,build-run;human;other,EMSE 2025,"Tymcrat whole-program C->Rust with type migration; 41 GNU packages; type-error/migration counts, manual correctness sample; outputs do not compile, no tests"

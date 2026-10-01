@@ -1,0 +1,61 @@
+key,title,year,venue
+doi:10.1145/3675395,AceCoder : An Effective Prompting Technique Specialized in Code Generation,2024,ACM Transactions on Software Engineering and Methodology
+doi:10.1109/apsec66846.2025.00021,Reliable Code Generation with Test Case Prioritization and Cognitive Validation,2025,
+doi:10.1145/3777383,Large Language Models for Code Translation: An In-Depth Analysis of Code Smells and Functional Correctness,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.1117/12.3031411,Analysis of Python web development applications based on the Django framework,2024,
+doi:10.2139/ssrn.7493625,Detecting LLM-Generated Source Code via Robust Watermarking,2026,SSRN Electronic Journal
+doi:10.2139/ssrn.6213039,From Syntax to Semantics: The Rise of the Taste-Based Economy and Viral Creation Loops in Intent-Driven Software Generation,2026,SSRN Electronic Journal
+doi:10.1007/s10664-025-10693-3,Adversarial attack classification and robustness testing for large language models for code,2025,Empirical Software Engineering
+doi:10.1007/978-3-032-22375-3_18,Between Policy and Practice: GenAI Adoption in Agile Software Development Teams,2026,Lecture notes in business information processing
+doi:10.1109/access.2025.3589503,Synthetic Data Generation Using Large Language Models: Advances in Text and Code,2025,IEEE Access
+doi:10.1109/compsac69091.2026.00436,Proactive Multi-Agent Systems for Autonomous Code Generation and Software Maintenance,2026,
+doi:10.1109/iconnect56593.2023.10327087,Analysis ChatGPT Potential: Transforming Software Development with AI Chat Bots,2023,"2023 International Conference on Networking, Electrical Engineering, Computer Science, and Technology (IConNECT)"
+doi:10.1109/icbc54727.2022.9805493,Decentralized Application Infrastructures as Smart Contract Codes,2022,2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
+doi:10.18653/v1/2024.acl-long.305,Experiential Co-Learning of Software-Developing Agents,2024,
+doi:10.64898/2026.09.19.752880,Scrub Data: A Framework for Reproducible Data Curation with AI Coding Agents,2026,bioRxiv (Cold Spring Harbor Laboratory)
+doi:10.18653/v1/2023.acl-long.411,Large Language Models Meet NL2Code: A Survey,2023,
+doi:10.5281/zenodo.21157035,Repository-Level Code Generation with Retrieval-Augmented Large Language Model Agents,2024,International Journal on Recent and Innovation Trends in Computing and Communication
+doi:10.1145/3790099,Unmasking the Type Inference Capabilities of LLMs for Java Code Snippets,2026,ACM Transactions on Software Engineering and Methodology
+arxiv:2308.12950,Code Llama: Open Foundation Models for Code,2023,arXiv (Cornell University)
+doi:10.1145/3715003,The Future of AI-Driven Software Engineering,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.1016/j.patter.2025.101370,Toward large reasoning models: A survey of reinforced reasoning with large language models,2025,Patterns
+arxiv:2402.03630,Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context,2024,
+arxiv:2609.02272,PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation,2026,arXiv (Cornell University)
+doi:10.54254/2755-2721/2026.31609,Exploration of AI Software Generation Methods Based on Work Flow Knowledge and Domain Constraints,2026,Applied and Computational Engineering
+doi:10.1109/c358072.2023.10436306,Empirical evaluation of automated code generation for mobile applications by AI tools,2023,2023 IEEE Colombian Caribbean Conference (C3)
+doi:10.5281/zenodo.17841335,Echo: A Voice and Text-Driven Framework for Automated Mobile Application Development Using Large Language Models,2025,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.1109/iciice69672.2026.11565314,AgileAgent-Orch: Governance-Aware Agentic Repository Migration within Scaled Agile AWS Pipelines,2026,
+doi:10.1007/s44443-025-00237-6,CodeDiffuSe: A masked diffusion framework for structure-aware code completion and repair,2025,Journal of King Saud University - Computer and Information Sciences
+doi:10.1145/3701551.3703563,Improving FIM Code Completions via Context & Curriculum Based Learning,2025,
+doi:10.1007/s10489-026-07230-0,Code generation with large language models: a survey from neural program synthesis to autonomous software development,2026,Applied Intelligence
+doi:10.5281/zenodo.20709565,"State, Not Tokens: Repository-Scale Agent Reasoning Is Bound by State Architecture",2026,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.1109/iecon58223.2025.11221674,Industrial Control Software Migration Based on Large Language Models,2025,
+arxiv:2608.20318,AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement,2026,arXiv (Cornell University)
+arxiv:2608.16742,TDD-Agent: Test-Driven Reasoning for Code Generation,2026,arXiv (Cornell University)
+arxiv:2408.07846,A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites,2024,arXiv
+doi:10.1109/ase56229.2023.00143,From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining,2023,
+arxiv:2501.00363,SPDZCoder: Combining Expert Knowledge with LLMs for Generating Privacy-Computing Code,2024,ACM Transactions on Software Engineering and Methodology
+arxiv:2401.16467,ReGAL: Refactoring Programs to Discover Generalizable Abstractions,2024,arXiv (Cornell University)
+doi:10.18653/v1/2026.knowfm-1.11,RSCE: Training-Free Residual Stream Encoding for Persistent Context Amortization,2026,
+doi:10.1145/3761843.3761919,Harnessing SQL for Automated Web Development: An Interactive Learning Platform for Database Students,2025,
+doi:10.1016/j.scico.2026.103535,From C to verifiable Rust: Towards practical migration of code and specifications,2026,Science of Computer Programming
+doi:10.1145/3795154.3795362,A Multi-Agent Coding Assistant for Cloud-Native Development: From Requirements to Deployable Microservices,2025,
+doi:10.1109/access.2025.3556973,Exploring the Potential of Offline LLMs in Data Science: A Study on Code Generation for Data Analysis,2025,IEEE Access
+doi:10.1126/science.abq1158,Competition-level code generation with AlphaCode,2022,Science
+arxiv:2605.17526,SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering,2026,arXiv (Cornell University)
+doi:10.31219/osf.io/kjz9t_v1,The Gotchas of AI Coding and Vibe Coding. It’s All About Support And Maintenance,2025,
+doi:10.1145/3650212.3652115,CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios,2024,
+arxiv:2609.33918,Green AI: Cost of LLM-Based Code Completion,2026,arXiv (Cornell University)
+doi:10.6084/m9.figshare.31890751.v2,ProjectGen & CodeProjectEval,2026,Figshare
+doi:10.1145/3805712.3808374,C 3 Flow: SIMD-Style Concurrent Claude Code Workflow for Scaling Deep Research,2026,
+doi:10.1007/978-3-032-39395-1_23,Do Multi-agent Systems Make Better Software? An Empirical Evaluation of LLM-Based Frameworks for Software Development,2026,Lecture notes in computer science
+title:towardsreliableandpracticallanguagemodelagentsevaluationanddevelopment,Towards Reliable and Practical Language-Model Agents: Evaluation and Development,2026,TSpace (University of Toronto)
+doi:10.1109/ase63991.2025.00304,RepoMasterEval: Evaluating Code Completion via Real-World Repositories,2025,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+arxiv:2306.03203,A Static Evaluation of Code Completion by Large Language Models,2023,arXiv (Cornell University)
+doi:10.1145/3625223.3649280,HDLGen-ChatGPT Case Study: RISC-V Processor VHDL and Verilog Model - Testbench and EDA Project Generation,2023,
+doi:10.1145/3786335.3813220,Wily: High-Performance Complexity Gated-Feedback for AI Coding Agents,2026,
+doi:10.1016/j.infsof.2022.107082,Learning migration models for supporting incremental language migrations of software applications,2022,Information and Software Technology
+doi:10.1109/forge66646.2025.00008,PerfCodeGen: Improving Performance of LLM Generated Code with Execution Feedback,2025,
+arxiv:2504.15254,CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation,2025,arXiv (Cornell University)
+arxiv:2406.06918,HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation,2024,
+doi:10.24963/ijcai.2025/848,Can We Translate Code Better with LLMs and Call Graph Analysis?,2025,

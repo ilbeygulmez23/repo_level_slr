@@ -1,0 +1,55 @@
+title,doi,year
+Aligning LLMs to Fully Utilize the Cross-file Context in Repository-level Code Completion,10.1109/ASE63991.2025.00125,2025
+Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion,10.1109/ICASSP55912.2026.11464386,2026
+RepoGenix: Dual Context-Aided Repository-Level Code Completion with Language Models,,2024
+RepoFusion-in-Decoder: Efficient Cross-File Code Completion via Lightweight Encoder Fusion,10.1109/AANN66429.2025.11257694,2025
+Relative Positioning Based Code Chunking Method For Rich Context Retrieval In Repository Level Code Completion Task With Code Language Model,10.1109/ASEW67777.2025.00077,2025
+RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level Code Completion,10.1109/Forge66646.2025.00009,2025
+Enhancing Project-Specific Code Completion by Inferring Internal API Information,10.1109/TSE.2025.3592823,2025
+Knowledge Graph Based Repository-Level Code Generation,10.1109/LLM4Code66737.2025.00026,2025
+C3 – Code Commit Collab - A Collaborative Code Editor using Repository Level LLM,10.1109/ICCSAI64074.2025.11064134,2025
+Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context,,2024
+Collaborative Multi-Agent Framework for Autonomous Code Generation and Debugging,10.1109/CICT67193.2025.11399205,2025
+A Dynamic Evaluation Approach to Repository-Level Code Generation Via LLM,10.1109/AITest70988.2026.00019,2026
+RepoMasterEval: Evaluating Code Completion via Real-World Repositories,10.1109/ASE63991.2025.00304,2025
+An Evaluation of Role-Based Multiagent Code Generation on Repository-Scale Problems,10.1109/MS.2026.3701516,2026
+aiXcoder-7B: A Lightweight and Effective Large Language Model for Code Processing,10.1109/ICSE-SEIP66354.2025.00025,2025
+AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion,10.1109/ASE63991.2025.00085,2025
+RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation,10.1109/ASE63991.2025.00248,2025
+YABLoCo: Yet Another Benchmark for Long Context Code Generation,10.1109/LLM4Code66737.2025.00016,2025
+Unseen Horizons: Unveiling the Real Capability of LLM Code Generation Beyond the Familiar,10.1109/ICSE55347.2025.00082,2025
+GraphCoder: Enhancing Repository-Level Code Completion via Coarse-to-fine Retrieval Based on Code Context Graph,,2024
+FastCoder: Accelerating Repository-level Code Generation via Efficient Retrieval and Verification,10.1109/ASE63991.2025.00190,2025
+RLCoder: Reinforcement Learning for Repository-Level Code Completion,10.1109/ICSE55347.2025.00014,2025
+RustRepoTrans: Repository-level Context Code Translation Benchmark Targeting Rust,10.1109/ASE63991.2025.00057,2025
+JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models,,2024
+Towards Effective Validation and Integration of LLM-Generated Code,10.1109/VL/HCC60511.2024.00051,2024
+HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation,10.1109/ICSE55347.2025.00228,2025
+CECoder: Fine-Grained Code Element Retrieval for Repository-Level Code Generation,10.1109/ISSREW67781.2025.00051,2025
+Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems and Benchmarks,10.1109/CSNT64827.2025.10968728,2025
+Trace: Test Repair via Agent-based Context Extraction with LLMs,10.1109/APSEC66846.2025.00017,2025
+"DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis",10.1109/ICLAD65226.2025.00029,2025
+Repository-Level Code Smell Detection Based on Multi-Scale Code Information and LLM Assistance,10.1109/IJCNN64981.2025.11228932,2025
+"$\mathbf{A^{3}}$A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",10.1109/TSE.2024.3486195,2024
+Development of an LLM-Based Q&A Assistant for the Code of an Internal Design System,10.1109/USBEREIT70063.2026.11581004,2026
+GRACG: Graph Retrieval Augmented Code Generation,10.1109/ASEW67777.2025.00060,2025
+iiPCS: Intent-Based In-Context Learning for Project-Specific Code Summarization,10.1109/IJCNN60899.2024.10650776,2024
+CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pretrained Models,10.1145/3597503.3623322,2024
+PEACE: Towards Efficient Project-Level Efficiency Optimization via Hybrid Code Editing,10.1109/ASE63991.2025.00153,2025
+LLM-Based Directed Input Generation for Repositories,10.1109/TSE.2026.3715497,2026
+EvoCoGen: Collaborative Code Generation Guided by Evolutionary Coupling,10.1109/CSCWD68734.2026.11581560,2026
+RTLExplain: A Structured Approach to RTL Code Summarization and Question Answering for Medium-to-Large Designs Using LLMs,10.1109/MLCAD65511.2025.11189167,2025
+Heuristic and Neural Network Based Prediction of Project-Specific API Member Access,10.1109/TSE.2020.3017794,2022
+Automated Test Case Repair Using Language Models,10.1109/TSE.2025.3541166,2025
+Enhancing Software Engineering with AI: Key Insights from ChatGPT,10.1109/DASA63652.2024.10836262,2024
+Historical Artifacts Do Not Measurably Improve Knowledge Graph-Augmented Issue Resolution,10.1109/ACIT69831.2026.11700062,2026
+TAM-Eval: Evaluating LLMs for Automated Unit Test Maintenance,10.1109/SANER-C67878.2026.00057,2026
+Hierarchical Syntax-Aware Modeling for Code Generation and Program Repair,10.1109/ICAIRC68035.2025.11385172,2025
+CODEMORPH: Mitigating Data Leakage in Large Language Model Assessment,10.1109/ICSE-Companion66252.2025.00081,2025
+IncrFuzz: LLM-Driven Incremental Fuzz Driver Generation for Library APIs,10.1109/DSC67331.2025.00093,2025
+HGARena: Budgeted Test-Driven Multi-Agent Repository Issue Resolution with Heterogeneous Graph-Augmented Retrieval,10.1109/COMPSAC69091.2026.00062,2026
+"Detecting and Mitigating Inconsistencies Between Code, Documentation and Tests",10.1109/ASE63991.2025.00397,2025
+PowerReviewer: A Knowledge-Graph Enhanced Multi-Agent Framework for Automated Code Review in Power Grid Systems,10.1109/ICAACE69793.2026.11508786,2026
+Lost in Translation: A Study of Bugs Introduced by Large Language Models While Translating Code,10.1145/3597503.3639226,2024
+Self-Admitted GenAI Usage in Open-Source Software,10.1109/TSE.2026.3681886,2026
+CoUpJava: A Dataset of Code Upgrade Histories in Open-Source Java Repositories,10.1109/MSR66628.2025.00075,2025

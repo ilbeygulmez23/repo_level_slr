@@ -1,0 +1,13 @@
+key,title,abs_decision,tier,note,text_file
+doi:10.2139/ssrn.6738341,From User Stories to Production Code: A Controlled Agentic Framework for Reliable Software Generation,include,core,"""transforming natural language user stories into production-ready software""",
+doi:10.1109/asew67777.2025.00060,GRACG: Graph Retrieval Augmented Code Generation,include,contextual,"""repository-aware function generation"" evaluated with pass@k",
+doi:10.1007/978-3-031-97635-3_52,Improving Project-Level Code Generation Using Combined Relevant Context,unsure,contextual,"no abstract; ""Project-Level Code Generation Using Combined Relevant Context""",
+doi:10.1109/access.2025.3625819,Preconditions and Postconditions as Design Constraints for LLM Code Generation,unsure,core,"""complete software implementations of a medium complexity system""",
+doi:10.2139/ssrn.5886003,RepoCBench: A Benchmark for C-Oriented Repository-Level Code Generation with Large Language Models and Agents,unsure,contextual,"no abstract; ""C-Oriented Repository-Level Code Generation"" benchmark",
+doi:10.1007/s10664-025-10762-7,Repository-level code completion with adaptive segmentation and fused retrieval,unsure,contextual,"no abstract; ""Repository-level code completion""; metrics unknown",
+doi:10.1007/978-3-031-93257-1_3,Repository-Level Code Generation Method Enhanced by Context-Dependent Graph Retrieval,unsure,contextual,"no abstract; ""Repository-Level Code Generation Method"" graph retrieval",
+doi:10.24433/co.6120886.v1,Spec2Code: A Human-Supervised Framework for End-to-End LLM-Assisted Software Development,unsure,core,"""natural-language requirements to deployment-ready code""; Code Ocean deposit?",
+doi:10.17605/osf.io/8q27d,Specialized Multi-Agent Systems for Autonomous Software Generation,unsure,core,"""Multi-Agent Systems for autonomous software development"" report; possibly whitepaper",
+doi:10.1145/3725213,Wenwang: Toward Effectively Generating Code Beyond Standalone Functions via Generative Pre-trained Models,include,contextual,"""non-standalone functions"" with context, evaluated on CoderEval",
+doi:10.1109/aitest70988.2026.00019,A Dynamic Evaluation Approach to Repository-Level Code Generation Via LLM,unsure,contextual,"no abstract; title ""repository-level code generation"" evaluation approach",
+doi:10.5281/zenodo.18639236,Agent-Driven Design & Development: An Empirical Study of Solo Developer Productivity with LLM Coding Agents,unsure,core,"agents ""design and implement software systems""; 8 projects empirical study",

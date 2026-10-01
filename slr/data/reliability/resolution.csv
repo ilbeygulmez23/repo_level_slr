@@ -1,0 +1,17 @@
+key,stage,final_decision,reason,rationale
+doi:10.2139/ssrn.6213039,abs,exclude,EC0,"Crossref abstract: marketing/economics case study of Cursor, Replit, Lovable (go-to-market archetypes); no code generation method, benchmark or evaluation."
+doi:10.1109/iecon58223.2025.11221674,abs,exclude,EC3,No open full text. Abstract: LLM generates a single IEC 61499 function block from extracted FSM requirements; no repository artefact or test evaluation described.
+doi:10.1016/j.scico.2026.103535,abs,exclude,EC8,"No full text (closed, no arXiv version) and no abstract in OpenAlex, Crossref or Semantic Scholar; task, LLM use and evaluation undeterminable."
+arxiv:2606.31159,ft,exclude,EC1,Repository-level part (AICGSecEval) asks for git patches fixing CVEs in existing projects; other part is self-contained SALLM functions (EC3).
+arxiv:2511.07584,ft,exclude,EC1,"RepoKG-50 tasks are code patches to existing repositories mined from commits: refactoring, bug fixing, feature integration. Not new-unit generation."
+arxiv:2609.21293,ft,exclude,EC3,Deliverable is one self-contained index.html game; core tier requires a multi-file application (consistent with earlier adjudication).
+doi:10.2139/ssrn.6387100,abs,exclude,EC3,"Crossref abstract: fault-injection self-healing for multi-agent code generation, evaluated on HumanEval/HumanEval+ (function-level, no repository)."
+arxiv:2601.11077,ft,include,contextual,"Masked endpoint implementations regenerated inside real backend repos and checked by executed API tests; new-unit generation like DevEval/CoderEval, not a patch to existing behaviour."
+arxiv:2409.16299,ft,include,contextual,"Mostly issue resolution/repair, but RepoExec (355 tasks, Pass@k with tests) is a separately reported section and table; mixed-benchmark rule satisfied (peripheral)."
+doi:10.1007/978-3-032-37314-4_2,ft,exclude,EC3,Prompt permits a single main.py; multi-file output is neither required nor shown. Multi-file WebGen-Bench appendix only repairs Bolt.diy code.
+doi:10.2139/ssrn.6295236,abs,exclude,EC3,"arXiv 2506.13663 full text: single UI page from a mockup (React Native), evaluated by visual/structural similarity and user study; no repository."
+arxiv:2605.14478,ft,exclude,EC2,17 helper-call completions judged by static call-pattern oracles; authors state no executable tests were run.
+doi:10.1109/icassp55912.2026.11463415,ft,exclude,EC3,"138 function/class/module-level tasks from specs, pass@k per task; multi-file simulator never stated and no existing repository context."
+arxiv:2311.09835,ft,exclude,EC3,"Outputs are mostly bash commands (214 of 260 test items) invoking repo scripts, not repository code units tested in place; consistent with earlier adjudication."
+arxiv:2604.16314,ft,include,contextual,"Generates new functions integrated into existing multi-file codebases, checked by ground-truth pytest; integration tasks reported separately. Small (4 repo tasks), low QA."
+arxiv:2404.00599,ft,exclude,EC7,"Earlier version of EvoCodeBench arxiv:2410.22821 (NeurIPS 2024 D&B, included): same authors, EvoCodeBench-2403 data and results."

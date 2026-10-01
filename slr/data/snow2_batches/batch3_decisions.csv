@@ -1,0 +1,31 @@
+key,decision,reason,tier,note
+doi:10.1145/3805712.3808374,exclude,EC0,,"Deep research workflow, 'BrowseComp-zh'; not code generation"
+doi:10.1109/icera72709.2026.11666599,exclude,EC0,,"MAS failure cascade benchmark, 'fault-injection testbed'; not code generation"
+doi:10.1109/icstw72326.2026.00018,exclude,EC4,,'Automated Black-Box Testing'; output is tests
+doi:10.1109/icst69053.2026.00037,exclude,EC0,,Observability/fault injection tool 'llmmas-otel'; not repository generation
+doi:10.1145/3803437.3806715,exclude,EC6,,'rapid review' of fairness in MAS; secondary study
+doi:10.1007/978-981-92-3403-5_2,exclude,EC4,,'Project-Aware Code Summarization'; output not code
+doi:10.69882/adba.cs.2026071,exclude,EC3,,'competitive programming problems' on LiveCodeBench; isolated generation
+doi:10.1109/ccece68150.2026.11610535,exclude,EC1,,'Governed LLM-Based Software Maintenance' of existing software
+doi:10.1109/haxd70072.2026.11621027,exclude,EC8,,No abstract; 'Agent Harness Engineering' title ambiguous
+doi:10.1109/iaict71158.2026.11621038,exclude,EC0,,'Biomedical Question Answering'; off-topic
+doi:10.1145/3770855.3818107,exclude,EC3,,"Evaluated on 'HumanEval, MBPP'; isolated code generation"
+doi:10.1109/compsac69091.2026.00436,unsure,,core,"No abstract; 'Autonomous Code Generation' multi-agent, possibly repository-level"
+doi:10.1145/3840382,exclude,EC3,,'eight code generation benchmarks' incl. APPS; isolated generation
+doi:10.18690/um.feri.7.2026.16,exclude,EC9,,Not in English (Slovenian)
+doi:10.1145/3845606,exclude,EC3,,Robot 'Behavior Tree' generation user study; domain snippets
+doi:10.1109/re68928.2026.00041,exclude,EC4,,'Requirements Recovery from CODE'; output not code
+doi:10.1007/978-3-032-35078-7_18,exclude,EC8,,No abstract; 'Code as the Control Plane' title ambiguous
+doi:10.1016/j.eswa.2026.134396,unsure,,core,No abstract; 'adaptive multi-agent code generation' scope unclear
+doi:10.1109/iisa71656.2026.11705535,exclude,EC8,,No abstract; 'Governed LLM-Based Code Generation' harness ambiguous
+doi:10.1109/icsme64153.2025.00065,exclude,EC4,,"Answers 'structural questions'; Text-to-Cypher QA, not code generation"
+doi:10.1109/tse.2025.3631886,exclude,EC4,,"'semantic code search' benchmark; retrieval, not generation"
+doi:10.1007/978-981-92-0378-9_30,exclude,EC8,,No abstract; 'Evolutionary Code Generation' ambiguous
+doi:10.1145/3742413.3789057,exclude,EC4,,'code comprehension' tool; output not code
+doi:10.1109/access65134.2025.11135582,exclude,EC8,,No abstract; RAG 'for Knowledge Retention' ambiguous
+doi:10.1109/ase63991.2025.00283,exclude,EC1,,'logging patch generation' in existing large-scale codebases
+doi:10.64898/2026.02.13.705771,exclude,EC0,,Hardware control framework for 'AI coding assistants'; off-topic
+doi:10.1109/saner67736.2026.00107,exclude,EC1,,'Localization' across existing codebases; issue-resolution style
+doi:10.1007/978-981-92-3426-4_19,exclude,EC2,,"'Retrieval-Augmented Code Completion'; likely similarity-evaluated, no abstract"
+doi:10.1145/3770855.3817529,exclude,EC5,,'Graph Neural Networks' bug localization; not LLM-based
+doi:10.1109/icecet65726.2026.11631806,exclude,EC4,,"'Architecture Recovery'; repository understanding, output not code"

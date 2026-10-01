@@ -1,0 +1,61 @@
+key,title,year,venue
+doi:10.1145/3755881.3755913,API-Repo: API-centric Repository-level Code Completion,2025,
+doi:10.5281/zenodo.17870341,"The Universal Control Codex (UCC): A Thin Reasoning Layer for Disciplined, Standards-Aligned AI",2025,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.70267/cai.v3n4.127145,A Review of Research on the Development of Artificial Intelligence Programming Agent-Assisted Software,2026,Computers and artificial intelligence.
+doi:10.1145/3708519,Automatic Programming: Large Language Models and Beyond,2024,ACM Transactions on Software Engineering and Methodology
+arxiv:2607.27167,SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch,2026,arXiv (Cornell University)
+doi:10.18653/v1/2023.findings-emnlp.917,Data Augmentation for Code Translation with Comparable Corpora and Multiple References,2023,
+doi:10.25394/pgs.33968797,Application-Driven Hardware-Software Co-Design for Efficient Computing on Modern GPUs,2026,Purdue
+doi:10.4018/979-8-3693-6250-1.ch002,Generative AI in the Software Development Lifecycle,2025,
+doi:10.1145/3793302.3793371,Bridging Design and Implementation: A Study of Multi-Agent LLM Architectures for Automated Front-End Generation,2025,
+arxiv:2509.14745,On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub,2025,ACM Transactions on Software Engineering and Methodology
+arxiv:2607.27146,MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis,2026,arXiv (Cornell University)
+doi:10.3390/buildings16091722,Large Language Model-Based Method for HVAC System Control Code Automatic Generation,2026,Buildings
+doi:10.1080/20964471.2026.2615511,GeoJSON agents: a multi-agent LLM architecture for geospatial analysis—function calling vs. code generation,2026,Big Earth Data
+arxiv:2211.12588,Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks,2022,arXiv (Cornell University)
+doi:10.1145/3803437.3805230,RepoFuse: A Dual-Context Approach to Repository-Level Code Completion at Industrial Scale,2026,
+doi:10.1145/3586030,Grounded Copilot: How Programmers Interact with Code-Generating Models,2023,Proceedings of the ACM on Programming Languages
+doi:10.1016/j.jss.2024.112149,Project-specific code summarization with in-context learning,2024,Journal of Systems and Software
+arxiv:2508.04125,Experimental Analysis of Productive Interaction Strategy with ChatGPT: User Study on Function and Project-level Code Generation Tasks,2025,ACM Transactions on Software Engineering and Methodology
+doi:10.1145/3565971,Code Search: A Survey of Techniques for Finding Code,2022,ACM Computing Surveys
+doi:10.1109/ase63991.2025.00235,SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation,2025,
+title:agenttoolkitforefficientfeaturecreationwithinexistingcodebase,Agent Toolkit For Efficient Feature Creation Within Existing Codebase,2026,DSpace@MIT (Massachusetts Institute of Technology)
+arxiv:2410.19245,MaCTG: Multi-Agent Collaborative Thought Graph for Automatic Programming,2024,
+doi:10.1109/ase63991.2025.00075,PseudoFix: Refactoring Distorted Structures in Decompiled C Pseudocode,2025,
+arxiv:2603.06365,"ESAA-Security: An Event-Sourced, Verifiable Architecture for Agent-Assisted Security Audits of AI-Generated Code",2026,arXiv (Cornell University)
+doi:10.1109/rew61692.2024.00045,Boosting LLM-Based Software Generation by Aligning Code with Requirements,2024,
+arxiv:2406.14497,CodeRAG-Bench: Can Retrieval Augment Code Generation?,2024,
+doi:10.1145/3551349.3559549,Test-Driven Multi-Task Learning with Functionally Equivalent Code Transformation for Neural Code Generation,2022,
+arxiv:2401.07339,CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges,2024,
+doi:10.1145/3643916.3644403,Compositional API Recommendation for Library-Oriented Code Generation,2024,
+doi:10.1109/tetc.2024.3471684,A Comparative Analysis of Software Aging in Relational Database System Environments,2024,IEEE Transactions on Emerging Topics in Computing
+arxiv:2512.22387,AI-Generated Code Is Not Reproducible (Yet): An Empirical Study of Dependency Gaps in LLM-Based Coding Agents,2025,arXiv
+arxiv:2606.13763,Do programming languages still matter to your AI coding agent teammate? Evidence at scale from chess engines,2026,arXiv (Cornell University)
+arxiv:2509.18808,SR-Eval: Evaluating LLMs on Code Generation under Stepwise Requirement Refinement,2025,arXiv (Cornell University)
+arxiv:2604.06793,Evaluating Repository-level Software Documentation via Question Answering and Feature-Driven Development,2026,arXiv (Cornell University)
+doi:10.52202/079017-3202,CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming,2024,
+doi:10.5281/zenodo.22128911,Comparing Formalizations of Law by the Decisions They Encode,2026,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.1109/ase63991.2025.00248,RealisticCodeBench: Towards More Realistic Evaluation of Large Language Models for Code Generation,2025,
+arxiv:2602.23047,CL4SE: Benchmarking Context Learning on Software Engineering,2026,arXiv (Cornell University)
+doi:10.3390/fi18090471,LLM-Assisted Porting of Security-Critical C Libraries to Idiomatic Rust: A Multi-Model Empirical Study,2026,Future Internet
+doi:10.1145/3650105.3652301,Exploring the Impact of the Output Format on the Evaluation of Large Language Models for Code Translation,2024,
+arxiv:2409.00921,Statically Contextualizing Large Language Models with Typed Holes,2024,Proceedings of the ACM on Programming Languages
+doi:10.1109/icaace69793.2026.11508786,PowerReviewer: A Knowledge-Graph Enhanced Multi-Agent Framework for Automated Code Review in Power Grid Systems,2026,2026 9th International Conference on Advanced Algorithms and Control Engineering (ICAACE)
+arxiv:2506.19724,From Reproduction to Replication: Evaluating Research Agents with Progressive Code Masking,2025,arXiv (Cornell University)
+doi:10.1109/icsme64153.2025.00041,"Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation",2025,
+doi:10.1145/3786335.3813132,DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents,2026,
+doi:10.1109/icbase70763.2026.11619461,Task-Aware Symbolic Reasoning for Automated Repository Reconstruction: A Prolog and Database Study in ACCRa,2026,2026 7th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+doi:10.1007/978-3-031-75434-0_8,SEGym: Optimizing Large Language Model Assisted Software Engineering Agents with Reinforcement Learning,2024,Lecture notes in computer science
+doi:10.5281/zenodo.20779855,When AI Becomes a Junior Programmer,2026,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.1145/3729341,Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning,2025,Proceedings of the ACM on software engineering.
+doi:10.5281/zenodo.19430533,Claude Code Extensions: Slash Commands vs. Skills vs. Agents,2026,Zenodo (CERN European Organization for Nuclear Research)
+doi:10.5281/zenodo.22767474,A Lean 4 Formalization Program Around the Yang–Mills Mass Gap — Version 54: Refined Finite-Volume Lipschitz Stability Under Remote Polymer-Activity Damping,2026,Zenodo (CERN European Organization for Nuclear Research)
+arxiv:2510.14509,E2EDev: Benchmarking Large Language Models in End-to-End Software Development Task,2025,Underline Science Inc.
+arxiv:2509.20136,V-GameGym: Visual Game Generation for Code Large Language Models,2025,arXiv
+arxiv:2506.17627,CODEMORPH: Mitigating Data Leakage in Large Language Model Assessment,2025,
+doi:10.1145/3729287,Program Skeletons for Automated Program Translation,2025,Proceedings of the ACM on Programming Languages
+doi:10.21203/rs.3.rs-10241058/v1,What Makes a Programming Problem Hard for a Language Model? An Empirical Study of Item Difficulty Across Code LLMs on Two Benchmarks,2026,Research Square
+title:automateddevelopmentenvironmentusinganagentbasedapproachandmodelcontextprotocolm,Automated development environment using an agent-based approach and Model Context Protocol (MCP),2026,Electronic Kyiv-Mohyla Academy Institutional Repository (National University of Kyiv-Mohyla Academy)
+doi:10.48448/bqj0-ak93,ArkRepoBench: A Repository-Level Code Completion Benchmark for HarmonyOS Development,2026,Underline Science Inc.
+arxiv:2609.32459,Beyond the Model: Demystifying Harness Effects in Software Engineering Agents,2026,arXiv (Cornell University)
+arxiv:2410.24198,SelfCodeAlign: Self-Alignment for Code Generation,2024,arXiv (Cornell University)

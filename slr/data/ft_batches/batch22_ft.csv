@@ -1,0 +1,11 @@
+key,ft_decision,ft_reason,tier,task,contribution,languages,evaluation,venue,note
+arxiv:2608.27906,exclude,EC3,,,,,,preprint,"RL (RCCA) for NL-to-interactive web app; output is a single extracted HTML/CSS/JS file (MiniAppBench, ArtifactsBench); single-file app rule."
+arxiv:2604.16314,include,,contextual,repo-context-gen,method,Python,reference-unit-tests,SEAMS 2026,"Runtime self-extension: GPT-4.1 generates functions integrating into existing multi-file codebases; 11 hand-made tasks, author pytest oracles; small scale."
+arxiv:2510.17925,include,,contextual,repo-context-gen,method;benchmark,Python,reference-unit-tests,preprint,"Indexing-time speculative context agent for function completion; REPOCOD (980 tasks, 11 repos) Pass@1; leakage-free synthetic repo states."
+arxiv:2604.09388,exclude,EC6,,,,,,preprint,Practitioner experience report/maturity model from single maintainer building KubeStellar Console with Claude Code; no controlled evaluation.
+arxiv:2606.03907,exclude,EC1,,,,,,ESEM 2026 (Registered Report),"Protocol only, no results; agents add stage features to scaffolded starting state; outcome is library/dependency choice, not repo generation."
+doi:10.6084/m9.figshare.32854478.v1,include,,core,nl-to-repo,method,Python,reference-unit-tests,preprint,"Peripheral; no full text. Pre-generation requirement uncertainty clarification (PULSE); main eval function-level, separate generalization finding on DevBench project-level generation."
+arxiv:2607.26937,include,,contextual,repo-context-gen,method,Python;Java;C#,reference-unit-tests;similarity,preprint,Repo context allocation for RAG; executable RepoExec (355 tasks) Pass@1 plus RepoBench recall and RepoClassBench similarity.
+doi:10.5281/zenodo.20779855,exclude,EC6,,,,,,preprint,"No full text; abstract is a one-year experience report building an ERP with Replit/Cursor; observational, no evaluation."
+doi:10.1109/iconnect56593.2023.10327087,exclude,EC8,,,,,,IConNECT 2023,"No full text; abstract: ChatGPT refactors code and builds ""simple application"" informally; task and evaluation insufficiently described."
+doi:10.1109/llm4code66737.2025.00016,include,,contextual,repo-context-gen,benchmark,C;C++,reference-unit-tests;similarity,LLM4Code 2025,"215 C/C++ functions from 4 large repos (llvm, openssl, redis, bullet3); pass@10 via repo test suites plus EM/ES."

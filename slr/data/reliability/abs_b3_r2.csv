@@ -1,0 +1,61 @@
+key,decision,reason,tier,justification
+doi:10.1109/iv64158.2025.11097480,exclude,EC0,,Fails criterion EC0
+arxiv:2508.20263,include,,core,Meets scope criteria from abstract.
+doi:10.1145/3611643.3616271,exclude,EC1,,Fails criterion EC1
+arxiv:2602.01655,include,,core,Meets scope criteria from abstract.
+arxiv:2306.10998,exclude,EC2,,Fails criterion EC2
+doi:10.1145/3728981,exclude,EC1,,Fails criterion EC1
+arxiv:2504.20115,include,,core,Meets scope criteria from abstract.
+doi:10.52202/079017-4224,exclude,EC0,,Fails criterion EC0
+doi:10.3390/s26113502,exclude,EC3,,Fails criterion EC3
+doi:10.1145/3808169,include,,core,Meets scope criteria from abstract.
+doi:10.1145/3717061,exclude,EC3,,Fails criterion EC3
+arxiv:2407.01489,exclude,EC1,,Fails criterion EC1
+arxiv:2606.22082,include,,core,Meets scope criteria from abstract.
+doi:10.1145/3674805.3690756,exclude,EC6,,Fails criterion EC6
+doi:10.5281/zenodo.19672909,exclude,EC10,,Fails criterion EC10
+arxiv:2510.19644,exclude,EC2,,Fails criterion EC2
+doi:10.1109/tse.2025.3612251,exclude,EC3,,Fails criterion EC3
+doi:10.1145/3786181.3788723,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1145/3796522,exclude,EC6,,Fails criterion EC6
+arxiv:2509.03310,include,,core,Meets scope criteria from abstract.
+arxiv:arXi,exclude,EC10,,Fails criterion EC10
+doi:10.1145/3772318.3791260,exclude,EC0,,Fails criterion EC0
+arxiv:2603.03194,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1007/s10515-025-00544-2,exclude,EC6,,Fails criterion EC6
+doi:10.1145/3729315,include,,core,Meets scope criteria from abstract.
+doi:10.1109/cloudsummit68932.2026.00021,exclude,EC1,,Fails criterion EC1
+arxiv:2412.01769,include,,core,Meets scope criteria from abstract.
+doi:10.1007/s10515-024-00419-y,exclude,EC5,,Fails criterion EC5
+doi:10.1109/exp.at2565440.2025.11348476,exclude,EC0,,Fails criterion EC0
+arxiv:2404.00599,include,,contextual,Meets scope criteria from abstract.
+arxiv:2606.03907,exclude,EC6,,Fails criterion EC6
+doi:10.5281/zenodo.19338239,exclude,EC10,,Fails criterion EC10
+arxiv:2508.02998,include,,contextual,Meets scope criteria from abstract.
+doi:10.1145/3786175.3788345,exclude,EC2,,Fails criterion EC2
+doi:10.22214/ijraset.2026.82571,exclude,EC0,,Fails criterion EC0
+arxiv:2407.07472,exclude,EC3,,Fails criterion EC3
+doi:10.1109/icsme58944.2024.00061,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.2139/ssrn.5381820,exclude,EC0,,Fails criterion EC0
+doi:10.47392/irjaem.2026.0294,exclude,EC8,,Fails criterion EC8
+doi:10.55056/ceur-ws.org/vol-4164/paper13.pdf,exclude,EC4,,Fails criterion EC4
+arxiv:2511.03404,include,,core,Meets scope criteria from abstract.
+arxiv:2503.06680,exclude,EC1,,Fails criterion EC1
+doi:10.1145/3794763.3794813,exclude,EC0,,Fails criterion EC0
+doi:10.1007/s11101-024-10009-1,exclude,EC0,,Fails criterion EC0
+doi:10.1007/s11432-025-4632-8,exclude,EC3,,Fails criterion EC3
+doi:10.1145/3737696,exclude,EC6,,Fails criterion EC6
+doi:10.1109/saner64311.2025.00065,exclude,EC0,,Fails criterion EC0
+arxiv:2608.04783,exclude,EC4,,Fails criterion EC4
+arxiv:2606.19988,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.56902/etdcrp.2026.69,exclude,EC6,,Fails criterion EC6
+arxiv:2410.00752,exclude,EC4,,Fails criterion EC4
+doi:10.1145/3691620.3695299,exclude,EC2,,Fails criterion EC2
+doi:10.1109/southeastcon63549.2026.11476670,exclude,EC3,,Fails criterion EC3
+doi:10.2139/ssrn.6387100,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1007/978-3-032-00828-2_16,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1145/3816024,exclude,EC3,,Fails criterion EC3
+doi:10.1007/978-3-032-07612-0_24,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1109/ase63991.2025.00020,exclude,EC2,,Fails criterion EC2
+doi:10.1109/ase63991.2025.00051,unsure,,,Plausibly in scope; abstract does not settle it.
+doi:10.1007/978-3-031-56957-9_7,exclude,EC3,,Fails criterion EC3

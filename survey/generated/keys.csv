@@ -1,0 +1,176 @@
+short,bibkey,tier,task,key
+BioCoder,BioCoder2023,contextual,repo-context-gen,arxiv:2308.16458
+CoderEval,CoderEval2023,contextual,repo-context-gen,arxiv:2302.00288
+RepoCoder,RepoCoder2023,contextual,repo-context-gen,arxiv:2303.12570
+CARD,CARD2024,contextual,repo-context-gen,arxiv:2406.10263
+REPOCOD,REPOCOD2024,contextual,repo-context-gen,arxiv:2410.21647
+CatCoder,CatCoder2024,contextual,repo-context-gen,arxiv:2406.03283
+RepoClassBench,RepoClassBench2024,contextual,repo-context-gen,arxiv:2405.01573
+CodeAgent,CodeAgent2024,contextual,repo-context-gen,arxiv:2401.07339
+CodeRAG-Bench,CodeRAGBench2024,contextual,repo-context-gen,arxiv:2406.14497
+CoderUJB,CoderUJB2024,contextual,repo-context-gen,doi:10.1145/3650212.3652115
+Codev-Bench,CodevBench2024,contextual,repo-context-gen,arxiv:2410.01353
+DevEval,DevEval2024,contextual,repo-context-gen,arxiv:2405.19856
+EvoCodeBench,EvoCodeBench2024,contextual,repo-context-gen,arxiv:2410.22821
+ExecRepoBench,ExecRepoBench2024,contextual,repo-context-gen,arxiv:2412.11990
+HumanEvo,HumanEvo2024,contextual,repo-context-gen,arxiv:2406.06918
+HyperAgent,HyperAgent2024,contextual,repo-context-gen,arxiv:2409.16299
+CoCoGen,CoCoGen2024,contextual,repo-context-gen,arxiv:2403.16792
+LLM Hallucinations in Practical Code Generation,LLMHallucinationsinPract2024,contextual,repo-context-gen,arxiv:2409.20550
+RepoExec,RepoExec2024,contextual,repo-context-gen,arxiv:2406.11927
+Repoformer,Repoformer2024,contextual,repo-context-gen,arxiv:2403.10059
+REPOFORGE,REPOFORGE2024,contextual,repo-context-gen,doi:10.5281/zenodo.21157035
+Typed Holes / ChatLSP,TypedHolesChatLSP2024,contextual,repo-context-gen,arxiv:2409.00921
+ToolGen,ToolGen2024,contextual,repo-context-gen,arxiv:2401.06391
+ObfusEval,ObfusEval2024,contextual,repo-context-gen,arxiv:2412.08109
+CCCI,CCCI2025,contextual,repo-context-gen,arxiv:2503.23231
+CECoder,CECoder2025,contextual,repo-context-gen,doi:10.1109/issrew67781.2025.00051
+CodeIF-Bench,CodeIFBench2025,contextual,repo-context-gen,arxiv:2503.22688
+CodexGraph,CodexGraph2025,contextual,repo-context-gen,doi:10.18653/v1/2025.naacl-long.7
+ASML Case Study,ASMLCaseStudy2025,contextual,repo-context-gen,doi:10.1109/ase63991.2025.00287
+FastCoder,FastCoder2025,contextual,repo-context-gen,arxiv:2502.17139
+AutoExperiment,AutoExperiment2025,contextual,repo-context-gen,arxiv:2506.19724
+GRACG,GRACG2025,contextual,repo-context-gen,doi:10.1109/asew67777.2025.00060
+GraphCodeAgent,GraphCodeAgent2025,contextual,repo-context-gen,arxiv:2504.10046
+KG-RepoGen,KGRepoGen2025,contextual,repo-context-gen,arxiv:2505.14394
+LAIL,LAIL2025,contextual,repo-context-gen,doi:10.1145/3715908
+MRG-Bench,MRGBench2025,contextual,repo-context-gen,arxiv:2508.02998
+RepoMasterEval,RepoMasterEval2025,contextual,repo-context-gen,doi:10.1109/ase63991.2025.00304
+RepoST,RepoST2025,contextual,repo-context-gen,arxiv:2503.07358
+RepoScope,RepoScope2025,contextual,repo-context-gen,arxiv:2507.14791
+RustRepoTrans,RustRepoTrans2025,contextual,repo-context-gen,doi:10.1109/ase63991.2025.00057
+SR-Eval,SREval2025,contextual,repo-context-gen,arxiv:2509.18808
+SecRepoBench,SecRepoBench2025,contextual,repo-context-gen,arxiv:2504.21205
+SolContractEval,SolContractEval2025,contextual,repo-context-gen,doi:10.1109/ase63991.2025.00235
+SolEval,SolEval2025,contextual,repo-context-gen,doi:10.18653/v1/2025.emnlp-main.218
+SpecAgent,SpecAgent2025,contextual,repo-context-gen,arxiv:2510.17925
+Wenwang,Wenwang2025,contextual,repo-context-gen,doi:10.1145/3725213
+What Makes ICL Examples Effective,WhatMakesICLExamplesEffe2025,contextual,repo-context-gen,arxiv:2508.06414
+AllianceCoder,AllianceCoder2025,contextual,repo-context-gen,arxiv:2503.20589
+YABLoCo,YABLoCo2025,contextual,repo-context-gen,doi:10.1109/llm4code66737.2025.00016
+Dynamic Eval,DynamicEval2026,contextual,repo-context-gen,doi:10.1109/aitest70988.2026.00019
+ABC-Bench,ABCBench2026,contextual,repo-context-gen,arxiv:2601.11077
+ACTOR,ACTOR2026,contextual,repo-context-gen,arxiv:2609.01601
+OpenCoder,OpenCoder2026,contextual,repo-context-gen,arxiv:2607.24884
+RUCCE / RUCACoder,RUCCERUCACoder2026,contextual,repo-context-gen,doi:10.1145/3805712.3808589
+ChainBench,ChainBench2026,contextual,repo-context-gen,doi:10.5281/zenodo.20265206
+CodeMEM,CodeMEM2026,contextual,repo-context-gen,arxiv:2601.02868
+Hydra,Hydra2026,contextual,repo-context-gen,arxiv:2602.11671
+DyRetriever,DyRetriever2026,contextual,repo-context-gen,arxiv:2608.01927
+FeatLens,FeatLens2026,contextual,repo-context-gen,arxiv:2609.26480
+Generative Compilation,GenerativeCompilation2026,contextual,repo-context-gen,arxiv:2607.13921
+KoCo-Bench,KoCoBench2026,contextual,repo-context-gen,arxiv:2601.13240
+MRCoder,MRCoder2026,contextual,repo-context-gen,arxiv:2607.26805
+PlayCoder,PlayCoder2026,contextual,repo-context-gen,arxiv:2604.19742
+ProjAgent,ProjAgent2026,contextual,repo-context-gen,arxiv:2607.08691
+ReCUBE,ReCUBE2026,contextual,repo-context-gen,arxiv:2603.25770
+RealSec-bench,RealSecbench2026,contextual,repo-context-gen,arxiv:2601.22706
+RepoMind,RepoMind2026,contextual,repo-context-gen,doi:10.1145/3794763.3794823
+SelfEvolve,SelfEvolve2026,contextual,repo-context-gen,arxiv:2604.16314
+SolAgent,SolAgent2026,contextual,repo-context-gen,arxiv:2601.23009
+TDD-Agent,TDDAgent2026,contextual,repo-context-gen,arxiv:2608.16742
+TICoder,TICoder2026,contextual,repo-context-gen,arxiv:2606.08135
+VITAL-RAG,VITALRAG2026,contextual,repo-context-gen,arxiv:2607.26937
+Flutter-ChatGPT,FlutterChatGPT2023,core,nl-to-app,doi:10.1109/c358072.2023.10436306
+MetaGPT,MetaGPT2023,core,nl-to-app,arxiv:2308.00352
+Qt-FrameworkGen,QtFrameworkGen2024,core,nl-to-app,doi:10.54254/2755-2721/2025.18277
+AlphaTrans,AlphaTrans2024,core,repo-translation,arxiv:2410.24117
+ChatDev,ChatDev2024,core,nl-to-app,doi:10.18653/v1/2024.acl-long.810
+CodeS,CodeS2024,core,nl-to-repo,arxiv:2403.16443
+Commit0,Commit02024,core,skeleton-to-library,arxiv:2412.01769
+Co-Learning,CoLearning2024,core,nl-to-app,doi:10.18653/v1/2024.acl-long.305
+JavaBench,JavaBench2024,core,skeleton-to-library,arxiv:2406.12902
+MaCTG,MaCTG2024,core,nl-to-repo,arxiv:2410.19245
+RepoTransBench,RepoTransBench2024,core,repo-translation,arxiv:2412.17744
+Tymcrat,Tymcrat2024,core,repo-translation,doi:10.1007/s10664-024-10573-2
+CloudMAS,CloudMAS2025,core,nl-to-app,doi:10.1145/3795154.3795362
+ReproGap,ReproGap2025,core,nl-to-repo,arxiv:2512.22387
+TRAM,TRAM2025,core,repo-translation,arxiv:2511.21878
+AgileCoder,AgileCoder2025,core,nl-to-repo,doi:10.1109/forge66646.2025.00026
+AppForge,AppForge2025,core,nl-to-app,arxiv:2510.07740
+Athena,Athena2025,core,nl-to-app,arxiv:2508.20263
+AADF,AADF2025,core,nl-to-app,doi:10.1109/times-icon67125.2025.11488122
+TDDev,TDDev2025,core,nl-to-app,arxiv:2509.25297
+E2EDevBench,E2EDevBench2025,core,nl-to-repo,arxiv:2511.04064
+MultiAgent-FrontEnd,MultiAgentFrontEnd2025,core,nl-to-app,doi:10.1145/3793302.3793371
+CRUST-Bench,CRUSTBench2025,core,repo-translation,arxiv:2504.15254
+TransGraph,TransGraph2025,core,repo-translation,doi:10.24963/ijcai.2025/848
+E2EDev,E2EDev2025,core,nl-to-app,arxiv:2510.14509
+Echo,Echo2025,core,nl-to-app,doi:10.5281/zenodo.17841335
+AgileGen,AgileGen2025,core,nl-to-app,doi:10.1145/3702987
+ProcessMAS,ProcessMAS2025,core,nl-to-app,arxiv:2509.13942
+EvoC2Rust,EvoC2Rust2025,core,repo-translation,arxiv:2508.04295
+EvoGit,EvoGit2025,core,nl-to-app,arxiv:2506.02049
+CBA User Study,CBAUserStudy2025,core,nl-to-repo,arxiv:2508.07966
+Prompt-to-Product,PrompttoProduct2025,core,nl-to-app,arxiv:2512.18080
+User Stories to Production Code,UserStoriestoProductionC2025,core,nl-to-repo,doi:10.2139/ssrn.6738341
+AgingGen,AgingGen2025,core,nl-to-app,arxiv:2510.24188
+NL2Repo-Bench,NL2RepoBench2025,core,nl-to-repo,arxiv:2512.12730
+PaperBench,PaperBench2025,core,paper-to-repo,arxiv:2504.01848
+ParEval-Repo,ParEvalRepo2025,core,repo-translation,arxiv:2506.20938
+DbC Constraints,DbCConstraints2025,core,skeleton-to-library,doi:10.1109/access.2025.3625819
+ProjectEval,ProjectEval2025,core,nl-to-app,arxiv:2503.07010
+RPG/ZeroRepo,RPGZeroRepo2025,core,nl-to-repo,arxiv:2509.16198
+RealBench,RealBench2025,core,nl-to-repo,arxiv:2604.22659
+RustAssure,RustAssure2025,core,repo-translation,doi:10.1109/ase63991.2025.00051
+Oxidizer,Oxidizer2025,core,repo-translation,doi:10.1145/3729315
+Skeleton-Guided-Translation,SkeletonGuidedTranslatio2025,core,repo-translation,arxiv:2501.16050
+Spec2Code,Spec2Code2025,core,nl-to-app,doi:10.24433/co.6120886.v1
+EvoDev,EvoDev2025,core,nl-to-app,arxiv:2511.02399
+ProjectGen,ProjectGen2025,core,nl-to-repo,arxiv:2511.03404
+SWE-Playground,SWEPlayground2025,core,skeleton-to-library,arxiv:2512.12216
+WebGen-Agent,WebGenAgent2025,core,nl-to-app,arxiv:2509.22644
+WebGen-Bench,WebGenBench2025,core,nl-to-app,arxiv:2505.03733
+RealDevWorld,RealDevWorld2025,core,nl-to-app,arxiv:2508.14104
+app.build,appbuild2025,core,nl-to-app,arxiv:2509.03310
+Role-Based MA Eval,RoleBasedMAEval2026,core,nl-to-repo,arxiv:2607.04212
+AutoP2C,AutoP2C2026,core,paper-to-repo,doi:10.1109/icassp55912.2026.11462205
+BUILD-AND-FIND,BUILDANDFIND2026,core,nl-to-repo,arxiv:2605.06136
+Cursor Design Issues,CursorDesignIssues2026,core,nl-to-app,arxiv:2604.06373
+NanoHarness,NanoHarness2026,core,behavioral-reconstruction,arxiv:2609.32459
+BeyondSWE,BeyondSWE2026,core,nl-to-repo,arxiv:2603.03194
+OOD PureAI,OODPureAI2026,core,nl-to-app,arxiv:2605.19901
+CodeSpec,CodeSpec2026,core,nl-to-repo,arxiv:2607.26777
+CodeTeam,CodeTeam2026,core,nl-to-repo,arxiv:2606.22082
+CITL,CITL2026,core,nl-to-repo,doi:10.5281/zenodo.22769026
+DeNovoSWE,DeNovoSWE2026,core,nl-to-repo,arxiv:2606.10728
+DeepRepro,DeepRepro2026,core,paper-to-repo,arxiv:2608.26557
+Devonix,Devonix2026,core,nl-to-app,doi:10.1109/iccmc69250.2026.11624731
+ChessEngines-PL,ChessEnginesPL2026,core,nl-to-repo,arxiv:2606.13763
+ECAT,ECAT2026,core,repo-translation,arxiv:2608.09273
+CLI-Tool-Bench,CLIToolBench2026,core,nl-to-repo,arxiv:2604.06742
+PROOF,PROOF2026,core,behavioral-reconstruction,arxiv:2609.06383
+TDDev,TDDev2026,core,nl-to-app,arxiv:2605.17242
+BAEs,BAEs2026,core,nl-to-repo,doi:10.1145/3786167.3788408
+HCAG,HCAG2026,core,nl-to-repo,arxiv:2603.20299
+HiRAS,HiRAS2026,core,paper-to-repo,arxiv:2604.17745
+CodeCraft,CodeCraft2026,core,nl-to-app,doi:10.20944/preprints202608.1294.v1
+JamBench / JamSet,JamBenchJamSet2026,core,nl-to-app,arxiv:2606.19830
+KGMACG,KGMACG2026,core,nl-to-repo,doi:10.1145/3842390
+cJSON→Rust Porting,cJSONRustPorting2026,core,repo-translation,doi:10.3390/fi18090471
+MindForge,MindForge2026,core,behavioral-reconstruction,arxiv:2607.27146
+PaperCompiler,PaperCompiler2026,core,paper-to-repo,arxiv:2609.02272
+LiveCoder,LiveCoder2026,core,nl-to-repo,arxiv:2604.03632
+ProgramBench,ProgramBench2026,core,behavioral-reconstruction,arxiv:2605.03546
+ProjDevBench,ProjDevBench2026,core,nl-to-repo,arxiv:2602.01655
+ReCodeAgent,ReCodeAgent2026,core,repo-translation,arxiv:2604.07341
+ReactGH200,ReactGH2002026,core,nl-to-app,arxiv:2604.17187
+Repo0,Repo02026,core,nl-to-repo,arxiv:2608.19854
+RepoGenesis,RepoGenesis2026,core,nl-to-app,arxiv:2601.13943
+RepoMod-Bench,RepoModBench2026,core,repo-translation,arxiv:2602.22518
+RepoZero,RepoZero2026,core,behavioral-reconstruction,arxiv:2605.07122
+SWE Refactor Bench,SWERefactorBench2026,core,repo-translation,arxiv:2608.23564
+SaaSBench,SaaSBench2026,core,nl-to-app,arxiv:2605.17526
+SpecFirst,SpecFirst2026,core,behavioral-reconstruction,arxiv:2607.27167
+EnvGraph,EnvGraph2026,core,nl-to-repo,arxiv:2604.03622
+RAL-Bench,RALBench2026,core,nl-to-repo,arxiv:2602.03462
+TraceDev,TraceDev2026,core,nl-to-repo,arxiv:2607.18886
+SPDDWL,SPDDWL2026,core,nl-to-repo,arxiv:2605.26017
+UI2App,UI2App2026,core,nl-to-app,arxiv:2607.06306
+Vero,Vero2026,core,skeleton-to-library,arxiv:2608.13522
+Vibe Code Bench,VibeCodeBench2026,core,nl-to-app,arxiv:2603.04601
+VibeServe,VibeServe2026,core,other,arxiv:2605.06068
+FullstackGen-GPT5,FullstackGenGPT52026,core,nl-to-app,doi:10.1109/csecs69124.2026.11541607
+WebCraftBench,WebCraftBench2026,core,nl-to-app,arxiv:2609.15387
+WebDesignIter,WebDesignIter2026,core,nl-to-app,arxiv:2607.10621
+WebGen-R1,WebGenR12026,core,nl-to-app,arxiv:2604.20398

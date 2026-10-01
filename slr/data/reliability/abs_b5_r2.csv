@@ -1,0 +1,61 @@
+key,decision,reason,tier,justification
+doi:10.3390/bdcc10090313,exclude,EC3,,isolated function logic auditing
+doi:10.1145/3728941,unsure,,,"TS/JS library to ArkTS porting; abstract truncated, likely whole-library translation"
+doi:10.55041/isjem07720,unsure,,,Multi-agent frontend app generation; may be single-file apps; weak evaluation
+arxiv:2603.00897,include,,core,Runnable web-app benchmark with functional and security tests
+doi:10.24433/co.6120886.v1,unsure,,,Spec-to-deployment framework; evaluation rigor unclear
+arxiv:2605.19901,unsure,,,"LLM-generated multi-class Java projects; measured by design metrics, not tests"
+arxiv:2606.16244,exclude,EC3,,"Task-level secure generation, no repository"
+doi:10.1109/icse-companion66252.2025.00045,exclude,EC6,,PhD thesis proposal
+arxiv:2409.20550,include,,contextual,Repo-level generation hallucination empirical study
+doi:10.1109/tse.2025.3570680,exclude,EC3,,"Attention KV cache method, isolated generation"
+doi:10.1007/978-981-95-7078-2_43,unsure,,,Repo-level completion RAG; no abstract; tests unknown
+doi:10.5281/zenodo.21100657,unsure,,,Repo context compression for generation; no abstract
+doi:10.1145/3639476,exclude,EC0,,"ML concept drift, off-topic"
+doi:10.2139/ssrn.5353252,exclude,EC6,,Developer perspectives on licensing; not generation
+doi:10.1145/3660810,exclude,EC3,,Requirement clarification for isolated functions
+doi:10.2139/ssrn.6295236,unsure,,,UI code generation; no abstract; scope unclear
+arxiv:2604.09388,exclude,EC6,,Maturity model and experience report
+arxiv:2605.17242,include,,core,Full-stack web app generation from requirements with TDD study
+arxiv:2605.26548,exclude,EC4,,"Vulnerability PoC generation, not repository code"
+doi:10.1007/s10664-025-10762-7,unsure,,,Repo-level completion; no abstract; evaluation unknown
+doi:10.1109/ase63991.2025.00028,exclude,EC3,,"Single webpage generation, automatic/human metrics"
+doi:10.1016/j.future.2025.108318,exclude,EC0,,JavaScript deobfuscation
+arxiv:2502.18793,include,,contextual,Repo-level Solidity benchmark with executed tests
+arxiv:2503.23231,exclude,EC2,,"Completion of Java snippets, similarity-type evaluation"
+doi:10.1145/3770855.3817576,exclude,EC0,,Bioinformatics tool-use benchmark
+doi:10.18653/v1/2022.findings-acl.2,exclude,EC3,,"Compilable generation, isolated, pre-LLM style"
+arxiv:2302.00288,include,,contextual,Non-standalone function benchmark with tests from real projects
+arxiv:2509.13942,include,,core,Multi-agent generation of 11 projects under process models
+arxiv:2605.06136,include,,core,Agent builds repository from spec; evaluated on repo quality
+arxiv:2309.16609,exclude,EC0,,General LLM technical report
+arxiv:2508.18106,include,,contextual,Repository-level secure code generation benchmark with executed checks
+arxiv:2604.26923,exclude,EC3,,Class-level isolated generation
+doi:10.1109/meco70748.2026.11579021,exclude,EC0,,Traceability knowledge graphs; no abstract
+arxiv:2511.18274,unsure,,,LLM generates intervention software; multi-file status and tests unclear
+doi:10.1016/j.eswa.2026.134396,unsure,,,Multi-agent code generation; no abstract; scope unclear
+doi:10.1109/icse55347.2025.00108,exclude,EC3,,Prompting for isolated programming problems
+doi:10.1109/tai.2023.3318183,exclude,EC6,,Survey on ChatGPT ethics in SE research
+doi:10.1109/iaict71158.2026.11620682,unsure,,,REST API code generation; no abstract
+doi:10.1109/ase63991.2025.00315,exclude,EC4,,"Code review, not code generation"
+doi:10.1109/ijcnn60899.2024.10650776,exclude,EC4,,Code summarization
+arxiv:2412.17744,include,,core,Repository-level translation benchmark with executable tests
+doi:10.18653/v1/2025.naacl-long.7,unsure,,,Repo graph retrieval; abstract absent; tests unclear
+arxiv:2604.00594,exclude,EC1,,Predicting agent success on issue-style tasks
+doi:10.1109/icsme64153.2025.00069,exclude,EC3,,"C-to-Rust snippet translation, not whole repository"
+doi:10.1371/journal.pone.0270595,exclude,EC0,,Clinical NLP classification
+doi:10.1186/s12967-026-08829-0,exclude,EC0,,Pathology agent review
+doi:10.18653/v1/2024.acl-long.367,exclude,EC3,,Competitive programming multitask benchmark
+doi:10.1109/cict67193.2025.11399205,exclude,EC6,,Survey-style overview of multi-agent frameworks
+arxiv:2211.15533,exclude,EC10,,Source code dataset for pretraining
+doi:10.1109/ipccc66453.2025.11304661,exclude,EC3,,Competitive programming prompts
+doi:10.1109/saner64311.2025.00068,exclude,EC1,,Issue-resolution patches evaluation
+arxiv:2308.00352,include,,core,Multi-agent SOP framework generating software projects
+doi:10.1109/forge66646.2025.00012,exclude,EC3,,"LeetCode energy efficiency, isolated"
+arxiv:2511.02399,include,,core,Iterative multi-agent end-to-end software development
+doi:10.1109/smc58881.2025.11343579,exclude,EC0,,Defect prediction
+arxiv:2606.31159,unsure,,,Calibration study with repo-level benchmark; tests unclear
+doi:10.1145/3805712.3808589,include,,contextual,Repository-usage generation benchmark with execution-verified scripts
+doi:10.1145/3639478.3641226,exclude,EC3,,File-level translation with decomposition
+arxiv:2607.08691,include,,contextual,Repo-level function generation with cross-file context
+arxiv:2509.22237,exclude,EC1,,Feature implementation in existing repositories

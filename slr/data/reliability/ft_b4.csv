@@ -1,0 +1,26 @@
+key,title,fulltext_path
+arxiv:2607.06306,UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation,slr/data/fulltext/arxiv_2607.06306.txt
+arxiv:2312.05772,"A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware",slr/data/fulltext/arxiv_2312.05772.txt
+arxiv:2606.05720,Microskill Architecture: A Modular Skill-Driven Framework for AI-Native Code Generation,slr/data/fulltext/arxiv_2606.05720.txt
+arxiv:2605.14478,When Retrieval Hurts Code Completion: A Diagnostic Study of Stale Repository Context,slr/data/fulltext/arxiv_2605.14478.txt
+arxiv:2603.11073,Context Before Code: An Experience Report on Vibe Coding in Practice,slr/data/fulltext/arxiv_2603.11073.txt
+doi:10.1109/icassp55912.2026.11463415,SimulatorCoder: DNN Accelerator Simulator Code Generation and Optimization Via Large Language Models,slr/data/fulltext/doi_10.1109_icassp55912.2026.11463415.txt
+arxiv:2603.20299,HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs,slr/data/fulltext/arxiv_2603.20299.txt
+arxiv:2606.27045,"The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development",slr/data/fulltext/arxiv_2606.27045.txt
+arxiv:2311.09835,ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code,slr/data/fulltext/arxiv_2311.09835.txt
+arxiv:2402.03630,Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context,slr/data/fulltext/arxiv_2402.03630.txt
+arxiv:2609.24348,A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach,slr/data/fulltext/arxiv_2609.24348.txt
+arxiv:2604.16314,Software Self-Extension with SelfEvolve: an Agentic Architecture for Runtime Code Generation,slr/data/fulltext/arxiv_2604.16314.txt
+doi:10.22369/issn.2153-4136/15/2/6,A Case Study for using Generative Language Models in GUI Development,slr/data/fulltext/doi_10.22369_issn.2153-4136_15_2_6.txt
+arxiv:2604.24678,Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study,slr/data/fulltext/arxiv_2604.24678.txt
+arxiv:2508.18106,A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code,slr/data/fulltext/arxiv_2508.18106.txt
+arxiv:2404.00599,EvoCodeBench: An Evolving Code Generation Benchmark Aligned with Real-World Code Repositories,slr/data/fulltext/arxiv_2404.00599.txt
+arxiv:2609.00568,WiseSpec: Requirements-Driven Agents for Code Generation,slr/data/fulltext/arxiv_2609.00568.txt
+arxiv:2602.22518,RepoMod-Bench: A Benchmark for Code Repository Modernization via Implementation-Agnostic Testing,slr/data/fulltext/arxiv_2602.22518.txt
+doi:10.55041/ijsrem63072,"Smart Developer Assistant (SDA): An AI-Driven Multi-Agent Framework for Automated Code Generation, Debugging, and Documentation",slr/data/fulltext/doi_10.55041_ijsrem63072.txt
+arxiv:2607.13921,Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code,slr/data/fulltext/arxiv_2607.13921.txt
+arxiv:2608.16742,TDD-Agent: Test-Driven Reasoning for Code Generation,slr/data/fulltext/arxiv_2608.16742.txt
+arxiv:2509.09614,LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering,slr/data/fulltext/arxiv_2509.09614.txt
+arxiv:2502.17139,FastCoder: Accelerating Repository-level Code Generation via Efficient Retrieval and Verification,slr/data/fulltext/arxiv_2502.17139.txt
+doi:10.47392/irjaem.2026.0294,Deepsite: A Next-Generation Vibe Coding Platform for Browser-Based Application Generation,slr/data/fulltext/doi_10.47392_irjaem.2026.0294.txt
+arxiv:2509.18808,SR-Eval: Evaluating LLMs on Code Generation under Stepwise Requirement Refinement,slr/data/fulltext/arxiv_2509.18808.txt
