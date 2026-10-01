@@ -58,3 +58,7 @@ Screening and extraction were carried out by LLM agents working from the written
 ## License
 
 Code is released under MIT. Data and documentation are released under CC BY 4.0. See `LICENSE`.
+
+## Contact
+
+Ilbey Gulmez, [ilbeygulmez@gmail.com](mailto:ilbeygulmez@gmail.com)
